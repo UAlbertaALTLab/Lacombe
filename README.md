@@ -16,13 +16,36 @@ The version from the Bibliothèque et Archives Nationales du Québec is by far t
 
 ## Results
 
-We obtained the following results using Tesseract 5.0.
+We obtained the following results using Tesseract 5.0. Consult the [Tesseract documentation][Tesseract] for the meaning of the various command line options.
 
-Options | Accuracy | Notes
---------|----------|------
-``        |          |
+Options    | Accuracy | Notes | Report
+-----------|---------:|-------|:-------------------------------:
+no options |   84.34% |       | [link](./reports/289-no-options.txt)
+
+## Accuracy
+
+The accuracy of the OCR results was compared against the manually-transcribed gold standard files (located in `manual/`) using the [ocreval][ocreval] library (by @eddieantonio). For each set of options, an accuracy report was produced using ocreval and saved in `reports/`. See the [ocreval user guide](./ocreval-user-guide.pdf) (specifically §2.1) for details concerning how to read the accuracy report.
+
+The first section contains general statistics:
+
+* `Characters`: The number of characters in the gold standard.
+* `Errors`: The number of character errors.
+* `Accuracy`: The overall accuracy percentage.
+
+There are 3 types of errors, summarized in the third section of the accuracy report:
+
+* `Ins`: insertion errors
+* `Subst`: substitution errors
+* `Del`: deletion errors
+
+The fourth section of the report shows accuracy by character class.
+
+The fifth section of the report lists all the errors types, sorted largest to smallest by number of times each error occurs. The number of errors of each type can be divided by the edit distance between the correct and generated forms to count the number of times this error occurred.
+
+The sixth section of the report lists each character in the gold standard, the number of times that character was missed by the OCR, and the overall accuracy for that character.
 
 <!-- LINKS -->
 
 [DaFoDiL]:   https://format.digitallinguistics.io
+[ocreval]:   https://github.com/eddieantonio/ocreval
 [Tesseract]: https://github.com/tesseract-ocr/tesseract
