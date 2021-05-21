@@ -20,7 +20,7 @@ We obtained the following results using Tesseract 5.0. Consult the [Tesseract do
 
 Options    | Accuracy | Notes | Report
 -----------|---------:|-------|:-------------------------------:
-no options |   84.34% |       | [link](./reports/289-no-options.txt)
+no options |   85.37% |       | [link](./reports/289-no-options.txt)
 
 ## Accuracy
 
@@ -43,6 +43,11 @@ The fourth section of the report shows accuracy by character class.
 The fifth section of the report lists all the errors types, sorted largest to smallest by number of times each error occurs. The number of errors of each type can be divided by the edit distance between the correct and generated forms to count the number of times this error occurred.
 
 The sixth section of the report lists each character in the gold standard, the number of times that character was missed by the OCR, and the overall accuracy for that character.
+
+## Notes on Gold Standard Transcriptions
+
+* The gold standard must have hard-coded line breaks in order to receive a reliable accuracy score when measured against the OCR output.
+* The gold standard must have hyphens whenever the original text has hyphens.
 
 <!-- LINKS -->
 
