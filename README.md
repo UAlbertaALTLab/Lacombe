@@ -1,6 +1,6 @@
 # Applying OCR to Lacombe's _Dictionnaire de la langue des Cris_ (1874)
 
-This project uses optical character recognition (OCR) to extract text from Albert S. Lacombe's (1874) _Dictionnaire de la langue des Cris_ and convert it into a useable database following the [Data Format for Digital Linguistics][DaFoDiL] (DaFoDiL).
+This project uses the optical character recognition (OCR) tool [Tesseract][Tesseract] to extract text from Albert S. Lacombe's (1874) _Dictionnaire de la langue des Cris_ and convert it into a useable database following the [Data Format for Digital Linguistics][DaFoDiL] (DaFoDiL).
 
 ## Scans
 
@@ -14,6 +14,15 @@ We have high-quality scans available from the following sources:
 
 The version from the Bibliothèque et Archives Nationales du Québec is by far the highest-quality scan available, so this is the scan we are using for the OCR process.
 
+## Results
+
+We obtained the following results using Tesseract 5.0.
+
+Options | Accuracy | Notes
+--------|----------|------
+``        |          |
+
 <!-- LINKS -->
 
-[DaFoDiL]: https://format.digitallinguistics.io
+[DaFoDiL]:   https://format.digitallinguistics.io
+[Tesseract]: https://github.com/tesseract-ocr/tesseract
