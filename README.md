@@ -18,9 +18,9 @@ The version from the Bibliothèque et Archives Nationales du Québec is by far t
 
 We obtained the following results using Tesseract 5.0. Consult the [Tesseract documentation][Tesseract] for the meaning of the various command line options.
 
-Options    | Accuracy | Notes | Report
------------|---------:|-------|:-------------------------------:
-no options |   85.37% |       | [link](./reports/289-no-options.txt)
+Options    | Accuracy | Report
+-----------|---------:|:-------------------------------:
+no options |   90.41% | [link](./reports/289-no-options.txt)
 
 ## Accuracy
 
@@ -46,8 +46,12 @@ The sixth section of the report lists each character in the gold standard, the n
 
 ## Notes on Gold Standard Transcriptions
 
-* The gold standard must have hard-coded line breaks in order to receive a reliable accuracy score when measured against the OCR output.
-* The gold standard must have hyphens whenever the original text has hyphens.
+The following conventions help improve the reliability of the accuracy report:
+
+* The gold standard must have hard-coded line breaks. Adding line breaks improved the accuracy score by 5%.
+* The gold standard must have hyphens whenever the original text has hyphens. (These were added with the line breaks.)
+* The gold standard must be NFC normalized. (This was already done in @DBDacanay's original.)
+* The gold standard must have leading guillemets (`«`) and/or crosses (`x`). Adding these improved the accuracy score by 2.09%.
 
 <!-- LINKS -->
 
