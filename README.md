@@ -6,11 +6,13 @@ This project uses optical character recognition (OCR) to extract text from Alber
 
 We have high-quality scans available from the following sources:
 
-* [John Carter Brown Library](https://archive.org/details/dictionnairedela01laco) (color; `Carter.pdf`)
-* U.S. Library of Congress (`LOC.pdf`)
-* [Oxford](https://archive.org/details/dictionnairedel00lacogoog) (B&W, from microfilm; `Oxford.pdf`)
-* [Bibliothèque et Archives Nationales du Québec](https://numerique.banq.qc.ca/patrimoine/details/52327/3994014) (`Quebec.pdf`)
+* [John Carter Brown Library](https://archive.org/details/dictionnairedela01laco) (color; 98 MB; `Carter.pdf`)
+* U.S. Library of Congress (83 MB; `LOC.pdf`)
+* [Oxford](https://archive.org/details/dictionnairedel00lacogoog) (B&W, from microfilm; 44 MB; `Oxford.pdf`)
+* [Bibliothèque et Archives Nationales du Québec](https://numerique.banq.qc.ca/patrimoine/details/52327/3994014) (915 MB; `Quebec.pdf`)
 * [Peel Library](https://drive.google.com/drive/folders/1AtauHmz8qh_Bfp0YvyZsGhb9IioeiTSl) (individual pages, B&W, from microfilm, .tif format; `Peel.pdf`)
+
+The version from the Bibliothèque et Archives Nationales du Québec is by far the highest-quality scan available, so this is the scan we are using for the OCR process.
 
 <!-- LINKS -->
 
