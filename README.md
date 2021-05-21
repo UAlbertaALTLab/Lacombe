@@ -16,7 +16,7 @@ The version from the Bibliothèque et Archives Nationales du Québec is by far t
 
 ## Results
 
-We obtained the following results using Tesseract 5.0. Consult the [Tesseract documentation][Tesseract] for the meaning of the various command line options.
+We obtained the following results using Tesseract 5.0. Consult the [Tesseract documentation][Tesseract] for the meaning of the various command line options. Click the **link** in the **Report** column to see the accuracy report for that particular set of Tesseract options.
 
 Options    | Accuracy | Report
 -----------|---------:|:-------------------------------:
