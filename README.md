@@ -12,15 +12,34 @@ We have high-quality scans available from the following sources:
 * [Bibliothèque et Archives Nationales du Québec](https://numerique.banq.qc.ca/patrimoine/details/52327/3994014) (915 MB; `Quebec.pdf`)
 * [Peel Library](https://drive.google.com/drive/folders/1AtauHmz8qh_Bfp0YvyZsGhb9IioeiTSl) (individual pages, B&W, from microfilm, .tif format; `Peel.pdf`)
 
-The version from the Bibliothèque et Archives Nationales du Québec is by far the highest-quality scan available, so this is the scan we are using for the OCR process.
+## Text Versions
 
-## Results
+Aside from the OCR'd text version of Lacombe that we ourselves are producing, the following text versions also exist for the Lacombe dictionary. All of these are located in the `OCR/` folder.
 
-We obtained the following results using Tesseract 5.0. Consult the [Tesseract documentation][Tesseract] for the meaning of the various command line options. Click the **link** in the **Report** column to see the accuracy report for that particular set of Tesseract options.
+* [John Carter Brown Library](./OCR/Brown.txt)
+* [U.S. Library of Congress](./OCR/LOC.txt)
+* [Oxford](./OCR/Oxford.txt)
+* [Peel](./OCR/Peel.txt)
+
+The version from the Bibliothèque et Archives Nationales du Québec is by far the highest-quality scan available, so this is the scan we are using for our own OCR process.
+
+## OCR Results
+
+This section discusses the results we achieved from running Tesseract on the Quebec scans ourselves.
+
+We obtained the following results using Tesseract 5.0. Consult the [Tesseract documentation][Tesseract] for the meaning of the various command line options. Click the **link** in the **Report** column to see the accuracy report for that particular set of Tesseract options. See the [Accuracy](#accuracy) section below for more details on how to read the accuracy reports.
 
 Options    | Accuracy | Report
 -----------|---------:|:-------------------------------:
 no options |   90.41% | [link](./reports/289-no-options.txt)
+
+## Comparing OCR Outputs
+
+This section compares the OCR text outputs for the different scans.
+
+It was decided up front that the text version of the Oxford scans is too poor quality to be usable:
+
+> for some reason or another, large sections of some pages seem to be missing, or at least thrown out of order in a such a way as to make them almost impossible to find, a fact not helped by the generally poor quality of the text. In any case, I made the judgement that if it was this difficult to even distinguish pages in the Oxford OCR, it was probably reasonable to assume that its contents cannot be used. (@DBDacanay)
 
 ## Accuracy
 
