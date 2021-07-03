@@ -46,7 +46,7 @@ We obtained the following results using Tesseract 5.0. Consult the [Tesseract do
 
 Options    | Accuracy | Report
 -----------|---------:|:-------------------------------:
-no options |   90.41% | [link](./reports/no-options.txt)
+no options |   90.41% | [link](./OCR/Quebec/reports/no-options.txt)
 
 ## Comparing OCR Outputs
 
@@ -56,15 +56,15 @@ It was decided up front that the text version of the Oxford scans is too poor qu
 
 > for some reason or another, large sections of some pages seem to be missing, or at least thrown out of order in a such a way as to make them almost impossible to find, a fact not helped by the generally poor quality of the text. In any case, I made the judgement that if it was this difficult to even distinguish pages in the Oxford OCR, it was probably reasonable to assume that its contents cannot be used. (@DBDacanay)
 
-Source | Accuracy | Report
--------|---------:|:-----:
-Brown  |          |
-LOC    |          |
-Peel   |          |
+Source | Accuracy |               Report
+-------|---------:|:---------------------------------:
+Brown  |   85.86% | [report](./OCR/Brown/accuracy.txt)
+LOC    |   87.96% |  [report](./OCR/LOC/accuracy.txt)
+Peel   |   60.79% | [report](./OCR/Peel/accuracy.txt)
 
 ## Calculating OCR Accuracy
 
-The accuracy of the OCR results was compared against the manually-transcribed gold standard files (located in `OCR/standard/`) using the [ocreval][ocreval] library (by @eddieantonio). For each set of options, an accuracy report was produced using ocreval and saved in `reports/`. See the [ocreval user guide](./ocreval-user-guide.pdf) (specifically §2.1) for details concerning how to read the accuracy report.
+The accuracy of the OCR results was compared against the manually-transcribed gold standard files (located in `OCR/standard/`) using the [ocreval][ocreval] library (by @eddieantonio). For each set of options, an accuracy report was produced using ocreval and saved in `OCR/Quebec/reports/`. See the [ocreval user guide](./ocreval-user-guide.pdf) (specifically §2.1) for details concerning how to read the accuracy report.
 
 To run the accuracy report, first install [ocreval][ocreval]. Then run the following command:
 
@@ -82,7 +82,7 @@ To combine multiple pages of OCR output or gold standard together for aggregated
 
 `node lib/stitch.js <directory> <outfile>`
 
-You can also stitch both the `OCR/standard/` and `OCR/Quebec/` folders with a single command, `npm run stitch`. This will create `output.txt` and `standard.txt` files in the project root.
+You can also stitch both the `OCR/standard/sample/` and `OCR/Quebec/sample` folders with a single command, `npm run stitch`. This will create `OCR/standard/sample.txt` and `OCR/Quebec/sample.txt` files for comparison.
 
 Finally, you can run ocreval on these two combined files with `npm run accuracy`. This will create an accuracy report titled `accuracy.txt` in the project root.
 

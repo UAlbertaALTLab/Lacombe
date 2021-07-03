@@ -1,0 +1,2623 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+   36749   Characters
+   14410   Errors
+   60.79%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   60.79%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+    4277     6944     3189    14410   Unmarked
+    4277     6944     3189    14410   Total
+
+   Count   Missed   %Right
+    6830     2179    68.10   ASCII Spacing Characters
+    4684     1771    62.19   ASCII Special Symbols
+     113       95    15.93   ASCII Digits
+    5809     1682    71.04   ASCII Uppercase Letters
+   18017     4838    73.15   ASCII Lowercase Letters
+     230       69    70.00   Latin1 Special Symbols
+     356      157    55.90   Latin1 Uppercase Letters
+     615      341    44.55   Latin1 Lowercase Letters
+      10        9    10.00   Latin Extended-A
+       1        1     0.00   Latin Extended Additional
+      82       77     6.10   General Punctuation
+       2        2     0.00   Currency Symbols
+   36749    11221    69.47   Total
+
+  Errors   Marked   Correct-Generated
+     284        0   {}-{beaucoup enfoncé, il es...}
+     216        0   {<\n>}-{ }
+     207        0   { }-{}
+     155        0   {}-{, ou, IYISÂTCH, malgré...}
+     117        0   {}-{er; sâsay âkwâtch kis...}
+     114        0   {}-{âkwâtch<\n>pimâ’isi...}
+     105        0   {'}-{’}
+      86        0   {}-{fondément,<\n>loin, en ...}
+      74        0   {ÂKISIMOW, ok, (v. n.) i...}-{}
+      72        0   {}-{.}
+      70        0   {<\n>}-{}
+      61        0   {}-{faudage pour faire séch...}
+      59        0   {.}-{}
+      59        0   {}-{« ÂKOTEWISIW, ok, (a. ...}
+      57        0   {`o<\n>Wi<\n>10 est<\n>K...}-{}
+      56        0   {}-{âkwâkijikaw, jour avan...}
+      52        0   {<\n>342.<\n>` sit:lrcomm...}-{}
+      47        0   {,}-{}
+      47        0   {`<\n>AMISK, wok, In.<\n>...}-{}
+      44        0   { yP PO e g - TÂREW, TCH...}-{}
+      42        0   {i | . s'abaissant, v. g....}-{«}
+      42        0   {}-{ }
+      41        0   {}-{ssi: sâsay osâm âk-...}
+      39        0   {Tusage de la parole, on ...}-{}
+      38        0   {d}-{il}
+      38        0   {g. un navire. `<\n>« PO...}-{}
+      38        0   {w}-{W}
+      37        0   { > >. v. g. un enfant qu...}-{}
+      37        0   { sesses, (ce dernier, mo...}-{}
+      37        0   {. x KÂKI, (rac.) suppli...}-{}
+      37        0   {a WÂPITEW, ok, (a. a.) ...}-{}
+      36        0   { `}-{}
+      36        0   {ä}-{â}
+      35        0   {r son mari, ell- vient l...}-{}
+      35        0   {}-{uis loin; âk-<\n>wâtch...}
+      34        0   { miyan, mon père, je vi...}-{.}
+      34        0   { | tâweyittam, dest pru...}-{}
+      34        0   {}-{ et le verbe, et il ne s...}
+      33        0   { . « KAKISIMOWIN, a, (n...}-{}
+      33        0   { o KÂKEW, TCHIREW, Ù s...}-{}
+      33        0   {.| tendre à la façon d...}-{-}
+      33        0   {MONJITTOYU W, ok.{v.r. )...}-{}
+      33        0   {f.) un précheur, un pr...}-{}
+      33        0   {| « ÂNITTawew, (v. oi ...}-{}
+      32        0   {osissân ki kâkit-<\n>j...}-{a-kettawew.<\n>KAKETTÂW...}
+      32        0   {t Mayo (nama mayo) v.: g...}-{}
+      31        0   {. . KAKETTÂWÁÂTISIW, ...}-{}
+      31        0   {}-{i, il est amoindri par l...}
+      30        0   {comme nittâwew, € a T...}-{}
+      30        0   {pe-käkitokkawew, ayani ...}-{}
+      30        0   {t ÂKWåSra wiw: (oi a.)...}-{}
+      30        0   {}-{avant, loin.<\n>« ÂKW...}
+      30        0   {« }-{}
+      29        0   { plier d'avoir pitié de...}-{}
+      29        0   { |a TEPITTIN, wa, (a. dn...}-{}
+      29        0   {a<\n>RE<\n>}-{e met toujours entre le ...}
+      29        0   {}-{: avec peine, com-<\n>me...}
+      29        0   {}-{ÂWÂN, a (n. r.) grille...}
+      28        0   { son père, kåkitjih ki...}-{nieux.<\n>KAKETTÂWATISI...}
+      28        0   {1 WÂPITEYAW, ok, a, (a....}-{}
+      28        0   {;}-{,}
+      28        0   {KÂKITOrKAwEw, (0. a.) E...}-{}
+      28        0   {Wich musiwâk tchì 'mı...}-{}
+      28        0   {}-{ÂNITTAWEW, (v. a.) TTAM...}
+      27        0   {WÂPISTIKWÂNEW, ok, (a....}-{}
+      27        0   {al) |` luienvie<\n>*MONS...}-{e.<\n>«MUSTAWINAMÂWEW,...}
+      27        0   {d<\n>}-{il }
+      27        0   {en présence de, cte., e...}-{}
+      27        0   {pu Pen servir;<\n>anakk...}-{TAM, SI-WEW, TCHIKEW, il...}
+      27        0   {totâtin kitchi kitimäk...}-{}
+      27        0   {|}-{ÂKWEKAN, wa, (a. in.) i...}
+      26        0   {. KAKETTÂWEVInEw, TTAN,...}-{}
+      26        0   {l}-{t}
+      26        0   {|<\n>z<\n>{<\n>ii<\n>H...}-{sont vos couteaux ceux-l...}
+      26        0   {}-{vancé; âkwâtch ni pim...}
+      25        0   { des bassesses, À recon...}-{}
+      24        0   {. bassesses, humiliation}-{in.<\n>KÂK<\n>«KAKESKW...}
+      24        0   {A}-{il}
+      24        0   {WIN, a, Ur. y idem, i MU}-{}
+      24        0   {ol}-{a.)}
+      24        0   {}-{,}
+      24        0   {Ù}-{il}
+      23        0   {KAKETTÂWEW, ok, (v. n)...}-{}
+      23        0   {beaucoup, en grande qua}-{AKWANÂKKWEPISUWIN, a, (}
+      23        0   {}-{N, wa, (a. in.) idem....}
+      22        0   {,}-{.}
+      22        0   {A}-{Â}
+      22        0   {KAKESKWEWIYINIW, ok, [}-{}
+      22        0   {oa.<\n>& AKWANÂKKWEswWE...}-{pimut-tew, il marche à}
+      22        0   {|ı WÂPITTAKAHIGAN, à,...}-{}
+      22        0   {Ù le couvre complète- }-{}
+      21        0   {(a.<\n>in.)<\n>(v. im)...}-{}
+      21        0   {MUSTAWEYITTAMAWE W,}-{mélange, de l’alcool.}
+      21        0   {du lac, de l'eau<\n>Cet}-{sale.<\n>WÂS<\n>«WÂPI...}
+      21        0   {émbarrassant,<\n>“qui}-{TAM, SIWEW, TCHIKEW,,}
+      20        0   {:<\n>+ MUSTCHI, (ad. et}-{le touche jus-qu’aux}
+      20        0   {<\n>`}-{}
+      20        0   {EI vant lui, en lui }-{}
+      20        0   {embarrassänt, etjil}-{ts.<\n>AKAWÂBIKKWEHWEW,}
+      20        0   {le<\n>monde.)<\n>*KAKIST...}-{ki kisiwâhât onâbema}
+      20        0   {plication humble. `<\n>}-{}
+      20        0   {usilé).<\n>KÂKITISIW, ...}-{N’otta ki pe-kâ-}
+      20        0   {| . trouve prudent, }-{}
+      20        0   {}-{ wok, (a. a.) il est}
+      20        0   {à}-{il}
+      19        0   { |‘ KÂKITOKKÂSUW, o}-{}
+      19        0   {292<\n>f.) crainte |« }-{Â}
+      19        0   {<\n>“ne sensation * * }-{}
+      19        0   {ANÂSKASUW, ok, (v. }-{o miyopimâtisiyi, a}
+      19        0   {L}-{la main vers lui.<\n>«}
+      19        0   {R}-{K}
+      19        0   {WEW, (v. ayran |<\n>« }-{}
+      19        0   {a la téte blanche. }-{}
+      19        0   {c.) ou, mu-<\n>tchi, à}-{rmes.<\n>«MOSKITJIWAN,}
+      19        0   {å}-{â}
+      18        0   { des bassesses. `,}-{}
+      18        0   {ANÂSKATrEw, (v. æ)}-{quoique ce n’était}
+      18        0   {Ca (ER<\n>HAM, HUWEW,}-{mistahi akwebisiw}
+      18        0   {V}-{v}
+      18        0   {` }-{«}
+      18        0   {le] de lièvre}-{anc.<\n>«WÂPISKWAKUP,}
+      18        0   {perdu, .quoique Je}-{lui fait des manch}
+      18        0   {}-{TCHIKEW, il est au}
+      17        0   { en bouche,<\n>le re}-{}
+      17        0   {` :<\n>« AKAWÂBIKKWE}-{qui l’embarrasse}
+      17        0   {aucoup de choses}-{.<\n>AKAWÂKKWEPITEW,}
+      17        0   {f.) couverture du}-{l’abri.<\n>AKOSIMOW,}
+      17        0   {| du lac.<\n>qui est}-{ak.<\n>«WÂPISTIKWÂN,}
+      17        0   {}-{ahwaw, je le pour}
+      17        0   {Â}-{A}
+      16        0   { .}-{}
+      16        0   { main vers lui.»}-{}
+      16        0   {(v. im.)<\n>‘blanc.}-{ou qu’on rejette}
+      16        0   {. TAKWEPASTEW, a}-{wiyak weyositji}
+      16        0   {: - o’<\n>KAKISTWEW}-{s}
+      16        0   {; anakkåtch ki<\n>w}-{lque chose par t}
+      16        0   {<\n>}-{ a.) il a assez }
+      16        0   {KÂKITO}-{kakeskikkemow.<\n>«}
+      16        0   {g., anakatchäy. }-{tapis, ou de li}
+      16        0   {mbarrassant pari}-{aucoup de choses}
+      16        0   {o,<\n>ANAKATCHAY 7}-{ se met un tapis}
+      16        0   {r des cordes<\n>dré}-{au.<\n>«WÂSAKÂMEWIN}
+      16        0   {vanie-<\n>rie, Le<\n>}}-{HI-WEW, TCHIKEW,}
+      16        0   {}-{ent, en-<\n>foncé b}
+      16        0   {âpwe mi-<\n>sikitiw}-{.<\n>ANÂSKATTEW, a,}
+      16        0   {é}-{ê}
+      15        0   { WA A PARENT =:}-{.}
+      15        0   { WÂSKÂPAYIW. ok}-{ur, à l’entour}
+      15        0   {-<\n>proposé. - u }-{blanche.<\n>«WÂPÂ}
+      15        0   {. f } šensa-| n}-{}
+      15        0   {0..g:awiyak/wey}-{<\n>AKAWÂWESIMOW, }
+      15        0   {an. sirge |- - }-{}
+      15        0   {eise," (0 a)<\n>« }-{paraboles.<\n>AKW}
+      15        0   {iwew, |. … CbC.}-{.<\n>«MUSTÂWEYIMEW}
+      15        0   {l voulait<\n>me}-{dem.<\n>ANÂSKASUW,}
+      15        0   {s.à soh wan, u,}-{, akawâwesimow.}
+      15        0   {wi-miyikottäy,<\n>}-{étend quel-que }
+      15        0   {}-{’}
+      15        0   {«t WÂPATÂWOKKAW}-{accepte la paix}
+      15        0   {‘}-{}
+      14        0   { On se' sert}-{<\n>«WÂSÂHIGAMAW,}
+      14        0   { ` vi craie}-{<\n>«WÂPISKIKÂTEW}
+      14        0   {(n. f.) com-] }-{prédicateur.<\n>}
+      14        0   {<\n>.}-{}
+      14        0   {A }-{Â}
+      14        0   {H }-{«}
+      14        0   {TASKUSAWEW, ok}-{KINEW, (v. a.)}
+      14        0   {a) il}-{TET<\n>«TEPITTIN,}
+      14        0   {d'un habit:}-{ANÂSKASUN, ak,}
+      14        0   {par terre pour}-{wi-miyikottäy,}
+      14        0   {qui est gichg}-{MIMEW, TCHIKEW}
+      14        0   {rivée : ainsi}-{.<\n>ANÂSKATTOWEW}
+      14        0   {s- - `<\n>qu'}-{.<\n>«MUSTÂBUIY, }
+      14        0   {sensibt-<\n>lité}-{KAKEW, TCHIKEW}
+      14        0   {wå}-{ (a. a.) il es}
+      14        0   {}-{)}
+      14        0   {À}-{il}
+      14        0   {äbema, ekwa<\n>in}-{}
+      13        0   { est| marche}-{l<\n>«WÂPOWEYÂN,}
+      13        0   {) en forme de}-{<\n>«WÂPISKOWES,}
+      13        0   {) à<\n>charge, v}-{}
+      13        0   {660<\n>Géi<\n>Eise<\n>}-{}
+      13        0   {:}-{.}
+      13        0   {<\n>NONJTTTAWIN,}-{}
+      13        0   {<\n>` AKWEBÉS (a}-{) couverture }
+      13        0   {<\n>}-{ f.) crainte }
+      13        0   {Ew, bo. "ail }-{barrassant.<\n>}
+      13        0   {IER<\n>MUSEWÂK, }-{}
+      13        0   {OI<\n>}-{(v. ind.) il }
+      13        0   {T}-{I}
+      13        0   {WEW, TCHIKEW,}-{l’usage}
+      13        0   {WÂPISKIKÂTEW,}-{a les jambes}
+      13        0   {des et il est}-{n, a.<\n>«WÂPUS,}
+      13        0   {du diminutif,}-{x WÂSK, (même}
+      13        0   {nd `<\n>quelque }-{rvir; anakkât}
+      13        0   {quelque chos}-{ANAKATCHAY! (}
+      13        0   {épiwek Er ka}-{etc.<\n>ANÂSKEW,}
+      12        0   {, à l'abri}-{’t’a-yâwâwok}
+      12        0   {-<\n>}-{}
+      12        0   {.<\n>RRUTITHTWE}-{ de génie.<\n>x}
+      12        0   {.<\n>}-{-}
+      12        0   {.<\n>}-{}
+      12        0   {.<\n>«ANÂSKEW,}-{; anak-kâtch}
+      12        0   {<\n>S}-{ (n.f.) pers}
+      12        0   {<\n>o,<\n>TCHIKEW,}-{}
+      12        0   {AKAWÂKKWEPI}-{in.) c’est e}
+      12        0   {D }-{}
+      12        0   {NÂTCHIREW,}-{(ad.) pas de}
+      12        0   {St}-{sable blanc.}
+      12        0   {WÂPISKIAUW,}-{le tabac que}
+      12        0   {ei sh N°?<\n>AR}-{ÂK}
+      12        0   {il le saisit}-{«MOSKIW, ok,}
+      12        0   {re après lui}-{on}
+      12        0   {se couvre le}-{HIKEW, ou,}
+      12        0   {{}-{(}
+      12        0   {}-{ANI 294 ANI<\n>}
+      12        0   {}-{est déjà<\n>tro}
+      12        0   {}-{fait connaît}
+      12        0   {}-{il }
+      12        0   {}-{l}
+      12        0   {« WÂPÂWAKKAW}-{peau blanche}
+      12        0   {«ANÂSKATTEW,}-{il voulait}
+      12        0   {å}-{ÂKWEKISIW, o}
+      12        0   {é}-{e}
+      11        0   { A<\n>TT,<\n>mik}-{<\n>««MOSKUHEW}
+      11        0   {'otanakkwän}-{. f.) tapis}
+      11        0   {, grossier,}-{ fait fâché}
+      11        0   {, vu LOS a?}-{.}
+      11        0   {ANAEWÄES Ae}-{f}
+      11        0   {KAKESKWEWIN}-{un prêcheur}
+      11        0   {KÂKITJIMOW,}-{lui, en lui}
+      11        0   {TOHIREW. ù}-{(ad.) quand}
+      11        0   {Voy. la rac}-{il s’humil}
+      11        0   {WÂSAHIGAMA}-{de l’eau.<\n>«}
+      11        0   {bisiw måna,}-{lque chose.}
+      11        0   {cast}-{AMISKOWIW, }
+      11        0   {e}-{c}
+      11        0   {i gest<\n>couv}-{ complète-m}
+      11        0   {i<\n>ANAKKWAY}-{s’y asseoir}
+      11        0   {mr-|( }-{en blanc.<\n>«}
+      11        0   {nde| ra, MI}-{rrassant.<\n>A}
+      11        0   {ngénieur.<\n>i}-{}
+      11        0   {rjeltes, tu}-{ANÂSKATTEW,}
+      11        0   {}-{ signifie a}
+      11        0   {Ù purk |<\n>« }-{etc.<\n>AKW}
+      10        0   { ACTA 2 je}-{llé.}
+      10        0   { }}-{)}
+      10        0   {, (a. a.) }-{isimototât}
+      10        0   {, console}-{aweyittam,}
+      10        0   {- pièce-}-{kwân, j’ai}
+      10        0   {.)<\n>KÂKEW,}-{akkâtch ka}
+      10        0   {.<\n>}-{) il est c}
+      10        0   {294 . ANI<\n>}-{}
+      10        0   {<\n>}-{ (v. im.) }
+      10        0   {<\n>}-{l }
+      10        0   {AKWEPAPIW,}-{poissons}
+      10        0   {ATTOWEW,<\n>.}-{toujours}
+      10        0   {D }-{«}
+      10        0   {Esmew, (0.}-{, NIKEW,}
+      10        0   {I}-{embarrassa}
+      10        0   {P}-{l’}
+      10        0   {SAKAMUTTEW}-{PUSWEYÂN}
+      10        0   {TOHIKEW, d}-{anakkâtch}
+      10        0   {Tan,<\n>et<\n>x<\n>}-{291 AM}
+      10        0   {WÂPISKIPEn}-{de coton.}
+      10        0   {` coup de:}-{AKAWÂYIK,}
+      10        0   {a }-{«}
+      10        0   {ac-<\n>tion d}-{il sup-pli}
+      10        0   {akokkwepit}-{à l’abri d}
+      10        0   {aordinai.<\n>}-{re pour se}
+      10        0   {barras, "7}-{in.) c’est}
+      10        0   {der<\n>BUWEW,}-{bois, de}
+      10        0   {d}-{N. B. On s}
+      10        0   {déco}-{saisit à n}
+      10        0   {désire,<\n>en}-{Mayo (nama}
+      10        0   {ec orgueil}-{. a.) TTAW}
+      10        0   {est<\n>couvre}-{il a}
+      10        0   {habit baue}-{SI-KEW, il}
+      10        0   {id) îl<\n>Fa }-{«}
+      10        0   {il a la pa}-{}
+      10        0   {j'ai<\n>des}-{pièce pour}
+      10        0   {kettåwew.<\n>}-{}
+      10        0   {kinusewok,}-{à l’abri}
+      10        0   {l'abri. il}-{que celle}
+      10        0   {m}-{ sensation}
+      10        0   {mélange, d}-{au physiqu}
+      10        0   {s de sitôt}-{}
+      10        0   {tte del }-{.<\n>ANAKWÂKK}
+      10        0   {visage. . }-{yeux couve}
+      10        0   {vre, ilse}-{«MUSTINEW,}
+      10        0   {}-{. }
+      10        0   {}-{.<\n>«WÂPITEW}
+      10        0   {}-{<\n>« ÂKWÂSIN}
+       9        0   { Voy.| a.}-{}
+       9        0   { faute. '}-{}
+       9        0   { | ` MI}-{ntité.<\n>AK}
+       9        0   { ‘n'était}-{s.<\n>ANÂSK,}
+       9        0   {(v. n.) i}-{wanittân,}
+       9        0   {) TTAM, |}-{}
+       9        0   {)<\n>}-{wok, (n. }
+       9        0   {."<\n>sourd,}-{}
+       9        0   {.}-{ }
+       9        0   {0}-{v}
+       9        0   {: ` D? zi}-{.}
+       9        0   {<\n>TCHIKEW,}-{}
+       9        0   {<\n>Zen}-{ TCHIKEW,}
+       9        0   {<\n>a les}-{ TCHIKEW,}
+       9        0   {AKWANOKIJ}-{parle en}
+       9        0   {ANÂSK,<\n>i}-{que rien,}
+       9        0   {HIKEW, OU}-{la forét}
+       9        0   {WÉYAN, ak}-{KIPEHWEW}
+       9        0   {blanche. }-{}
+       9        0   {chose pa}-{de l’avoi}
+       9        0   {d lui fai}-{c’es}
+       9        0   {de consol}-{s’humili}
+       9        0   {des bas-<\n>}-{}
+       9        0   {enveloppé}-{a, (n.}
+       9        0   {guel-<\n>que}-{eyiwek ki}
+       9        0   {i ‘ {7 47}-{}
+       9        0   {idem,<\n>MO}-{«MUSTASKU}
+       9        0   {il a l s }-{}
+       9        0   {ittân, Z}-{che coupé}
+       9        0   {i}-{t}
+       9        0   {kakeskikk}-{nittaw}
+       9        0   {kanakkwäy}-{oi.<\n>ANÂH}
+       9        0   {le met à}-{MONJIHEW,}
+       9        0   {le<\n>taba}-{voir à dé}
+       9        0   {lqu'un qu}-{yi-m}
+       9        0   {mälisiyi,}-{on}
+       9        0   {n.)}-{l éprouve}
+       9        0   {ntour,<\n>c}-{, une ans}
+       9        0   {ok, {a. a}-{blanches}
+       9        0   {on che.<\n>v}-{apissé, l}
+       9        0   {oujours L}-{ in.) id}
+       9        0   {owebi-<\n>` }-{}
+       9        0   {queiele<\n>«}-{NAM,}
+       9        0   {r.<\n>pourta}-{}
+       9        0   {ressentir}-{du pays,)}
+       9        0   {siwähât o}-{}
+       9        0   {touche un}-{sup-plier}
+       9        0   {vj comme,}-{n.)}
+       9        0   {{il vou-<\n>}-{s’en-ten}
+       9        0   {|:<\n>}-{}
+       9        0   {}-{).<\n>AMISK,}
+       9        0   {}-{eresse.<\n>«}
+       9        0   {}-{e}
+       9        0   {ÂWEYImEw}-{TOYUW, ok}
+       9        0   {ànâh<\n>lavo}-{TCHIKEW, }
+       8        0   { - askiy}-{wepitew}
+       8        0   { blanche}-{n-dré}
+       8        0   { coupée,}-{lui là;}
+       8        0   { main. -}-{ssesses.}
+       8        0   { |}-{}
+       8        0   {"Ji<\n>. U }-{embarras}
+       8        0   {"}-{}
+       8        0   {(n. f.)}-{le sent,}
+       8        0   {(n.}-{mu-tchi,}
+       8        0   {, barras}-{bande le}
+       8        0   {,<\n>HUWEW,}-{fumé en}
+       8        0   {,}-{proposé.}
+       8        0   {-<\n>TWÂREW}-{rejettes}
+       8        0   {-dessus,}-{t trop}
+       8        0   {. celui.}-{TTI-TAW,}
+       8        0   {. x}-{ autour,}
+       8        0   {. }-{}
+       8        0   {: ` >, :}-{}
+       8        0   {<\n>-}-{ }
+       8        0   {<\n>}-{ qui ne }
+       8        0   {<\n>« MUS}-{ HIWEW, }
+       8        0   {>}-{insensé!}
+       8        0   {Ai<\n>}-{(v. a.) }
+       8        0   {A}-{}
+       8        0   {EPTrew,}-{, il lui}
+       8        0   {EYINEW,}-{, (rac.)}
+       8        0   {Hi | me}-{quelqu’u}
+       8        0   {MUSTINEw}-{découvre}
+       8        0   {NIWEW,<\n>"}-{il fum}
+       8        0   {OKNOWEW;}-{, (rac.)}
+       8        0   {STIWIN}-{TOKKÂSUW}
+       8        0   {TCHIKEW}-{kikkamât}
+       8        0   {Tr}-{il est h}
+       8        0   {USTÂGAMI}-{ONJIHU}
+       8        0   {` }-{}
+       8        0   {a }-{}
+       8        0   {akawäyi}-{mustuswo}
+       8        0   {a}-{ok}
+       8        0   {blanche,}-{toujours}
+       8        0   {ce n'est}-{MEW, (v.}
+       8        0   {de génie}-{f}
+       8        0   {di}-{il l}
+       8        0   {don}-{ok, (v. }
+       8        0   {dun<\n>}-{ok, (v. }
+       8        0   {désire.<\n>}-{MIWEW, }
+       8        0   {e PU Lit}-{llé}
+       8        0   {e,}-{ musiwâk}
+       8        0   {e<\n>vertur}-{. f.) c}
+       8        0   {eh- j...}-{âmatin,}
+       8        0   {ffecte}-{<\n>MUT<\n>mik}
+       8        0   {il<\n>brun,}-{a.)}
+       8        0   {i}-{}
+       8        0   {jusqu'à!}-{l’abri,}
+       8        0   {la vue.}-{AKWEBAN,}
+       8        0   {n<\n>ambass}-{u wâpig}
+       8        0   {poissons}-{à l’abri}
+       8        0   {pour s'y}-{kit’em!}
+       8        0   {pourtant}-{TWAKEW,}
+       8        0   {presque}-{(v. im.)}
+       8        0   {r terre,}-{t-jitta;}
+       8        0   {rraw}-{TTAW}
+       8        0   {s mé-<\n>la}-{tai}
+       8        0   {umission}-{k, (n.}
+       8        0   {us-<\n>sera}-{ir pitié}
+       8        0   {v }-{«}
+       8        0   {v. g. qu}-{kitimâk}
+       8        0   {ve em-<\n>:}-{coup de}
+       8        0   {| }-{}
+       8        0   {}-{EW}
+       8        0   {}-{i}
+       8        0   {}-{s}
+       8        0   {}-{tchist! }
+       8        0   {}}-{.)}
+       8        0   {åbät-<\n>j}-{(v. n.) }
+       8        0   {éprouve }-{envie.<\n>}
+       8        0   {ù}-{il}
+       7        0   { >. NEE}-{}
+       7        0   { blanch}-{s, qui }
+       7        0   { e,<\n>x A}-{<\n>AKWANÂ}
+       7        0   { remxew}-{HIKEW}
+       7        0   { sen-<\n>s}-{ch}
+       7        0   { à mots}-{ssus, à}
+       7        0   {'aux l}-{’il ser}
+       7        0   {(a a. à}-{cercle.}
+       7        0   {(dans u}-{à l’e}
+       7        0   {(n.f.)}-{mélange}
+       7        0   {(vin)<\n>à}-{même}
+       7        0   {, Im. m}-{}
+       7        0   {, oc)}-{TJIHEW,}
+       7        0   {,<\n>502<\n>a}-{}
+       7        0   {. EI d'}-{bondanc}
+       7        0   {.<\n>habi}-{st enve}
+       7        0   {.la-cha}-{oir ou }
+       7        0   {.}-{,}
+       7        0   {:}-{}
+       7        0   {<\n>d'roud}-{okkawew}
+       7        0   {=A }-{le<\n>471<\n>}
+       7        0   {ASÂAKAY}-{ÂMUTTEW}
+       7        0   {HIKEW, }-{con-se}
+       7        0   {IPEK,}-{, c’est}
+       7        0   {ONJ}-{USTÂGAM}
+       7        0   {STWE}-{TOKKÂSU}
+       7        0   {SUWEW}-{blanche}
+       7        0   {WIN, ‘a}-{KÂKI}
+       7        0   {` -<\n>{(r}-{bon viv}
+       7        0   {a parol}-{}
+       7        0   {a) d es}-{pe-kâki}
+       7        0   {ai<\n>voir}-{ume le}
+       7        0   {ak, in.}-{ou pour}
+       7        0   {ak,<\n>"an}-{(pro.) }
+       7        0   {akawäwe}-{couvert}
+       7        0   {al,<\n>qui}-{on père}
+       7        0   {ce d’}-{, simpl}
+       7        0   {chis,}-{ture en}
+       7        0   {choses,}-{(ad.) à}
+       7        0   {conn}-{jus-qu’}
+       7        0   {d'éfron}-{humilia}
+       7        0   {dans un}-{f.) têt}
+       7        0   {de la c}-{kinusew}
+       7        0   {désire,}-{(n. f.)}
+       7        0   {e<\n>conso}-{up-p}
+       7        0   {es. , m}-{}
+       7        0   {e}-{}
+       7        0   {feat}-{(a. in.}
+       7        0   {fen, :<\n>}-{mistâpu}
+       7        0   {kit.<\n>1}-{de-vant}
+       7        0   {l NA}-{ntre.<\n>«}
+       7        0   {l cesse}-{cation}
+       7        0   {le:<\n>con}-{s’abais}
+       7        0   {lline-}-{k, j’ai}
+       7        0   {là; pg.}-{KÂKEW}
+       7        0   {m, (v. }-{}
+       7        0   {mi, Ces}-{tchäy }
+       7        0   {misiwe<\n>}-{}
+       7        0   {montre.}-{(v. a.)}
+       7        0   {n. f)<\n>(}-{}
+       7        0   {ok, (v.}-{faisant}
+       7        0   {on<\n>pour}-{l étend}
+       7        0   {peau<\n>}-{HAM, HU}
+       7        0   {pis,<\n>gr}-{nch}
+       7        0   {qu}-{en prés}
+       7        0   {r.<\n>fois}-{, v. g.}
+       7        0   {ra a.)|}-{couvre}
+       7        0   {rejeté,}-{lièvre}
+       7        0   {rts. : }-{auc}
+       7        0   {stuswok}-{,}
+       7        0   {s}-{}
+       7        0   {t st<\n>li}-{}
+       7        0   {t.r<\n>lou}-{ama-wât}
+       7        0   {u |t }-{nche.<\n>«}
+       7        0   {v. g. M}-{o}
+       7        0   {w, (0.}-{t objet}
+       7        0   {wew; (D}-{t, v.g}
+       7        0   {wâmalin}-{choses}
+       7        0   {xew, il}-{(rac.)}
+       7        0   {|°% WÂS}-{cendré}
+       7        0   {}-{aucoup,}
+       7        0   {}-{blanc<\n>«}
+       7        0   {}-{ce mot }
+       7        0   {}-{toujour}
+       7        0   {}-{t}
+       7        0   {Å}-{AM, TTÂ}
+       7        0   {à labri}-{jusqu’à}
+       7        0   {“}-{}
+       6        0   { -}-{}
+       6        0   { :}-{}
+       6        0   { Diego}-{PITEW}
+       6        0   { MUSTA}-{MOJIHU}
+       6        0   { ` - y}-{}
+       6        0   { a<\n>apa}-{dent, }
+       6        0   { idem.}-{}
+       6        0   { |<\n>}-{}
+       6        0   {'au mo}-{i dési}
+       6        0   {(ado}-{ak, (n}
+       6        0   {(v.}-{touche}
+       6        0   {) div }-{<\n>«}
+       6        0   {, D<\n>N.}-{ d’une}
+       6        0   {, `}-{.}
+       6        0   {, a in}-{r.}
+       6        0   {-}-{}
+       6        0   {. >,<\n>m}-{h-w}
+       6        0   {. NAM,}-{ idem.}
+       6        0   {. `<\n>. }-{-}
+       6        0   {1 }-{«}
+       6        0   {: : Ea}-{.}
+       6        0   {: wf S}-{ auxil}
+       6        0   {: }-{}
+       6        0   {:<\n>}-{}
+       6        0   {<\n>NIKEW}-{ ok a}
+       6        0   {<\n>` }-{}
+       6        0   {<\n>fo}-{rt, sa}
+       6        0   {<\n>rol}-{) bass}
+       6        0   {<\n>|}-{}
+       6        0   {<\n>‘}-{ }
+       6        0   {A een}-{ÂWÂYEW}
+       6        0   {A }-{(sâsâk}
+       6        0   {Al AR}-{TCHIKE}
+       6        0   {CHE?}-{a, (a.}
+       6        0   {Dé}-{ittiw,}
+       6        0   {EN KAM}-{a.)}
+       6        0   {E}-{K}
+       6        0   {F}-{l’}
+       6        0   {H<\n>en,<\n>}-{}
+       6        0   {HAM}-{l’abri}
+       6        0   {IWEW, }-{ONJIT}
+       6        0   {Io,}-{(v.}
+       6        0   {Jus-<\n>}-{sitôt }
+       6        0   {Ké `<\n>L}-{mou}
+       6        0   {MIWEW,}-{cause}
+       6        0   {OWEY}-{EKINIG}
+       6        0   {O}-{C}
+       6        0   {Où<\n>gw}-{ou qu’}
+       6        0   {PISTÂN}-{SÂPEW}
+       6        0   {PIS}-{SA}
+       6        0   {T}-{l’}
+       6        0   {UNI<\n>` }-{T}
+       6        0   {WEW,}-{chose;}
+       6        0   {a;}-{ok,}
+       6        0   {aisant}-{.)}
+       6        0   {and on}-{ visa}
+       6        0   {auvage}-{tâni}
+       6        0   {awäti}-{wébés }
+       6        0   {ce! b }-{rras.<\n>}
+       6        0   {cou-}-{il est}
+       6        0   {dE<\n>}-{peaux }
+       6        0   {de cou}-{i}
+       6        0   {emb}-{}
+       6        0   {ent, d}-{ire en}
+       6        0   {eurs.<\n>}-{ité<\n>«}
+       6        0   {f.) }-{à déco}
+       6        0   {fils d}-{trouv}
+       6        0   {fles<\n>.}-{i}
+       6        0   {forêt,}-{grande}
+       6        0   {fume}-{NIKEW,}
+       6        0   {f}-{n.}
+       6        0   {i<\n>TAW,}-{cer à}
+       6        0   {ie}-{tc.}
+       6        0   {ik, “ }-{erre.<\n>}
+       6        0   {il lui}-{TAM,}
+       6        0   {impude}-{aya}
+       6        0   {it,<\n>de}-{a chos}
+       6        0   {i}-{ le me}
+       6        0   {i}-{î}
+       6        0   {j}-{.) }
+       6        0   {kkáich}-{i-re;}
+       6        0   {l'abri}-{KÂKEW}
+       6        0   {le}-{f.)}
+       6        0   {lge<\n>`}-{HIWEW,}
+       6        0   {lièvre}-{HI-WEW}
+       6        0   {m vew}-{TAWEW,}
+       6        0   {mploie}-{nfant}
+       6        0   {mélang}-{f.) id}
+       6        0   {n.)<\n>il}-{HUWEW,}
+       6        0   {n.)<\n>il}-{NIWEW,}
+       6        0   {n.)}-{autour}
+       6        0   {nde le}-{. v.)}
+       6        0   {ntour,}-{ (dans}
+       6        0   {n}-{v}
+       6        0   {o<\n>}-{a. et }
+       6        0   {oi. `<\n>}-{kanak}
+       6        0   {oir<\n>ou}-{ttable}
+       6        0   {oi}-{a.)}
+       6        0   {ok,}-{il lui}
+       6        0   {ombien}-{’est}
+       6        0   {peu, p}-{d’av}
+       6        0   {pi<\n>tew}-{askïy}
+       6        0   {prend}-{il lui}
+       6        0   {qu'on }-{lièv}
+       6        0   {qu'on }-{pr}
+       6        0   {qui<\n>pl}-{etc., }
+       6        0   {qui<\n>ü }-{embarr}
+       6        0   {rassé;}-{t,}
+       6        0   {rrassé}-{.) HAM}
+       6        0   {rre, e}-{ dispu}
+       6        0   {s<\n>mour}-{, (a. }
+       6        0   {ssez}-{. in.)}
+       6        0   {te}-{blanc,}
+       6        0   {tlable}-{ d’un}
+       6        0   {tout c}-{vi}
+       6        0   {ttable}-{, pour}
+       6        0   {t}-{s mé-l}
+       6        0   {ucoup:}-{nde le}
+       6        0   {ve<\n>`}-{l a la}
+       6        0   {vertur}-{sauvag}
+       6        0   {visage}-{ok, (a}
+       6        0   {w}-{}
+       6        0   {ya<\n>pot}-{SAM,}
+       6        0   {z<\n>KAK }-{est.<\n>}
+       6        0   {|.<\n>pas}-{(rac.)}
+       6        0   {|:<\n>— C}-{c}
+       6        0   {|<\n>}-{}
+       6        0   {}-{ l}
+       6        0   {}-{W}
+       6        0   {}-{c.) ou}
+       6        0   {}-{il mar}
+       6        0   {}-{le }
+       6        0   {}-{m}
+       6        0   {}-{«ISÂTC}
+       6        0   {« A}-{Â}
+       6        0   {ÂBUIY}-{CHIKEW}
+       6        0   {Å}-{Â}
+       6        0   {à caus}-{trop d}
+       6        0   {é $ |<\n>}-{â-}
+       6        0   {ôt gui}-{ouche,}
+       6        0   {ĦU-<\n>` }-{SI}
+       5        0   { ` 8.}-{}
+       5        0   { ` `.}-{}
+       5        0   { l'e }-{ne.<\n>}
+       5        0   { méme}-{.)}
+       5        0   { new;}-{IMEW,}
+       5        0   { yeuz}-{sant}
+       5        0   { | x }-{tc.<\n>}
+       5        0   { ‘aux}-{)}
+       5        0   {"och<\n>}-{wâbam}
+       5        0   {'chos}-{re qu}
+       5        0   {'envo}-{ du d}
+       5        0   {(ARD }-{ÂKUST}
+       5        0   {(In.}-{il se}
+       5        0   {(a. Z}-{couvr}
+       5        0   {(a. i}-{don}
+       5        0   {(mém}-{taill}
+       5        0   {) A ©}-{tent.}
+       5        0   {):<\n>`}-{. a.)}
+       5        0   {)<\n>act}-{suppl}
+       5        0   {, wok}-{KIHEW}
+       5        0   {- |;<\n>}-{}
+       5        0   {-<\n>D}-{il se}
+       5        0   {-<\n>le}-{barra}
+       5        0   {-bequ}-{il l}
+       5        0   {-}-{ }
+       5        0   {. [a }-{he.<\n>«}
+       5        0   {. ` ,}-{}
+       5        0   {. `.<\n>}-{<\n>«}
+       5        0   {. r.)}-{oient}
+       5        0   {.) g}-{ccomp}
+       5        0   {.:<\n>we}-{, aka}
+       5        0   {.<\n>sup}-{a la }
+       5        0   {.qu}-{s’ass}
+       5        0   {.}-{ pur,}
+       5        0   {8<\n>` Z}-{j}
+       5        0   {<\n>'}-{ a.) }
+       5        0   {<\n>-ü}-{.) il}
+       5        0   {<\n>. o }-{qu’}
+       5        0   {<\n>DÉI }-{}
+       5        0   {<\n>KI}-{ v.g.}
+       5        0   {<\n>` o,}-{.g.}
+       5        0   {<\n>bu.<\n>}-{ }
+       5        0   {<\n>chos}-{ttabl}
+       5        0   {<\n>fait}-{sses,}
+       5        0   {<\n>in.)}-{}
+       5        0   {<\n>prin}-{ffec}
+       5        0   {<\n>pur}-{ssent}
+       5        0   {<\n>}-{ (a. }
+       5        0   {<\n>}-{ est }
+       5        0   {<\n>}-{ mieu}
+       5        0   {<\n>}-{.) co}
+       5        0   {<\n>€ AK}-{ HUWE}
+       5        0   {ANÂSK}-{c’est}
+       5        0   {Abt}-{ânihi}
+       5        0   {A}-{a, (n}
+       5        0   {B}-{PITEW}
+       5        0   {CAM<\n>}-{in.) }
+       5        0   {DN<\n>}-{v.g. }
+       5        0   {DS<\n>` }-{pos}
+       5        0   {D}-{v}
+       5        0   {EBAN,}-{, il}
+       5        0   {E}-{v.g.,}
+       5        0   {Gil<\n>}-{wok, }
+       5        0   {Gi}-{KKAM,}
+       5        0   {HISUW}-{MOWIN}
+       5        0   {H{r}-{ (n. }
+       5        0   {IN,}-{, (v.}
+       5        0   {ITuew}-{TÂWEW}
+       5        0   {IWAN,}-{ (ad.}
+       5        0   {KWAÂN}-{W, ok}
+       5        0   {M,<\n>ON}-{ge.}
+       5        0   {Mi-<\n>W}-{TÂK}
+       5        0   {POLE}-{c’est}
+       5        0   {PTrew}-{AHWEW}
+       5        0   {RIREW}-{mâna}
+       5        0   {R}-{H}
+       5        0   {SI-<\n>.}-{grand}
+       5        0   {Si:}-{etc.,}
+       5        0   {S}-{s}
+       5        0   {TAM,}-{idem.}
+       5        0   {TAzw}-{KIPIT}
+       5        0   {TTAW,}-{n.)}
+       5        0   {Tem-<\n>}-{a.) }
+       5        0   {WÂSK}-{v. g.}
+       5        0   {` “ka}-{v.g.,}
+       5        0   {abac }-{ pres}
+       5        0   {au. !}-{ment.}
+       5        0   {autou}-{lièv}
+       5        0   {a}-{o}
+       5        0   {a}-{}
+       5        0   {binaw}-{rre}
+       5        0   {blanc}-{SUWEW}
+       5        0   {bois}-{place}
+       5        0   {bri}-{ucoup}
+       5        0   {c'est}-{wa,}
+       5        0   {ccept}-{iri}
+       5        0   {ccomp}-{(a. }
+       5        0   {celui}-{KAM,}
+       5        0   {cen-|}-{il va}
+       5        0   {ches.}-{t un}
+       5        0   {chose}-{ka ki}
+       5        0   {con-|}-{f.)}
+       5        0   {couvr}-{lang}
+       5        0   {c}-{ç}
+       5        0   {des<\n>m}-{pourt}
+       5        0   {e-<\n>ri}-{ d}
+       5        0   {e-|« }-{os!<\n>}
+       5        0   {eie}-{casto}
+       5        0   {ent; }-{ yeux}
+       5        0   {erie.}-{ion,}
+       5        0   {fa}-{rempl}
+       5        0   {i-<\n>}-{u fai}
+       5        0   {il le}-{sans}
+       5        0   {il n}-{bas-s}
+       5        0   {imow.}-{,}
+       5        0   {impud}-{bass}
+       5        0   {iquid}-{ le r}
+       5        0   {irie,}-{nc.}
+       5        0   {issé,}-{our}
+       5        0   {it}-{. v.)}
+       5        0   {i}-{u du }
+       5        0   {i}-{ve em}
+       5        0   {jette}-{ avec}
+       5        0   {jours}-{rtant}
+       5        0   {kb «H}-{«IJ}
+       5        0   {l'}-{cou-v}
+       5        0   {la ma}-{rempl}
+       5        0   {lang}-{couvr}
+       5        0   {lapin}-{TTAW}
+       5        0   {les p}-{humi}
+       5        0   {le}-{mayo)}
+       5        0   {lie d}-{arol}
+       5        0   {ligio}-{}
+       5        0   {l}-{assad}
+       5        0   {m lâ}-{n’t’a}
+       5        0   {march}-{buffl}
+       5        0   {morce}-{a.) f}
+       5        0   {n<\n>n}-{ jusq}
+       5        0   {nawsw}-{NAWEW}
+       5        0   {nd<\n>qu}-{ regr}
+       5        0   {nù,}-{jour.}
+       5        0   {ok, (}-{(ad}
+       5        0   {ok, (}-{s’en}
+       5        0   {onsol}-{ larm}
+       5        0   {os!}-{éparé}
+       5        0   {oujo}-{ y a }
+       5        0   {oya}-{. g. }
+       5        0   {o}-{a}
+       5        0   {par}-{qu’il}
+       5        0   {pleur}-{homm}
+       5        0   {pour}-{c’est}
+       5        0   {prépa}-{d’ext}
+       5        0   {que. }-{ar}
+       5        0   {r dir}-{sag}
+       5        0   {r, ou}-{tiw}
+       5        0   {rape}-{AWEW,}
+       5        0   {rawew}-{TAWEW}
+       5        0   {re.<\n>«}-{du,}
+       5        0   {resse}-{voya}
+       5        0   {r}-{k, (a}
+       5        0   {s |t }-{m.<\n>«}
+       5        0   {s'ass}-{regr}
+       5        0   {sans:}-{il le}
+       5        0   {si.<\n>}-{SIMI-}
+       5        0   {simpl}-{d’}
+       5        0   {st `<\n>}-{SI}
+       5        0   {steen}-{SUWEW}
+       5        0   {terr}-{visag}
+       5        0   {touch}-{pas d}
+       5        0   {trop }-{il es}
+       5        0   {trop }-{}
+       5        0   {tro}-{a bea}
+       5        0   {ttabl}-{ chos}
+       5        0   {utour}-{, (n.}
+       5        0   {vec}-{, (n.}
+       5        0   {visag}-{akkow}
+       5        0   {w,}-{billé}
+       5        0   {wen}-{MIWEW}
+       5        0   {wi il}-{t’en}
+       5        0   {wâpig}-{(}
+       5        0   {z}-{a.) i}
+       5        0   {| fai}-{}
+       5        0   {|.<\n>` }-{}
+       5        0   {|<\n>pop}-{voy.}
+       5        0   {} u<\n>p}-{n}
+       5        0   {}-{-sit!}
+       5        0   {}-{WEW, }
+       5        0   {}-{a.) i}
+       5        0   {}-{e tro}
+       5        0   {}-{f}
+       5        0   {}-{n.) i}
+       5        0   {}-{sses,}
+       5        0   {}-{tête }
+       5        0   {}-{ÂSWEW}
+       5        0   {~-<\n>H}-{chose;}
+       5        0   {À cst}-{f}
+       5        0   {ÂMEWI}-{AHIGA}
+       5        0   {Âswew}-{AKKAW}
+       5        0   {à<\n>F}-{il l’}
+       5        0   {étre<\n>}-{couv}
+       5        0   {î}-{i}
+       5        0   {“plâc}-{occup}
+       4        0   { ' d}-{}
+       4        0   { '}-{}
+       4        0   { , .}-{}
+       4        0   { ,}-{<\n>514}
+       4        0   { ,}-{}
+       4        0   { - `}-{}
+       4        0   { - b}-{}
+       4        0   { - j}-{}
+       4        0   { . -}-{}
+       4        0   { . :}-{}
+       4        0   { : |}-{}
+       4        0   { = i}-{}
+       4        0   { EN }-{EYIS}
+       4        0   { E}-{}
+       4        0   { H<\n>-}-{}
+       4        0   { One}-{OHEW}
+       4        0   { UD<\n>}-{g., }
+       4        0   { Ya}-{’t’â}
+       4        0   { ` i}-{}
+       4        0   { `<\n>X}-{.<\n>x }
+       4        0   { `<\n>`}-{g.}
+       4        0   { a}-{}
+       4        0   { b}-{}
+       4        0   { d}-{}
+       4        0   { f,<\n>}-{}
+       4        0   { g}-{g.}
+       4        0   { i<\n>C}-{<\n>««}
+       4        0   { lac}-{tour}
+       4        0   { les}-{ssé,}
+       4        0   { pu}-{ouve}
+       4        0   { qui}-{nt}
+       4        0   { | .}-{}
+       4        0   { |-<\n>}-{}
+       4        0   { }-{t-à-}
+       4        0   { À S}-{}
+       4        0   {"uv }-{«}
+       4        0   {'est}-{ela.}
+       4        0   {'es}-{a-po}
+       4        0   {'}-{ }
+       4        0   {(peu}-{v.g.}
+       4        0   {(v.}-{NAM,}
+       4        0   {(w. }-{reco}
+       4        0   {, ="}-{.}
+       4        0   {, OU}-{âtin}
+       4        0   {, \'}-{.}
+       4        0   {, }-{.}
+       4        0   {, }-{}
+       4        0   {,<\n>}-{; }
+       4        0   {-<\n>. }-{}
+       4        0   {-<\n>` }-{}
+       4        0   {-<\n>b}-{k, (}
+       4        0   {-<\n>}-{comm}
+       4        0   {. EE}-{}
+       4        0   {. `,}-{}
+       4        0   {. a }-{«}
+       4        0   {.) K}-{ie}
+       4        0   {.. '}-{}
+       4        0   {.<\n>de}-{es}
+       4        0   {.<\n>ou}-{il}
+       4        0   {.}-{isit}
+       4        0   {2<\n>GO}-{TAM,}
+       4        0   {4 AR}-{ÂK}
+       4        0   {576<\n>}-{}
+       4        0   {: (d}-{il}
+       4        0   {:-}-{pour}
+       4        0   {:}-{ }
+       4        0   {; | }-{.<\n>}
+       4        0   {; }-{}
+       4        0   {<\n>"b}-{ val}
+       4        0   {<\n>(n.}-{ à}
+       4        0   {<\n>,}-{}
+       4        0   {<\n>-}-{}
+       4        0   {<\n>ANI}-{}
+       4        0   {<\n>A}-{ âji}
+       4        0   {<\n>D<\n>"}-{}
+       4        0   {<\n>D<\n>x}-{)}
+       4        0   {<\n>E}-{ K}
+       4        0   {<\n>MOS}-{ HI}
+       4        0   {<\n>MOS}-{ole,}
+       4        0   {<\n>YU}-{ n.)}
+       4        0   {<\n>_ Ù}-{ il}
+       4        0   {<\n>_}-{ }
+       4        0   {<\n>` d}-{t}
+       4        0   {<\n>` «}-{) il}
+       4        0   {<\n>c}-{ ç}
+       4        0   {<\n>ku}-{kiji}
+       4        0   {<\n>mou}-{ }
+       4        0   {<\n>qui}-{nt,}
+       4        0   {<\n>sou}-{ de}
+       4        0   {<\n>w}-{ (v.}
+       4        0   {<\n>|, }-{}
+       4        0   {<\n>}-{ f}
+       4        0   {<\n>}-{, }
+       4        0   {<\n>© U}-{ il}
+       4        0   {<\n>ée}-{ lac}
+       4        0   {> -°}-{v.g.}
+       4        0   {A D”}-{(v.}
+       4        0   {AKUP}-{EW}
+       4        0   {ANÂR}-{, HI}
+       4        0   {B}-{H}
+       4        0   {B}-{peau}
+       4        0   {D 0 }-{«IJ}
+       4        0   {D: A}-{et,}
+       4        0   {DH}-{côté}
+       4        0   {DN "}-{c’}
+       4        0   {DN D}-{HAM,}
+       4        0   {D}-{il}
+       4        0   {EW.:}-{,}
+       4        0   {El<\n>}-{f.) }
+       4        0   {G}-{C}
+       4        0   {HEw}-{W, a}
+       4        0   {HISU}-{MO}
+       4        0   {H}-{f.),}
+       4        0   {INIG}-{ASÂK}
+       4        0   {ISI}-{OKKA}
+       4        0   {ISK}-{ATÂW}
+       4        0   {In}-{(v}
+       4        0   {I}-{(v. }
+       4        0   {JIN}-{OTAW}
+       4        0   {Leo?}-{sous}
+       4        0   {MA<\n>«}-{ 292}
+       4        0   {NAM,}-{n.)}
+       4        0   {Ni<\n>`}-{in.)}
+       4        0   {N}-{W}
+       4        0   {NÂKE}-{MUSI}
+       4        0   {OJIH}-{}
+       4        0   {ORR}-{CHIK}
+       4        0   {OR}-{CH}
+       4        0   {O}-{U}
+       4        0   {SAN,}-{boue}
+       4        0   {Sie}-{etc.}
+       4        0   {S}-{PITT}
+       4        0   {SÂK }-{}
+       4        0   {TAM,}-{pas}
+       4        0   {TJ}-{S}
+       4        0   {Traw}-{in.)}
+       4        0   {UE}-{IJI,}
+       4        0   {US}-{ONJI}
+       4        0   {` a }-{«}
+       4        0   {`<\n>` }-{}
+       4        0   {`<\n>f}-{mots}
+       4        0   {a `-}-{.}
+       4        0   {a; (}-{}
+       4        0   {a<\n>}-{fet }
+       4        0   {ale.}-{}
+       4        0   {anc.}-{ est}
+       4        0   {anch}-{ettr}
+       4        0   {ant}-{é, v}
+       4        0   {aur}-{(v. }
+       4        0   {a}-{.) l}
+       4        0   {a}-{c’es}
+       4        0   {a}-{e}
+       4        0   {a}-{idem}
+       4        0   {bai}-{coup}
+       4        0   {bity}-{ou}
+       4        0   {bjet}-{k,}
+       4        0   {blaf}-{un l}
+       4        0   {bn'}-{de l}
+       4        0   {bon }-{che-}
+       4        0   {b}-{et i}
+       4        0   {c'en}-{wa,}
+       4        0   {chos}-{}
+       4        0   {cons}-{par}
+       4        0   {coto}-{bru}
+       4        0   {couv}-{b}
+       4        0   {cti}-{ie, }
+       4        0   {c}-{fard}
+       4        0   {d le}-{a,}
+       4        0   {d'ec}-{par }
+       4        0   {d'}-{l’}
+       4        0   {dans}-{avec}
+       4        0   {dans}-{poil}
+       4        0   {de p}-{humb}
+       4        0   {disp}-{n’on}
+       4        0   {dot,}-{il}
+       4        0   {d}-{}
+       4        0   {dé s}-{m}
+       4        0   {déco}-{f.) }
+       4        0   {e ; }-{}
+       4        0   {e c'}-{’}
+       4        0   {e }-{}
+       4        0   {e À<\n>}-{a}
+       4        0   {e<\n>H}-{tiw)}
+       4        0   {eil }-{, gr}
+       4        0   {ek k}-{}
+       4        0   {em!}-{in.)}
+       4        0   {en<\n>r}-{bi}
+       4        0   {end}-{ture}
+       4        0   {est|}-{WÂS,}
+       4        0   {ettr}-{anch}
+       4        0   {eur }-{}
+       4        0   {e}-{c.}
+       4        0   {e}-{qu’o}
+       4        0   {f<\n>. }-{ l’a}
+       4        0   {ff}-{blié}
+       4        0   {fumé}-{wok,}
+       4        0   {g.<\n>K}-{d}
+       4        0   {gros}-{il}
+       4        0   {guun}-{ est}
+       4        0   {i<\n>la}-{f.)}
+       4        0   {il.<\n>}-{u-ve}
+       4        0   {ilov}-{âkw}
+       4        0   {il}-{de}
+       4        0   {it<\n>a}-{uche}
+       4        0   {i}-{atch}
+       4        0   {jamb}-{il l}
+       4        0   {je e}-{(a.}
+       4        0   {ju}-{SAM }
+       4        0   {l l'}-{yosk}
+       4        0   {l'a<\n>}-{ser}
+       4        0   {l'ab}-{couv}
+       4        0   {la p}-{que}
+       4        0   {lant}-{v.}
+       4        0   {les }-{wâpi}
+       4        0   {les }-{}
+       4        0   {le}-{Voy.}
+       4        0   {ller}-{pin,}
+       4        0   {ll}-{tt}
+       4        0   {luew}-{IMEW}
+       4        0   {l}-{(}
+       4        0   {l}-{tôt.}
+       4        0   {lé.,}-{ est}
+       4        0   {m...}-{lque}
+       4        0   {mal:}-{doit}
+       4        0   {me o}-{vr}
+       4        0   {ment}-{au}
+       4        0   {mist}-{à l’}
+       4        0   {mot,}-{déjà}
+       4        0   {mps.}-{, il}
+       4        0   {mut|}-{siwe}
+       4        0   {m}-{il t}
+       4        0   {ndre}-{st}
+       4        0   {nsol}-{uch}
+       4        0   {n}-{H}
+       4        0   {o,}-{a.}
+       4        0   {okl}-{a, (}
+       4        0   {ok}-{a}
+       4        0   {ol}-{}
+       4        0   {ou<\n>x}-{’est}
+       4        0   {ouch}-{ir}
+       4        0   {ous }-{; ki}
+       4        0   {o}-{(a}
+       4        0   {o}-{a.) }
+       4        0   {o}-{v.}
+       4        0   {parl}-{ci-d}
+       4        0   {phys}-{}
+       4        0   {pis,}-{ble}
+       4        0   {plac}-{chos}
+       4        0   {pour}-{des}
+       4        0   {pro}-{v. a}
+       4        0   {p}-{(v. }
+       4        0   {qr}-{(v. }
+       4        0   {que:}-{par}
+       4        0   {r.<\n>T}-{our-}
+       4        0   {ra}-{des }
+       4        0   {rebh}-{ con}
+       4        0   {ri<\n>.}-{TA,}
+       4        0   {rie,}-{.}
+       4        0   {rle }-{it s}
+       4        0   {rram}-{TTAM}
+       4        0   {swew}-{SWEW}
+       4        0   {t F<\n>}-{(v. }
+       4        0   {t le}-{ qui}
+       4        0   {t }-{«}
+       4        0   {t. ,}-{sion}
+       4        0   {tité}-{. f}
+       4        0   {tom }-{}
+       4        0   {tomb}-{fair}
+       4        0   {tout}-{g. e}
+       4        0   {t}-{quid}
+       4        0   {tè}-{ l’é}
+       4        0   {u }-{«}
+       4        0   {ui }-{e su}
+       4        0   {un l}-{blaf}
+       4        0   {ur<\n>e}-{n }
+       4        0   {ure,}-{tc.}
+       4        0   {urer}-{}
+       4        0   {ur}-{é, s}
+       4        0   {vwew}-{WEW}
+       4        0   {w:}-{v.}
+       4        0   {w}-{et r}
+       4        0   {x }-{}
+       4        0   {x }-{«}
+       4        0   {y.<\n>k}-{um}
+       4        0   {yeux}-{il a}
+       4        0   {| sy}-{âpwe}
+       4        0   {| yå}-{ aka}
+       4        0   {|:<\n>T}-{l’}
+       4        0   {|u F}-{«T}
+       4        0   {|}-{habi}
+       4        0   {|}-{il}
+       4        0   {|}-{}
+       4        0   {|«}-{}
+       4        0   {}-{ bu.}
+       4        0   {}-{ nue}
+       4        0   {}-{ p}
+       4        0   {}-{(n. }
+       4        0   {}-{.)}
+       4        0   {}-{342<\n>}
+       4        0   {}-{502<\n>}
+       4        0   {}-{576<\n>}
+       4        0   {}-{660<\n>}
+       4        0   {}-{<\n>dur}
+       4        0   {}-{IPEK}
+       4        0   {}-{PAPI}
+       4        0   {}-{PI}
+       4        0   {}-{SIMO}
+       4        0   {}-{TTAW}
+       4        0   {}-{a}
+       4        0   {}-{f.) }
+       4        0   {}-{inte}
+       4        0   {}-{k, a}
+       4        0   {}-{l’}
+       4        0   {}-{ok, }
+       4        0   {}-{r}
+       4        0   {}-{st e}
+       4        0   {}-{ÂMI<\n>}
+       4        0   {« A}-{AKOS}
+       4        0   {«}-{sans}
+       4        0   {ÂPEW}-{AKÂM}
+       4        0   {ÂR}-{AK}
+       4        0   {ÂYIK}-{EW}
+       4        0   {Âwew}-{AWEW}
+       4        0   {É<\n>` }-{I}
+       4        0   {à dé}-{taba}
+       4        0   {à eg}-{comm}
+       4        0   {à}-{KAM,}
+       4        0   {à}-{a}
+       4        0   {âtch}-{wäy,}
+       4        0   {åaew}-{ÂHEW}
+       4        0   {åpus}-{}
+       4        0   {åtew}-{ÂTEW}
+       4        0   {ébés}-{âyik}
+       4        0   {ée.<\n>}-{ah }
+       4        0   {éte}-{webi}
+       4        0   {ü<\n>d}-{il a}
+       4        0   {ı BÅ}-{«SÂ}
+       4        0   {— "1}-{v.)}
+       4        0   {———Q}-{«O}
+       4        0   {“eu }-{«}
+       3        0   { " }-{<\n>}
+       3        0   { -<\n>}-{}
+       3        0   { 8<\n>}-{}
+       3        0   { 9<\n>}-{g. }
+       3        0   { : }-{}
+       3        0   { ;}-{ous}
+       3        0   { ;}-{x.)}
+       3        0   { >,}-{}
+       3        0   { >-}-{}
+       3        0   { E.}-{}
+       3        0   { F.}-{}
+       3        0   { Lu}-{}
+       3        0   { Sa}-{}
+       3        0   { VA}-{YÂ}
+       3        0   { WW}-{}
+       3        0   { `<\n>}-{<\n>«}
+       3        0   { `<\n>}-{}
+       3        0   { de}-{e,}
+       3        0   { di}-{}
+       3        0   { du}-{n,}
+       3        0   { g}-{g.,}
+       3        0   { kb}-{}
+       3        0   { mâ}-{ke}
+       3        0   { pl}-{mb}
+       3        0   { pl}-{s}
+       3        0   { re}-{.)}
+       3        0   { }-{<\n>}
+       3        0   { « }-{}
+       3        0   { À }-{A}
+       3        0   { Ès}-{}
+       3        0   {" à}-{}
+       3        0   {"}-{kit}
+       3        0   {$ g}-{il}
+       3        0   {&. }-{}
+       3        0   {'op}-{’un}
+       3        0   {'un}-{}
+       3        0   {'v-}-{’t’}
+       3        0   {(n.}-{a.)}
+       3        0   {(v.}-{ou,}
+       3        0   {) p}-{}
+       3        0   {, '}-{.}
+       3        0   {, (}-{w}
+       3        0   {, C}-{c}
+       3        0   {, N}-{OSK}
+       3        0   {, d}-{.<\n>x}
+       3        0   {, d}-{lac}
+       3        0   {, e}-{.}
+       3        0   {, u}-{ il}
+       3        0   {, |}-{.)}
+       3        0   {, |}-{.}
+       3        0   {, ~.}-{}
+       3        0   {,<\n>,}-{}
+       3        0   {,<\n>l}-{ f}
+       3        0   {-1 }-{}
+       3        0   {-<\n>G}-{ C}
+       3        0   {-<\n>“}-{}
+       3        0   {-l}-{uto}
+       3        0   {. #}-{«}
+       3        0   {. L}-{ l’}
+       3        0   {. M}-{«}
+       3        0   {. i}-{}
+       3        0   {.)q}-{}
+       3        0   {.<\n>-}-{ }
+       3        0   {.<\n>a}-{-}
+       3        0   {.}-{ de}
+       3        0   {.}-{ en}
+       3        0   {.}-{vec}
+       3        0   {0}-{a}
+       3        0   {1 B}-{«S}
+       3        0   {289}-{ÂKW}
+       3        0   {2}-{les}
+       3        0   {8<\n>D}-{il}
+       3        0   {: {}-{(}
+       3        0   {: ~:}-{.}
+       3        0   {:<\n>_}-{}
+       3        0   {:\}-{.) }
+       3        0   {:}-{;}
+       3        0   {:}-{est}
+       3        0   {:}-{«}
+       3        0   {<\n>" }-{}
+       3        0   {<\n>"p}-{n}
+       3        0   {<\n>-R}-{ K}
+       3        0   {<\n>4}-{ il}
+       3        0   {<\n>A}-{ N.}
+       3        0   {<\n>ER}-{g.}
+       3        0   {<\n>T}-{ l’}
+       3        0   {<\n>` }-{-}
+       3        0   {<\n>il}-{}
+       3        0   {<\n>me}-{ }
+       3        0   {<\n>n'}-{’}
+       3        0   {<\n>}-{-}
+       3        0   {<\n>}-{a â}
+       3        0   {<\n>£}-{ f.}
+       3        0   {><\n>.}-{}
+       3        0   {><\n>}-{c’e}
+       3        0   {A<\n>}-{B. }
+       3        0   {A<\n>}-{il }
+       3        0   {AKA}-{NI-}
+       3        0   {AN}-{n.)}
+       3        0   {AWE}-{EPA}
+       3        0   {Ae,}-{(a.}
+       3        0   {Ae}-{pou}
+       3        0   {A}-{EPI}
+       3        0   {Bew}-{EW}
+       3        0   {CH.}-{f.)}
+       3        0   {CHE}-{lui}
+       3        0   {D A}-{r.)}
+       3        0   {DES}-{AKW}
+       3        0   {DS<\n>}-{in-}
+       3        0   {Die}-{pr}
+       3        0   {Di}-{f.)}
+       3        0   {Dt}-{s’y}
+       3        0   {D}-{(v.}
+       3        0   {D}-{f.)}
+       3        0   {D}-{ils}
+       3        0   {E<\n>}-{il }
+       3        0   {EE<\n>}-{}
+       3        0   {EI?}-{un}
+       3        0   {EN}-{f.)}
+       3        0   {ES}-{(a.}
+       3        0   {H}-{(a.}
+       3        0   {IMO}-{TE}
+       3        0   {IST}-{AY}
+       3        0   {Ia,}-{(n.}
+       3        0   {Ia}-{(n.}
+       3        0   {In,}-{(v.}
+       3        0   {In}-{(v.}
+       3        0   {Io,}-{(n.}
+       3        0   {Jm}-{f.)}
+       3        0   {J}-{l}
+       3        0   {KEW}-{N}
+       3        0   {KIN}-{T}
+       3        0   {KIN}-{ÂW}
+       3        0   {KIT}-{TCH}
+       3        0   {LU }-{«}
+       3        0   {Les}-{il}
+       3        0   {MEw}-{HUW}
+       3        0   {NÂH}-{WEW}
+       3        0   {OI,}-{il}
+       3        0   {OSK}-{, N}
+       3        0   {P}-{BEY}
+       3        0   {RT}-{ÂKI}
+       3        0   {SI}-{HU-}
+       3        0   {SUN}-{Y}
+       3        0   {St<\n>}-{NI-}
+       3        0   {TIN}-{EW}
+       3        0   {Tt<\n>}-{HI}
+       3        0   {T}-{KIN}
+       3        0   {T}-{}
+       3        0   {U d}-{il}
+       3        0   {U}-{O}
+       3        0   {VA }-{YÂ}
+       3        0   {V}-{}
+       3        0   {W:}-{(v.}
+       3        0   {WA }-{}
+       3        0   {WE}-{KKA}
+       3        0   {Wa}-{(v.}
+       3        0   {We}-{(n.}
+       3        0   {Wi<\n>}-{}
+       3        0   {W}-{BÉS}
+       3        0   {[V}-{(v.}
+       3        0   {` A}-{AMÂ}
+       3        0   {` A}-{Â}
+       3        0   {` {}-{(}
+       3        0   {` ¡}-{}
+       3        0   {`<\n>m}-{so}
+       3        0   {`<\n>}-{il }
+       3        0   {a)}-{(v.}
+       3        0   {a)}-{qui}
+       3        0   {a, }-{}
+       3        0   {a,}-{(v.}
+       3        0   {a.)}-{il}
+       3        0   {abo}-{}
+       3        0   {adm}-{lu}
+       3        0   {agn}-{re }
+       3        0   {ag}-{une}
+       3        0   {ait}-{e à}
+       3        0   {ai}-{n.)}
+       3        0   {aji}-{v.)}
+       3        0   {ak,}-{en}
+       3        0   {akw}-{qu}
+       3        0   {al}-{n.)}
+       3        0   {amo}-{}
+       3        0   {an}-{rev}
+       3        0   {arl}-{pli}
+       3        0   {av}-{il }
+       3        0   {awE}-{,}
+       3        0   {a}-{(n.}
+       3        0   {a}-{pei}
+       3        0   {a}-{v}
+       3        0   {a}-{’es}
+       3        0   {b A}-{Â}
+       3        0   {ba}-{ mo}
+       3        0   {bla}-{u}
+       3        0   {ble}-{}
+       3        0   {c'e}-{ain}
+       3        0   {c.)}-{nt,}
+       3        0   {cer}-{la}
+       3        0   {c}-{}
+       3        0   {d'}-{il }
+       3        0   {d. }-{col}
+       3        0   {d.<\n>}-{il }
+       3        0   {d<\n>Ù}-{a.)}
+       3        0   {de}-{f.)}
+       3        0   {d}-{(a.}
+       3        0   {d}-{(n.}
+       3        0   {d}-{(v.}
+       3        0   {d}-{aw,}
+       3        0   {d}-{a}
+       3        0   {d}-{il }
+       3        0   {d}-{pâl}
+       3        0   {e)<\n>}-{ux }
+       3        0   {e, }-{}
+       3        0   {ef}-{il }
+       3        0   {ei}-{a t}
+       3        0   {ek}-{(v.}
+       3        0   {eme}-{an}
+       3        0   {en,}-{vée}
+       3        0   {est}-{(v.}
+       3        0   {eux}-{t}
+       3        0   {e}-{(a.}
+       3        0   {e}-{ac.}
+       3        0   {e}-{cho}
+       3        0   {e}-{con}
+       3        0   {eñ,}-{à}
+       3        0   {f)|}-{}
+       3        0   {fa}-{lle}
+       3        0   {fo,}-{(v.}
+       3        0   {f}-{ a.}
+       3        0   {g.}-{lac}
+       3        0   {gra}-{éte}
+       3        0   {gr}-{lqu}
+       3        0   {gui}-{hab}
+       3        0   {hos}-{omm}
+       3        0   {i f}-{rac}
+       3        0   {i,}-{ent}
+       3        0   {id}-{écl}
+       3        0   {il }-{ce}
+       3        0   {il }-{}
+       3        0   {il<\n>}-{sen}
+       3        0   {im)}-{un}
+       3        0   {imm}-{onn}
+       3        0   {in}-{ord}
+       3        0   {ir,}-{u}
+       3        0   {ire}-{çon}
+       3        0   {is,}-{e)}
+       3        0   {is}-{rol}
+       3        0   {ièv}-{e }
+       3        0   {jem}-{r}
+       3        0   {jn.}-{ok,}
+       3        0   {j}-{à n}
+       3        0   {k. }-{ut}
+       3        0   {kit}-{(a.}
+       3        0   {l :}-{t;}
+       3        0   {l'}-{qu’}
+       3        0   {lc}-{u m}
+       3        0   {le }-{}
+       3        0   {le.}-{.)}
+       3        0   {le}-{(a.}
+       3        0   {le}-{tc.}
+       3        0   {llè}-{tte}
+       3        0   {lon}-{}
+       3        0   {lqu}-{-gr}
+       3        0   {lqu}-{nce}
+       3        0   {lqu}-{tt}
+       3        0   {l}-{bai}
+       3        0   {l}-{opp}
+       3        0   {man}-{cou}
+       3        0   {maw}-{NAW}
+       3        0   {mba}-{}
+       3        0   {mon}-{ê}
+       3        0   {mow}-{w, }
+       3        0   {mp}-{, i}
+       3        0   {m}-{M}
+       3        0   {m}-{sag}
+       3        0   {n t}-{r}
+       3        0   {n,<\n>}-{so-}
+       3        0   {n.)}-{des}
+       3        0   {n<\n>'}-{ il}
+       3        0   {new}-{HEW}
+       3        0   {new}-{MEW}
+       3        0   {new}-{NEW}
+       3        0   {ni}-{ak,}
+       3        0   {nt,}-{l}
+       3        0   {nt.}-{mok}
+       3        0   {n}-{a}
+       3        0   {o }-{im.}
+       3        0   {o)}-{(v.}
+       3        0   {ok,}-{(v.}
+       3        0   {ok,}-{il}
+       3        0   {ok,}-{ni}
+       3        0   {oki}-{la}
+       3        0   {okk}-{a-}
+       3        0   {one}-{TAW}
+       3        0   {onr}-{ew}
+       3        0   {on}-{er,}
+       3        0   {ose}-{ ni}
+       3        0   {ot<\n>}-{wi-}
+       3        0   {oup}-{a-t}
+       3        0   {our}-{re.}
+       3        0   {owo}-{: }
+       3        0   {o}-{vie}
+       3        0   {o}-{v}
+       3        0   {pa<\n>}-{il }
+       3        0   {pas}-{a.)}
+       3        0   {po}-{act}
+       3        0   {que}-{l}
+       3        0   {que}-{vo}
+       3        0   {qui}-{(v.}
+       3        0   {qué}-{i}
+       3        0   {r<\n>«}-{(a.}
+       3        0   {ra,}-{}
+       3        0   {rac}-{v}
+       3        0   {ram}-{TAM}
+       3        0   {ran}-{TAM}
+       3        0   {rat}-{, }
+       3        0   {raw}-{TAW}
+       3        0   {re}-{; v}
+       3        0   {ron}-{ai}
+       3        0   {ron}-{au}
+       3        0   {rra}-{ko}
+       3        0   {rrw}-{TEW}
+       3        0   {rt,}-{}
+       3        0   {rtr}-{ill}
+       3        0   {r}-{}
+       3        0   {ré.}-{ans}
+       3        0   {sag}-{l s}
+       3        0   {sa}-{et }
+       3        0   {ser}-{l’}
+       3        0   {sit}-{n.)}
+       3        0   {si}-{le }
+       3        0   {sm}-{SIM}
+       3        0   {ss,}-{SAK}
+       3        0   {stä}-{}
+       3        0   {swz}-{SWE}
+       3        0   {ta;}-{l}
+       3        0   {tai}-{de }
+       3        0   {ton}-{il}
+       3        0   {t}-{l’e}
+       3        0   {u<\n>à}-{end}
+       3        0   {uch}-{mbi}
+       3        0   {ume}-{air}
+       3        0   {un}-{(a.}
+       3        0   {un}-{de,}
+       3        0   {u}-{né,}
+       3        0   {u}-{}
+       3        0   {v. }-{}
+       3        0   {vec}-{}
+       3        0   {vi}-{n.)}
+       3        0   {v}-{n}
+       3        0   {w,}-{ la}
+       3        0   {wa,}-{le}
+       3        0   {w}-{(v.}
+       3        0   {w}-{v}
+       3        0   {wâp}-{rac}
+       3        0   {w’:}-{u.}
+       3        0   {yop}-{rat}
+       3        0   {zi}-{a.)}
+       3        0   {{0}-{ (v}
+       3        0   {| T}-{bai}
+       3        0   {| «}-{des}
+       3        0   {|,<\n>}-{}
+       3        0   {|.<\n>}-{}
+       3        0   {|<\n>N}-{NIK}
+       3        0   {|<\n>«}-{f)}
+       3        0   {|<\n>“}-{}
+       3        0   {|}-{f.)}
+       3        0   {} d}-{l}
+       3        0   {}-{ pe}
+       3        0   {}-{(}
+       3        0   {}-{-ma}
+       3        0   {}-{. a}
+       3        0   {}-{I}
+       3        0   {}-{SKÂ}
+       3        0   {}-{a.)}
+       3        0   {}-{ace}
+       3        0   {}-{g}
+       3        0   {}-{he }
+       3        0   {}-{ide}
+       3        0   {}-{if,}
+       3        0   {}-{lon}
+       3        0   {}-{lèg}
+       3        0   {}-{n<\n>a}
+       3        0   {}-{r.)}
+       3        0   {}-{tch}
+       3        0   {}-{te.}
+       3        0   {}-{v. }
+       3        0   {}-{«}
+       3        0   {}-{’t’}
+       3        0   {}}-{)}
+       3        0   {£ “}-{c’}
+       3        0   {« À}-{Â}
+       3        0   {« Â}-{A}
+       3        0   {« ‘}-{}
+       3        0   {«}-{}
+       3        0   {À<\n>‘}-{}
+       3        0   {Ü n}-{ok,}
+       3        0   {à<\n>-}-{il}
+       3        0   {à<\n>}-{il }
+       3        0   {à}-{(n.}
+       3        0   {à}-{(v.}
+       3        0   {ämr}-{âw}
+       3        0   {é p}-{a}
+       3        0   {é.}-{’au}
+       3        0   {é;}-{vir}
+       3        0   {éi<\n>}-{êt }
+       3        0   {é}-{c..}
+       3        0   {ë}-{e}
+       3        0   {ù l}-{err}
+       3        0   {ù<\n>‘}-{il }
+       3        0   {‘a }-{«}
+       3        0   {‘| }-{}
+       3        0   {“ki}-{ana}
+       3        0   {” 9}-{}
+       3        0   {„Ww}-{(v}
+       2        0   { )}-{}
+       2        0   { -~}-{}
+       2        0   { 1}-{)}
+       2        0   { 2}-{}
+       2        0   { 8}-{g}
+       2        0   { >}-{}
+       2        0   { ?}-{}
+       2        0   { A}-{<\n>â}
+       2        0   { D}-{e.}
+       2        0   { D}-{t;}
+       2        0   { G}-{O}
+       2        0   { H}-{l}
+       2        0   { T}-{c}
+       2        0   { V}-{Y}
+       2        0   { `}-{)}
+       2        0   { a}-{r}
+       2        0   { d}-{g}
+       2        0   { e}-{}
+       2        0   { f}-{}
+       2        0   { i}-{}
+       2        0   { l}-{’}
+       2        0   { o}-{}
+       2        0   { r}-{r.}
+       2        0   { |}-{.<\n>}
+       2        0   { }-{-}
+       2        0   { }}-{.)}
+       2        0   { à}-{s}
+       2        0   { à}-{}
+       2        0   { ä}-{a}
+       2        0   { —}-{.}
+       2        0   {!}-{}
+       2        0   {"r}-{d}
+       2        0   {$<\n>}-{}
+       2        0   {& }-{«}
+       2        0   {'<\n>}-{ }
+       2        0   {'a}-{a }
+       2        0   {'o}-{v}
+       2        0   {'}-{}
+       2        0   {'é}-{’ê}
+       2        0   {(a}-{im}
+       2        0   {(e}-{ok}
+       2        0   {(}-{}
+       2        0   {(}-{«}
+       2        0   {(é}-{d}
+       2        0   {)<\n>}-{ }
+       2        0   {)<\n>}-{<\n>«}
+       2        0   {)}-{}
+       2        0   {*A}-{Â}
+       2        0   {, }-{m}
+       2        0   {, }-{«}
+       2        0   {,.}-{}
+       2        0   {,<\n>}-{ }
+       2        0   {,<\n>}-{-}
+       2        0   {,<\n>}-{. }
+       2        0   {,<\n>}-{}
+       2        0   {,}-{.)}
+       2        0   {,}-{.m}
+       2        0   {,}-{;}
+       2        0   {,}-{ce}
+       2        0   {,}-{ns}
+       2        0   {- }-{}
+       2        0   {- ~}-{e.}
+       2        0   {-}-{.}
+       2        0   {-}-{m.}
+       2        0   {.(}-{«}
+       2        0   {.)}-{er}
+       2        0   {.)}-{u,}
+       2        0   {..}-{}
+       2        0   {.k}-{ c}
+       2        0   {.p}-{ o}
+       2        0   {.{}-{ (}
+       2        0   {.}-{il}
+       2        0   {.}-{re}
+       2        0   {.}-{st}
+       2        0   {.}-{t,}
+       2        0   {0 }-{ad}
+       2        0   {0:}-{a.}
+       2        0   {0}-{ a}
+       2        0   {0}-{v.}
+       2        0   {1}-{il}
+       2        0   {1}}-{il}
+       2        0   {2}-{a.}
+       2        0   {3 }-{}
+       2        0   {4 }-{}
+       2        0   {7}-{n}
+       2        0   {: }-{qu}
+       2        0   {:<\n>}-{-}
+       2        0   {;.}-{,}
+       2        0   {;<\n>}-{}
+       2        0   {;}-{.}
+       2        0   {<\n>&}-{â}
+       2        0   {<\n>'}-{}
+       2        0   {<\n>-}-{s}
+       2        0   {<\n>.}-{ }
+       2        0   {<\n>.}-{-}
+       2        0   {<\n>4}-{nd}
+       2        0   {<\n>7}-{}
+       2        0   {<\n>:}-{}
+       2        0   {<\n>A}-{ â}
+       2        0   {<\n>D}-{ p}
+       2        0   {<\n>N}-{-W}
+       2        0   {<\n>P}-{ p}
+       2        0   {<\n>S}-{ s}
+       2        0   {<\n>T}-{ Y}
+       2        0   {<\n>V}-{ v}
+       2        0   {<\n>\}-{ }
+       2        0   {<\n>a}-{di}
+       2        0   {<\n>c}-{ç}
+       2        0   {<\n>o}-{ g}
+       2        0   {<\n>q}-{ g}
+       2        0   {<\n>q}-{d}
+       2        0   {<\n>s}-{si}
+       2        0   {<\n>}-{ T}
+       2        0   {<\n>}-{. }
+       2        0   {<\n>}-{i }
+       2        0   {<\n>}-{t }
+       2        0   {<\n>«}-{au}
+       2        0   {<\n>‘}-{}
+       2        0   {<\n>“}-{ }
+       2        0   {<\n>„}-{ }
+       2        0   {<\n>„}-{-}
+       2        0   {> }-{}
+       2        0   {A }-{IJ}
+       2        0   {A }-{}
+       2        0   {A }-{«}
+       2        0   {AE}-{ÂB}
+       2        0   {AK}-{T}
+       2        0   {AK}-{}
+       2        0   {AM}-{il}
+       2        0   {AR}-{ÂK}
+       2        0   {Ai}-{et}
+       2        0   {Al}-{v.}
+       2        0   {A}-{ Â}
+       2        0   {A}-{E}
+       2        0   {A}-{JI}
+       2        0   {A}-{TI}
+       2        0   {A}-{fa}
+       2        0   {CH}-{wa}
+       2        0   {CH}-{ÂW}
+       2        0   {C}-{}
+       2        0   {D }-{f.}
+       2        0   {D}-{IJ}
+       2        0   {D}-{Il}
+       2        0   {ER}-{CH}
+       2        0   {E}-{H}
+       2        0   {E}-{IS}
+       2        0   {E}-{e}
+       2        0   {E}-{f.}
+       2        0   {H}-{tu}
+       2        0   {IN}-{}
+       2        0   {IR}-{ÂK}
+       2        0   {Im}-{(v}
+       2        0   {Ip}-{(v}
+       2        0   {I}-{(}
+       2        0   {I}-{E}
+       2        0   {I}-{«}
+       2        0   {JI}-{A}
+       2        0   {Je}-{(a}
+       2        0   {Je}-{«}
+       2        0   {K }-{«}
+       2        0   {KI}-{}
+       2        0   {KK}-{SI}
+       2        0   {KK}-{}
+       2        0   {KW}-{}
+       2        0   {Ki}-{}
+       2        0   {K}-{N}
+       2        0   {K}-{pl}
+       2        0   {LL}-{le}
+       2        0   {L}-{l}
+       2        0   {M)}-{W}
+       2        0   {M.}-{N,}
+       2        0   {Ma}-{t}
+       2        0   {M}-{N}
+       2        0   {NT}-{W}
+       2        0   {N}-{TT}
+       2        0   {OB}-{CH}
+       2        0   {OW}-{ÂM}
+       2        0   {P}-{il}
+       2        0   {Q}-{mo}
+       2        0   {R }-{K}
+       2        0   {RA}-{K}
+       2        0   {RM}-{a}
+       2        0   {RO}-{HU}
+       2        0   {RY}-{H}
+       2        0   {SI}-{KK}
+       2        0   {SU}-{ME}
+       2        0   {Se}-{sa}
+       2        0   {S}-{K}
+       2        0   {S}-{ét}
+       2        0   {TA}-{IH}
+       2        0   {TC}-{}
+       2        0   {TO}-{IW}
+       2        0   {TU}-{vu}
+       2        0   {UT}-{OS}
+       2        0   {U}-{I}
+       2        0   {V.}-{de}
+       2        0   {V}-{W}
+       2        0   {V}-{l’}
+       2        0   {VÂ}-{YA}
+       2        0   {W<\n>}-{â}
+       2        0   {We}-{du}
+       2        0   {Xx}-{}
+       2        0   {Y }-{}
+       2        0   {Y}-{.)}
+       2        0   {Zo}-{im}
+       2        0   {` }-{AM}
+       2        0   {`<\n>}-{co}
+       2        0   {`<\n>}-{}
+       2        0   {a,}-{en}
+       2        0   {a,}-{il}
+       2        0   {a,}-{le}
+       2        0   {a,}-{me}
+       2        0   {a,}-{un}
+       2        0   {ac}-{qu}
+       2        0   {ak}-{l}
+       2        0   {am}-{AM}
+       2        0   {ar}-{le}
+       2        0   {as}-{il}
+       2        0   {as}-{mi}
+       2        0   {ax}-{AM}
+       2        0   {a}-{ce}
+       2        0   {a}-{co}
+       2        0   {a}-{r.}
+       2        0   {a}-{rt}
+       2        0   {a}-{â}
+       2        0   {aå}-{mâ}
+       2        0   {b }-{«}
+       2        0   {bl}-{d’}
+       2        0   {b}-{st}
+       2        0   {b}-{vu}
+       2        0   {b}-{}
+       2        0   {c'}-{ét}
+       2        0   {cc}-{}
+       2        0   {ce}-{a}
+       2        0   {ch}-{ l}
+       2        0   {co}-{q}
+       2        0   {co}-{t}
+       2        0   {c}-{e}
+       2        0   {c}-{rd}
+       2        0   {c}-{sa}
+       2        0   {c}-{st}
+       2        0   {d }-{}
+       2        0   {d'}-{l}
+       2        0   {d'}-{}
+       2        0   {d.}-{}
+       2        0   {d<\n>}-{à }
+       2        0   {de}-{il}
+       2        0   {di}-{il}
+       2        0   {d}-{.)}
+       2        0   {d}-{bi}
+       2        0   {d}-{i}
+       2        0   {d}-{l}
+       2        0   {d}-{m}
+       2        0   {e }-{«}
+       2        0   {e]}-{}
+       2        0   {en}-{il}
+       2        0   {en}-{}
+       2        0   {eo}-{ik}
+       2        0   {ep}-{ça}
+       2        0   {er}-{.)}
+       2        0   {er}-{mo}
+       2        0   {es}-{ki}
+       2        0   {es}-{é}
+       2        0   {et}-{la}
+       2        0   {e}-{a}
+       2        0   {e}-{da}
+       2        0   {e}-{ho}
+       2        0   {e}-{i}
+       2        0   {e}-{mi}
+       2        0   {e}-{n.}
+       2        0   {e}-{t }
+       2        0   {f)}-{a.}
+       2        0   {f}-{a}
+       2        0   {f}-{ce}
+       2        0   {f}-{n}
+       2        0   {f}-{t}
+       2        0   {g }-{«}
+       2        0   {g:}-{v.}
+       2        0   {gn}-{, }
+       2        0   {gn}-{. }
+       2        0   {g}-{a,}
+       2        0   {g}-{c’}
+       2        0   {g}-{p}
+       2        0   {h}-{br}
+       2        0   {i }-{}
+       2        0   {i }-{«}
+       2        0   {i,}-{t}
+       2        0   {i:}-{.)}
+       2        0   {i<\n>}-{}
+       2        0   {i<\n>}-{Â-}
+       2        0   {id}-{qu}
+       2        0   {id}-{un}
+       2        0   {ie}-{k}
+       2        0   {ik}-{qu}
+       2        0   {il}-{<\n>x}
+       2        0   {il}-{a,}
+       2        0   {il}-{ce}
+       2        0   {im}-{AM}
+       2        0   {im}-{a.}
+       2        0   {im}-{}
+       2        0   {in}-{je}
+       2        0   {in}-{ng}
+       2        0   {ip}-{(v}
+       2        0   {is}-{.)}
+       2        0   {is}-{ÂP}
+       2        0   {iv}-{}
+       2        0   {iv}-{ïy}
+       2        0   {i}-{.)}
+       2        0   {i}-{a }
+       2        0   {i}-{é}
+       2        0   {i}-{’é}
+       2        0   {ié}-{le}
+       2        0   {j.}-{)}
+       2        0   {jo}-{(v}
+       2        0   {j}-{.)}
+       2        0   {ki}-{on}
+       2        0   {ki}-{}
+       2        0   {k}-{}
+       2        0   {l }-{’}
+       2        0   {l'}-{be}
+       2        0   {l'}-{}
+       2        0   {l:}-{t }
+       2        0   {l<\n>}-{s }
+       2        0   {la}-{en}
+       2        0   {la}-{n}
+       2        0   {le}-{a.}
+       2        0   {le}-{en}
+       2        0   {le}-{ou}
+       2        0   {le}-{tc}
+       2        0   {le}-{à}
+       2        0   {li}-{t}
+       2        0   {lu}-{k}
+       2        0   {l}-{.)}
+       2        0   {l}-{n }
+       2        0   {l}-{ni}
+       2        0   {l}-{n’}
+       2        0   {l}-{on}
+       2        0   {l}-{t }
+       2        0   {l}-{}
+       2        0   {m-}-{.}
+       2        0   {m.}-{st}
+       2        0   {m}-{n’}
+       2        0   {n }-{}
+       2        0   {n)}-{}
+       2        0   {n,}-{.}
+       2        0   {n,}-{u.}
+       2        0   {n.}-{l}
+       2        0   {nc}-{ss}
+       2        0   {ne}-{}
+       2        0   {ns}-{ l}
+       2        0   {nt}-{w}
+       2        0   {nt}-{}
+       2        0   {nu}-{(v}
+       2        0   {nu}-{wa}
+       2        0   {nw}-{HW}
+       2        0   {n}-{M}
+       2        0   {n}-{f.}
+       2        0   {n}-{m}
+       2        0   {n}-{}
+       2        0   {o }-{«}
+       2        0   {oh}-{On}
+       2        0   {oi}-{il}
+       2        0   {ok}-{il}
+       2        0   {ou}-{ }
+       2        0   {ou}-{av}
+       2        0   {ou}-{de}
+       2        0   {o}-{ e}
+       2        0   {o}-{ p}
+       2        0   {o}-{ra}
+       2        0   {pa}-{de}
+       2        0   {pe}-{bl}
+       2        0   {po}-{ar}
+       2        0   {po}-{l’}
+       2        0   {pr}-{bl}
+       2        0   {p}-{l’}
+       2        0   {p}-{n}
+       2        0   {p}-{}
+       2        0   {p}-{âb}
+       2        0   {qu}-{(c}
+       2        0   {qu}-{po}
+       2        0   {qu}-{r}
+       2        0   {qu}-{um}
+       2        0   {r'}-{}
+       2        0   {r.}-{}
+       2        0   {r:}-{c}
+       2        0   {r<\n>}-{n }
+       2        0   {rd}-{c}
+       2        0   {ro}-{v.}
+       2        0   {rs}-{ne}
+       2        0   {r}-{ll}
+       2        0   {r}-{l}
+       2        0   {r}-{né}
+       2        0   {r}-{qu}
+       2        0   {r}-{s,}
+       2        0   {r}-{x}
+       2        0   {s }-{«}
+       2        0   {s.}-{ à}
+       2        0   {s<\n>}-{, }
+       2        0   {s<\n>}-{x }
+       2        0   {sa}-{(}
+       2        0   {sa}-{fo}
+       2        0   {se}-{en}
+       2        0   {si}-{me}
+       2        0   {so}-{p}
+       2        0   {ss}-{}
+       2        0   {st}-{ a}
+       2        0   {st}-{.}
+       2        0   {st}-{je}
+       2        0   {st}-{nd}
+       2        0   {s}-{(t}
+       2        0   {s}-{av}
+       2        0   {s}-{c.}
+       2        0   {s}-{c}
+       2        0   {s}-{ng}
+       2        0   {s}-{qu}
+       2        0   {s}-{x}
+       2        0   {t }-{}
+       2        0   {t-}-{c.}
+       2        0   {t.}-{e}
+       2        0   {t<\n>}-{I-}
+       2        0   {t<\n>}-{u }
+       2        0   {t]}-{}
+       2        0   {ta}-{}
+       2        0   {te}-{(v}
+       2        0   {ti}-{s}
+       2        0   {ti}-{u}
+       2        0   {to}-{le}
+       2        0   {t}-{(v}
+       2        0   {t}-{(}
+       2        0   {t}-{c’}
+       2        0   {t}-{i,}
+       2        0   {t}-{il}
+       2        0   {t}-{l}
+       2        0   {t}-{p}
+       2        0   {t}-{}
+       2        0   {té}-{e}
+       2        0   {u }-{}
+       2        0   {u:}-{.)}
+       2        0   {u:}-{a.}
+       2        0   {uT}-{HY}
+       2        0   {ui}-{e}
+       2        0   {ui}-{to}
+       2        0   {un}-{de}
+       2        0   {un}-{l}
+       2        0   {up}-{rm}
+       2        0   {us}-{HE}
+       2        0   {u}-{.)}
+       2        0   {u}-{e}
+       2        0   {u}-{il}
+       2        0   {u}-{k}
+       2        0   {u}-{rc}
+       2        0   {v.}-{du}
+       2        0   {v.}-{on}
+       2        0   {ve}-{}
+       2        0   {vi}-{eg}
+       2        0   {vr}-{i }
+       2        0   {v}-{s’}
+       2        0   {vé}-{we}
+       2        0   {w;}-{W,}
+       2        0   {wo}-{ti}
+       2        0   {w}-{(v}
+       2        0   {w}-{n’}
+       2        0   {w}-{qu}
+       2        0   {wâ}-{ }
+       2        0   {xA}-{Â}
+       2        0   {x}-{M}
+       2        0   {zr}-{x}
+       2        0   {z}-{. }
+       2        0   {{ }-{(}
+       2        0   {{ }-{}
+       2        0   {{r}-{bl}
+       2        0   {| }-{(}
+       2        0   {|}-{de}
+       2        0   {|}-{id}
+       2        0   {|«}-{me}
+       2        0   {}-{ a}
+       2        0   {}-{ t}
+       2        0   {}-{-m}
+       2        0   {}-{-s}
+       2        0   {}-{A}
+       2        0   {}-{EY}
+       2        0   {}-{IK}
+       2        0   {}-{IW}
+       2        0   {}-{JI}
+       2        0   {}-{KI}
+       2        0   {}-{KW}
+       2        0   {}-{K}
+       2        0   {}-{TC}
+       2        0   {}-{c.}
+       2        0   {}-{ce}
+       2        0   {}-{cr}
+       2        0   {}-{c}
+       2        0   {}-{dé}
+       2        0   {}-{ev}
+       2        0   {}-{f.}
+       2        0   {}-{g.}
+       2        0   {}-{l }
+       2        0   {}-{le}
+       2        0   {}-{ma}
+       2        0   {}-{pa}
+       2        0   {}-{pl}
+       2        0   {}-{r.}
+       2        0   {}-{ri}
+       2        0   {}-{ss}
+       2        0   {}-{st}
+       2        0   {}-{s’}
+       2        0   {}-{ur}
+       2        0   {}-{w}
+       2        0   {}-{ÂK}
+       2        0   {}-{ÂT}
+       2        0   {}-{à }
+       2        0   {}.}-{.)}
+       2        0   {}}-{) }
+       2        0   {}}-{}
+       2        0   {£}-{ç}
+       2        0   {«Å}-{Â}
+       2        0   {¿l}-{s}
+       2        0   {À<\n>}-{}
+       2        0   {À}-{Â}
+       2        0   {Â }-{A}
+       2        0   {ÂS}-{AK}
+       2        0   {Â}-{E}
+       2        0   {É}-{Ê}
+       2        0   {Ñ}-{il}
+       2        0   {à }-{}
+       2        0   {à}-{a.}
+       2        0   {à}-{de}
+       2        0   {à}-{v.}
+       2        0   {à}-{â}
+       2        0   {äi}-{ât}
+       2        0   {äo}-{ân}
+       2        0   {är}-{ât}
+       2        0   {ä}-{a}
+       2        0   {ä}-{’â}
+       2        0   {å:}-{a.}
+       2        0   {å}-{}
+       2        0   {è<\n>}-{e }
+       2        0   {èr}-{ud}
+       2        0   {è}-{e}
+       2        0   {éi}-{êt}
+       2        0   {ét}-{c’}
+       2        0   {ét}-{j}
+       2        0   {é}-{o}
+       2        0   {ë}-{ê}
+       2        0   {í }-{«}
+       2        0   {ï}-{i}
+       2        0   {ó<\n>}-{ô}
+       2        0   {ól}-{o!}
+       2        0   {ù}-{i}
+       2        0   {ú}-{il}
+       2        0   {ü}-{il}
+       2        0   {ü}-{u}
+       2        0   {ı}}-{.)}
+       2        0   {š'}-{s }
+       2        0   {‘<\n>}-{NA}
+       2        0   {‘v}-{ p}
+       2        0   {‘}-{«}
+       2        0   {’?}-{;}
+       2        0   {’}-{}
+       2        0   {“ }-{«}
+       2        0   {“é}-{wâ}
+       2        0   {„}-{}
+       1        0   { }-{,}
+       1        0   { }-{E}
+       1        0   { }-{K}
+       1        0   { }-{M}
+       1        0   { }-{e}
+       1        0   { }-{n}
+       1        0   { }-{t}
+       1        0   { }-{y}
+       1        0   {"}-{e}
+       1        0   {"}-{«}
+       1        0   {'}-{h}
+       1        0   {'}-{«}
+       1        0   {(}-{s}
+       1        0   {)}-{s}
+       1        0   {*}-{}
+       1        0   {,}-{W}
+       1        0   {,}-{e}
+       1        0   {,}-{s}
+       1        0   {,}-{u}
+       1        0   {-}-{l}
+       1        0   {-}-{s}
+       1        0   {.}-{)}
+       1        0   {.}-{s}
+       1        0   {0}-{o}
+       1        0   {1}-{}
+       1        0   {2}-{a}
+       1        0   {2}-{v}
+       1        0   {3}-{v}
+       1        0   {4}-{â}
+       1        0   {:}-{)}
+       1        0   {:}-{,}
+       1        0   {:}-{i}
+       1        0   {;}-{}
+       1        0   {<\n>}-{a}
+       1        0   {<\n>}-{r}
+       1        0   {<\n>}-{t}
+       1        0   {?}-{}
+       1        0   {@}-{a}
+       1        0   {A}-{I}
+       1        0   {A}-{a}
+       1        0   {A}-{i}
+       1        0   {A}-{«}
+       1        0   {A}-{â}
+       1        0   {B}-{S}
+       1        0   {B}-{l}
+       1        0   {C}-{c}
+       1        0   {D}-{p}
+       1        0   {D}-{«}
+       1        0   {E}-{A}
+       1        0   {E}-{I}
+       1        0   {E}-{S}
+       1        0   {E}-{}
+       1        0   {E}-{Â}
+       1        0   {F}-{T}
+       1        0   {F}-{Y}
+       1        0   {H}-{T}
+       1        0   {H}-{Y}
+       1        0   {I}-{T}
+       1        0   {J}-{j}
+       1        0   {K}-{M}
+       1        0   {K}-{}
+       1        0   {L}-{I}
+       1        0   {M}-{H}
+       1        0   {M}-{J}
+       1        0   {N}-{K}
+       1        0   {N}-{M}
+       1        0   {N}-{Y}
+       1        0   {N}-{}
+       1        0   {P}-{S}
+       1        0   {R}-{}
+       1        0   {S}-{M}
+       1        0   {S}-{T}
+       1        0   {S}-{W}
+       1        0   {S}-{}
+       1        0   {T}-{H}
+       1        0   {T}-{J}
+       1        0   {T}-{P}
+       1        0   {T}-{S}
+       1        0   {T}-{i}
+       1        0   {U}-{(}
+       1        0   {U}-{K}
+       1        0   {U}-{T}
+       1        0   {U}-{u}
+       1        0   {U}-{«}
+       1        0   {V}-{n}
+       1        0   {W}-{K}
+       1        0   {W}-{N}
+       1        0   {W}-{l}
+       1        0   {W}-{}
+       1        0   {Y}-{W}
+       1        0   {Y}-{s}
+       1        0   {]}-{}
+       1        0   {`}-{ }
+       1        0   {`}-{a}
+       1        0   {`}-{«}
+       1        0   {a}-{(}
+       1        0   {a}-{.}
+       1        0   {a}-{A}
+       1        0   {a}-{f}
+       1        0   {a}-{n}
+       1        0   {a}-{q}
+       1        0   {a}-{r}
+       1        0   {a}-{u}
+       1        0   {b}-{l}
+       1        0   {b}-{m}
+       1        0   {b}-{v}
+       1        0   {c}-{b}
+       1        0   {c}-{f}
+       1        0   {c}-{g}
+       1        0   {c}-{l}
+       1        0   {c}-{o}
+       1        0   {c}-{«}
+       1        0   {d}-{ }
+       1        0   {d}-{b}
+       1        0   {d}-{o}
+       1        0   {d}-{t}
+       1        0   {d}-{v}
+       1        0   {d}-{â}
+       1        0   {e}-{ }
+       1        0   {e}-{(}
+       1        0   {e}-{p}
+       1        0   {e}-{s}
+       1        0   {e}-{u}
+       1        0   {e}-{x}
+       1        0   {e}-{«}
+       1        0   {f}-{(}
+       1        0   {f}-{i}
+       1        0   {f}-{m}
+       1        0   {f}-{p}
+       1        0   {f}-{r}
+       1        0   {f}-{}
+       1        0   {g}-{a}
+       1        0   {g}-{q}
+       1        0   {g}-{r}
+       1        0   {g}-{x}
+       1        0   {g}-{}
+       1        0   {h}-{k}
+       1        0   {h}-{p}
+       1        0   {h}-{}
+       1        0   {i}-{(}
+       1        0   {i}-{,}
+       1        0   {i}-{I}
+       1        0   {i}-{a}
+       1        0   {i}-{b}
+       1        0   {i}-{e}
+       1        0   {i}-{â}
+       1        0   {j}-{i}
+       1        0   {j}-{s}
+       1        0   {j}-{t}
+       1        0   {l}-{.}
+       1        0   {l}-{b}
+       1        0   {l}-{i}
+       1        0   {l}-{n}
+       1        0   {l}-{p}
+       1        0   {l}-{’}
+       1        0   {m}-{d}
+       1        0   {m}-{n}
+       1        0   {n}-{ }
+       1        0   {n}-{N}
+       1        0   {n}-{f}
+       1        0   {n}-{t}
+       1        0   {o}-{e}
+       1        0   {o}-{g}
+       1        0   {o}-{q}
+       1        0   {o}-{u}
+       1        0   {p}-{c}
+       1        0   {p}-{m}
+       1        0   {p}-{r}
+       1        0   {p}-{s}
+       1        0   {q}-{a}
+       1        0   {q}-{l}
+       1        0   {r}-{W}
+       1        0   {r}-{n}
+       1        0   {r}-{s}
+       1        0   {s}-{(}
+       1        0   {s}-{.}
+       1        0   {s}-{;}
+       1        0   {s}-{d}
+       1        0   {s}-{j}
+       1        0   {s}-{k}
+       1        0   {s}-{l}
+       1        0   {s}-{t}
+       1        0   {t}-{+}
+       1        0   {t}-{.}
+       1        0   {t}-{c}
+       1        0   {t}-{e}
+       1        0   {t}-{i}
+       1        0   {t}-{m}
+       1        0   {t}-{v}
+       1        0   {t}-{«}
+       1        0   {u}-{(}
+       1        0   {u}-{,}
+       1        0   {u}-{-}
+       1        0   {u}-{a}
+       1        0   {u}-{n}
+       1        0   {u}-{r}
+       1        0   {u}-{s}
+       1        0   {u}-{v}
+       1        0   {v}-{W}
+       1        0   {v}-{p}
+       1        0   {v}-{r}
+       1        0   {v}-{s}
+       1        0   {v}-{}
+       1        0   {w}-{C}
+       1        0   {w}-{m}
+       1        0   {w}-{s}
+       1        0   {w}-{u}
+       1        0   {w}-{y}
+       1        0   {x}-{K}
+       1        0   {y}-{.}
+       1        0   {y}-{a}
+       1        0   {y}-{w}
+       1        0   {z}-{s}
+       1        0   {z}-{x}
+       1        0   {{}-{}
+       1        0   {}-{-}
+       1        0   {}-{;}
+       1        0   {}-{H}
+       1        0   {}-{O}
+       1        0   {}-{R}
+       1        0   {}-{Y}
+       1        0   {}-{b}
+       1        0   {}-{o}
+       1        0   {}-{u}
+       1        0   {}-{v}
+       1        0   {}-{ê}
+       1        0   {}}-{l}
+       1        0   {}}-{t}
+       1        0   {~<\n>}-{}
+       1        0   {©}-{v}
+       1        0   {À}-{A}
+       1        0   {À}-{a}
+       1        0   {Å}-{}
+       1        0   {È}-{E}
+       1        0   {È}-{Â}
+       1        0   {É}-{E}
+       1        0   {Ë}-{E}
+       1        0   {Ë}-{i}
+       1        0   {Ò}-{O}
+       1        0   {Ù}-{i}
+       1        0   {Ü}-{O}
+       1        0   {à}-{}
+       1        0   {á}-{â}
+       1        0   {â}-{a}
+       1        0   {ä}-{}
+       1        0   {å}-{a}
+       1        0   {å}-{Â}
+       1        0   {ç}-{c}
+       1        0   {è}-{ê}
+       1        0   {é}-{n}
+       1        0   {é}-{â}
+       1        0   {ê}-{e}
+       1        0   {ê}-{â}
+       1        0   {ë}-{i}
+       1        0   {ñ}-{v}
+       1        0   {ó}-{ô}
+       1        0   {ô}-{o}
+       1        0   {ù}-{n}
+       1        0   {ù}-{u}
+       1        0   {ù}-{û}
+       1        0   {ú}-{û}
+       1        0   {č}-{c}
+       1        0   {ņ}-{n}
+       1        0   {Ọ}-{U}
+       1        0   {—~}-{il}
+       1        0   {”}-{ }
+       1        0   {”}-{}
+
+   Count   Missed   %Right
+    1245      821    34.06   {<\n>}
+    5585     1358    75.68   { }
+      11        9    18.18   {!}
+      32       32     0.00   {"}
+       1        1     0.00   {#}
+       3        3     0.00   {$}
+       1        1     0.00   {%}
+       4        4     0.00   {&}
+     191      187     2.09   {'}
+     357       67    81.23   {(}
+     349       76    78.22   {)}
+       6        6     0.00   {*}
+       9        1    88.89   {+}
+    1671      386    76.90   {,}
+     259      128    50.58   {-}
+    1280      396    69.06   {.}
+       1        1     0.00   {/}
+      29       28     3.45   {0}
+      16       14    12.50   {1}
+      17       14    17.65   {2}
+       6        3    50.00   {3}
+       9        9     0.00   {4}
+       4        3    25.00   {5}
+       9        4    55.56   {6}
+       8        8     0.00   {7}
+       7        6    14.29   {8}
+       8        6    25.00   {9}
+     112      107     4.46   {:}
+      85       54    36.47   {;}
+       4        4     0.00   {=}
+      13       13     0.00   {>}
+       9        9     0.00   {?}
+       1        1     0.00   {@}
+     552      219    60.33   {A}
+      43       17    60.47   {B}
+     106       29    72.64   {C}
+      67       58    13.43   {D}
+     547      145    73.49   {E}
+      10       10     0.00   {F}
+      23       14    39.13   {G}
+     214       54    74.77   {H}
+     733      150    79.54   {I}
+      33       20    39.39   {J}
+     474      131    72.36   {K}
+      19       17    10.53   {L}
+     227       56    75.33   {M}
+     314       86    72.61   {N}
+     200       58    71.00   {O}
+     146       40    72.60   {P}
+       2        2     0.00   {Q}
+      60       60     0.00   {R}
+     430       98    77.21   {S}
+     524      142    72.90   {T}
+     121       54    55.37   {U}
+      42       37    11.90   {V}
+     812      157    80.67   {W}
+       2        2     0.00   {X}
+     103       21    79.61   {Y}
+       5        5     0.00   {Z}
+       3        3     0.00   {[}
+       3        3     0.00   {\}
+       5        5     0.00   {]}
+       4        4     0.00   {_}
+     115      115     0.00   {`}
+    1847      426    76.94   {a}
+     216       87    59.72   {b}
+     621      160    74.24   {c}
+     589      197    66.55   {d}
+    2395      536    77.62   {e}
+     264       66    75.00   {f}
+     169       66    60.95   {g}
+     181       67    62.98   {h}
+    1586      426    73.14   {i}
+      90       34    62.22   {j}
+     455      109    76.04   {k}
+     949      293    69.13   {l}
+     548      149    72.81   {m}
+    1257      288    77.09   {n}
+    1023      302    70.48   {o}
+     464      136    70.69   {p}
+     160       50    68.75   {q}
+     983      266    72.94   {r}
+    1204      305    74.67   {s}
+    1113      260    76.64   {t}
+     973      265    72.76   {u}
+     386       99    74.35   {v}
+     333      176    47.15   {w}
+      56       24    57.14   {x}
+     131       38    70.99   {y}
+      24       13    45.83   {z}
+      30       30     0.00   {{}
+     100      100     0.00   {|}
+      25       25     0.00   {}}
+       1        1     0.00   {¡}
+       4        4     0.00   {£}
+       3        3     0.00   {©}
+     217       56    74.19   {«}
+       3        3     0.00   {°}
+       1        1     0.00   {»}
+       1        1     0.00   {¿}
+      19       19     0.00   {À}
+       1        1     0.00   {Á}
+     289       90    68.86   {Â}
+       1        1     0.00   {Ä}
+      11       11     0.00   {Å}
+       3        3     0.00   {È}
+       8        8     0.00   {É}
+       2        2     0.00   {Ë}
+       1        1     0.00   {Ñ}
+       1        1     0.00   {Ò}
+      18       18     0.00   {Ù}
+       2        2     0.00   {Ü}
+      91       52    42.86   {à}
+       3        3     0.00   {á}
+      41       20    51.22   {â}
+      62       61     1.61   {ä}
+      38       38     0.00   {å}
+       1        1     0.00   {æ}
+      11        2    81.82   {ç}
+      36       15    58.33   {è}
+     266      100    62.41   {é}
+       9        3    66.67   {ê}
+       6        6     0.00   {ë}
+       1        1     0.00   {ì}
+       1        1     0.00   {í}
+       8        6    25.00   {î}
+       2        2     0.00   {ï}
+       2        2     0.00   {ñ}
+       3        3     0.00   {ó}
+      10        3    70.00   {ô}
+      15       14     6.67   {ù}
+       2        2     0.00   {ú}
+       1        0   100.00   {û}
+       6        6     0.00   {ü}
+       1        1     0.00   {č}
+       1        1     0.00   {Ħ}
+       4        4     0.00   {ı}
+       1        1     0.00   {ņ}
+       1        0   100.00   {œ}
+       2        2     0.00   {š}
+       1        1     0.00   {Ọ}
+       7        7     0.00   {—}
+      34       34     0.00   {‘}
+      11        6    45.45   {’}
+      20       20     0.00   {“}
+       4        4     0.00   {”}
+       5        5     0.00   {„}
+       1        1     0.00   {…}
+       2        2     0.00   {€}
