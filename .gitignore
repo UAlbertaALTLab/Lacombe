@@ -104,4 +104,6 @@ dist
 .tern-port
 
 # Project-Specific
+.eslintrc.js
+.eslintrc.yml
 /pdfs

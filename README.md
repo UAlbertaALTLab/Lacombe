@@ -30,10 +30,11 @@ We have high-quality scans available from the following sources:
 
 Aside from the OCR'd text version of Lacombe that we ourselves are producing, the following text versions also exist for the Lacombe dictionary. All of these are located in the `OCR/` folder.
 
-* [John Carter Brown Library](./OCR/Brown.txt)
-* [U.S. Library of Congress](./OCR/LOC.txt)
-* [Oxford](./OCR/Oxford.txt)
-* [Peel](./OCR/Peel.txt)
+* [John Carter Brown Library](./OCR/Brown/full.txt)
+* [U.S. Library of Congress](./OCR/LOC/full.txt)
+* [Oxford](./OCR/Oxford/full.txt)
+* [Peel](./OCR/Peel/full.txt)
+* [Quebec](./OCR/Quebec/full.txt)
 
 The version from the Bibliothèque et Archives Nationales du Québec is by far the highest-quality scan available, so this is the scan we are using for our own OCR process.
 
@@ -63,7 +64,7 @@ Peel   |          |
 
 ## Calculating OCR Accuracy
 
-The accuracy of the OCR results was compared against the manually-transcribed gold standard files (located in `manual/`) using the [ocreval][ocreval] library (by @eddieantonio). For each set of options, an accuracy report was produced using ocreval and saved in `reports/`. See the [ocreval user guide](./ocreval-user-guide.pdf) (specifically §2.1) for details concerning how to read the accuracy report.
+The accuracy of the OCR results was compared against the manually-transcribed gold standard files (located in `OCR/standard/`) using the [ocreval][ocreval] library (by @eddieantonio). For each set of options, an accuracy report was produced using ocreval and saved in `reports/`. See the [ocreval user guide](./ocreval-user-guide.pdf) (specifically §2.1) for details concerning how to read the accuracy report.
 
 To run the accuracy report, first install [ocreval][ocreval]. Then run the following command:
 
@@ -77,11 +78,13 @@ The `accuracy` script takes the following 3 arguments:
 2. `<gold standard>`: the gold standard / source of truth for the text being evaluated
 3. `[out file]`: [optional] the location where the accuracy report should be saved
 
-To combine multiple pages of OCR output or gold standard together for aggregated comparison of multiple pages at once, first make sure you have [Node and npm][Node] installed, then run the following command (where `<directory>` is the path to a folder containing text files you would like to stitch together, and `<out>` is the path to the file where you would like the results saved). This script will only combine files with a `.txt` extension.
+To combine multiple pages of OCR output or gold standard together for aggregated comparison of multiple pages at once, first make sure you have [Node and npm][Node] installed, then run the following command (where `<directory>` is the path to a folder containing text files you would like to stitch together, and `<outfile>` is the path to the file where you would like the results saved). This script will only combine files with a `.txt` extension. You can then run ocreval on the combined file.
 
-`npm run stitch <directory> <out>`
+`node lib/stitch.js <directory> <outfile>`
 
-You can then run ocreval on the combined file.
+You can also stitch both the `OCR/standard/` and `OCR/Quebec/` folders with a single command, `npm run stitch`. This will create `output.txt` and `standard.txt` files in the project root.
+
+Finally, you can run ocreval on these two combined files with `npm run accuracy`. This will create an accuracy report titled `accuracy.txt` in the project root.
 
 ## Accuracy Reports
 
