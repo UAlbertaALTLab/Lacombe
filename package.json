@@ -1,0 +1,45 @@
+{
+  "name": "Lacombe",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Applying Optical Character Recognition (OCR) to Lacombe's (1874) *Dictionnaire de la langue des Cris*",
+  "keywords": [
+    "language",
+    "OCR",
+    "dictionary",
+    "dictionaries",
+    "linguistics",
+    "language",
+    "languages",
+    "French",
+    "Cree",
+    "Algonquian",
+    "lexicography"
+  ],
+  "homepage": "https://github.com/UAlbertaALTLab/Lacombe",
+  "bugs": "https://github.com/UAlbertaALTLab/Lacombe/issues",
+  "license": "GPL-3.0",
+  "contributors": [
+    {
+      "name": "Antti Arppe",
+      "url": "https://github.com/aarppe"
+    },
+    {
+      "name": "Daniel Dacanay",
+      "url": "https://github.com/DBDacanay"
+    },
+    {
+      "name": "Daniel W. Hieber",
+      "url": "https://github.com/dwhieb"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UAlbertaALTLab/Lacombe.git"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "type": "module",
+  "scripts": {}
+}

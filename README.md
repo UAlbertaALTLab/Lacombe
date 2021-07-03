@@ -6,7 +6,6 @@ This project uses the optical character recognition (OCR) tool [Tesseract][Tesse
 
 <!-- TOC -->
 
-- [Contents](#contents)
 - [Scans](#scans)
 - [Text Versions](#text-versions)
 - [OCR Results](#ocr-results)
