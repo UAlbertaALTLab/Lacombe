@@ -1,0 +1,1385 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    4567   Characters
+   31617   Errors
+ -592.29%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+ -592.29%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      45      428    31144    31617   Unmarked
+      45      428    31144    31617   Total
+
+   Count   Missed   %Right
+     797       46    94.23   ASCII Spacing Characters
+     573       60    89.53   ASCII Special Symbols
+      16       13    18.75   ASCII Digits
+     742      109    85.31   ASCII Uppercase Letters
+    2362      225    90.47   ASCII Lowercase Letters
+      47       13    72.34   Latin1 Special Symbols
+      26        4    84.62   Latin1 Lowercase Letters
+       4        3    25.00   General Punctuation
+    4567      473    89.64   Total
+
+  Errors   Marked   Correct-Generated
+     390        0   {}-{, ok, (v. n.) il est jal...}
+     390        0   {}-{NIYÊ, (ad.) On emploie ...}
+     336        0   {}-{s’en détacher.<\n>«S...}
+     290        0   {}-{«YÂWINÂKUSIW, ok, (a....}
+     237        0   {}-{ c’est pourquoi, donc;...}
+     210        0   {}-{ fait ainsi mauvais temp...}
+     207        0   {}-{.) HAM, HUWEW, HIKEW, il...}
+     201        0   {}-{n.) les oreilles lui tin...}
+     200        0   {}-{cette manière, de cette...}
+     197        0   {}-{-EW, TCHIKEW, il lui dé...}
+     195        0   {}-{etc., nama kekway n’t...}
+     188        0   {}-{eoko-ni ânihi ka pakama...}
+     178        0   {}-{a.) il n’a pas d’esp...}
+     174        0   {}-{ vaut mieux que rien, c...}
+     172        0   {}-{M, SIWEW, TCHIKEW, il l...}
+     170        0   {}-{ est gros!<\n>ANAKKWAY, ...}
+     160        0   {}-{a.) TTAW, HIWEW, TCHIKEW...}
+     157        0   {}-{ion.<\n>«OSITCHIGAN, ak...}
+     155        0   {}-{s buffles couvrent la te...}
+     153        0   {}-{v.g. ekuyikok mâna nama...}
+     150        0   {}-{.) crever, éclater, fai...}
+     150        0   {}-{ux eaux.<\n>+OSI, et, OJ...}
+     139        0   {}-{<\n>KAKETTÂWEYIMEW, TTA...}
+     137        0   {}-{KEW, il en détruit l’...}
+     135        0   {}-{, (a. in.) idem.<\n>«S...}
+     134        0   {}-{u.<\n>«OSEYÂBISKAW, (v...}
+     133        0   {}-{l tourne en rond, en fai...}
+     132        0   {}-{de ette manière, Jesus-...}
+     128        0   {}-{c-tère indolent.<\n>«N...}
+     128        0   {}-{c., (v. a.) il l’as-si...}
+     127        0   {}-{ de l’autre côté de ...}
+     124        0   {q}-{ il est compréhensible,...}
+     124        0   {}-{n. f.) idem.<\n>ANIMA, (...}
+     121        0   {}-{u faite.<\n>x MONJIHEW, ...}
+     118        0   {}-{ femelle.<\n>ÂMIW, ok, ...}
+     118        0   {}-{ne, du fer.<\n>«OSÂWÂ...}
+     118        0   {}-{pu t’en servir; anakk...}
+     118        0   {}-{«MUSTASKAMIK, (ad.) ide...}
+     117        0   {}-{r une côte, une éléva...}
+     115        0   {}-{EW, etc., idem.<\n>ÂNIK...}
+     112        0   {}-{.<\n>«MUSTÂBUIY, a, (n...}
+     112        0   {}-{ok, id.<\n>«KAKEBÂTISI...}
+     110        0   {}-{il monte dessus.<\n>«TE...}
+     108        0   {}-{, ok, (v. n.) il dépér...}
+     108        0   {}-{moi.<\n>«KÂKITOKKAWEW,...}
+     107        0   {}-{t.<\n>x OSAHWEW, (v. a.)...}
+     107        0   {}-{u moins, du moins, v. g....}
+     107        0   {}-{uvre, ile le fair voir ...}
+     106        0   {}-{qui ne veulent pas prier...}
+     106        0   {}-{u-tres, comme, pikonata ...}
+     105        0   {}-{gne, v.g. nittatchiwew, ...}
+     101        0   {b}-{.) TTAW, HIWEW, HIKEW, i...}
+     101        0   {}-{n, v. g. nama nissitaw, ...}
+      99        0   {}-{W, il l’y attache, en ...}
+      99        0   {}-{n.) idem.<\n>«WÂPITTAK...}
+      98        0   {}-{(pron.) moi aussi, kista...}
+      98        0   {}-{a place.<\n>«OSIKKIPIMI...}
+      96        0   {}-{issons en abondance.<\n>...}
+      93        0   {}-{, il l’attache, v. g. ...}
+      93        0   {“}-{les sacrements sont des ...}
+      92        0   {}-{scend vers lui, v.g., Je...}
+      90        0   {}-{n couteau.<\n>ANI (ad.) ...}
+      87        0   {}-{e, et il ne s’emploie ...}
+      86        0   {}-{-puissant, etc.<\n>«NIS...}
+      86        0   {}-{ns le même espace, v.g....}
+      86        0   {}-{«KÂKITOKKÂSUWIN, â, ...}
+      83        0   {}-{hant.<\n>«OSIKÂKATOTEW...}
+      81        0   {}-{se d’extraordinai-re; ...}
+      79        0   {}-{it des instructions, il ...}
+      78        0   {}-{ tabac pur.<\n>«MUSTAHW...}
+      78        0   {}-{) HAM, HUWEW, HIKEW, il ...}
+      78        0   {}-{avoir vu quelque chose; ...}
+      78        0   {}-{il lui fait fuir, il est...}
+      78        0   {}-{placer à cause de l’e...}
+      77        0   {}-{ lui désire.<\n>«MUSTA...}
+      77        0   {}-{EW, il lui étend quel-q...}
+      77        0   {}-{a.) TTAM, MIWEW, TCHIKEW...}
+      77        0   {}-{il se met à l’abri de...}
+      76        0   {}-{son chagrin se fait jour...}
+      75        0   {}-{ c’est tapissé, la pl...}
+      75        0   {}-{TTAW, HI-WEW, TCHIKEW, i...}
+      75        0   {}-{a, ou, kakes-kikkemowin,...}
+      75        0   {}-{e modère, il le corrige...}
+      75        0   {}-{«POSIWEPAHWEW, (v. a.) ...}
+      75        0   {}-{ît en le regardant.<\n>...}
+      74        0   {}-{n.) il se met un tapis s...}
+      74        0   {}-{ok, (a. a) il est avare,...}
+      73        0   {}-{W, ok (v. n.) il est per...}
+      73        0   {}-{a, c’est assez gras, c...}
+      73        0   {}-{ÂKISIMOW, ok, (v. n.) i...}
+      72        0   {290}-{«KÂKITOKKÂSUW, ok, (v...}
+      72        0   {}-{ en pierre.<\n>«OSÂWAK...}
+      72        0   {}-{it dépérir.<\n>ÂN, (r...}
+      72        0   {}-{«TEPISUW, ok, (a. a.) i...}
+      71        0   {}-{le cheval.<\n>«TETTAPIW...}
+      71        0   {}-{ns le sens impudique....}
+      71        0   {}-{s-sit pas, (synonimes) n...}
+      69        0   {}-{ la main nue.<\n>«MUSTA...}
+      69        0   {}-{, (a. in.) idem.<\n>«NI...}
+      69        0   {}-{, en frappant avec une h...}
+      69        0   {}-{in.) c’est embarrassan...}
+      68        0   {}-{, (n. f.) intelligence....}
+      68        0   {}-{.<\n>«SÂKIHISUW, ok, (...}
+      67        0   {}-{indienne jaune.<\n>«OS...}
+      67        0   {}-{ter-minaison weyan desig...}
+      66        0   {g}-{Voy. Miskawâso-mew, kis...}
+      66        0   {}-{ selon qu’on accepte l...}
+      66        0   {}-{(v. a.) TTAM, TTA, TCHIK...}
+      66        0   {}-{t doit s’en-tendre à ...}
+      65        0   {}-{a, (n. f.) idem.<\n>«MO...}
+      65        0   {}-{cependant a sa va-leur d...}
+      65        0   {}-{gner<\n>«KAKEPITTEW, ok...}
+      65        0   {}-{s jau-ne.<\n>x OSEYAW, a...}
+      64        0   {w}-{, cette femme craint pou...}
+      64        0   {}-{, et en faisant quel-que...}
+      64        0   {}-{. a.) TAM, MIWEW, TCHIKE...}
+      64        0   {}-{il lui parle suffiasmmen...}
+      64        0   {}-{«MOSKINAHEW, (v. v.) TT...}
+      63        0   {}-{N, wa, (a. in.) id.<\n>...}
+      62        0   {}-{supplie en s’abaissant...}
+      61        0   {}-{il le touche, il l’aff...}
+      61        0   {}-{inanatâwihuwina ânisit...}
+      61        0   {}-{l le fait fuir, v.g. que...}
+      61        0   {}-{st si beau, eji matchi-k...}
+      61        0   {}-{ux aguêts, il craint qu...}
+      60        0   {w}-{, et qui, en faisant du ...}
+      60        0   {}-{WIN, a, (n. f.) id.<\n>...}
+      60        0   {}-{l est embarrassant, v.g....}
+      60        0   {}-{ou, akokkwepitew, il lui...}
+      59        0   {}-{, ok, (v. n.) il marche ...}
+      58        0   {}-{ double paire de sou-lie...}
+      58        0   {}-{EPIMÂKUSIW, ok, (a.a.) ...}
+      58        0   {}-{ffe.<\n>«SAKKAMEW, (v. ...}
+      58        0   {}-{ignifi-cation.<\n>«ISÂ...}
+      58        0   {}-{k pimut-tew, il marche ...}
+      58        0   {}-{r, ekawiya iyisâtch tot...}
+      58        0   {}-{t, ou, action de le char...}
+      57        0   {}-{OUS, ak, chat.<\n>POSAKK...}
+      57        0   {}-{STEW, a, (a. in.) c’es...}
+      57        0   {}-{ensée.<\n>«NISSITÂWIN...}
+      57        0   {}-{mme, eji-atchâ-kowik mi...}
+      57        0   {}-{offe, d’indienne.<\n>...}
+      57        0   {}-{ok, (v. pass.) il en a a...}
+      57        0   {}-{«OSÂWISKWAN, wa, (a. i...}
+      56        0   {}-{ n’approuve pas sa con...}
+      55        0   {y}-{, entre dedans<\n>«POSI...}
+      55        0   {}-{t trop loin, sa vue n’...}
+      54        0   {ANOK}-{, ok, (v. r.) il s’a b...}
+      54        0   {W}-{ok, a, (a. a. et in.) il...}
+      54        0   {}-{«MUSTINEW, (v. a.) NAM,...}
+      54        0   {}-{é, qu’on est aux ague...}
+      53        0   {(}-{il a l’usage de la par...}
+      53        0   {}-{.) TAM, SIWEW, TCHIKEW, ...}
+      53        0   {}-{SUWEW, SI-KEW, il le cou...}
+      53        0   {}-{ipi-mâtisiw, lui aussi ...}
+      53        0   {}-{ouve fou, insensé<\n>«...}
+      53        0   {}-{que chose qu’on regret...}
+      53        0   {}-{u lac.<\n>«WÂSAKÂMEW,...}
+      53        0   {}-{éjà bien l’usage de ...}
+      53        0   {}-{ître.<\n>«NISSITAW, (a...}
+      52        0   {}-{il s’abaisse vers la t...}
+      52        0   {}-{oses, jusqu’à en êtr...}
+      51        0   {b}-{c’est sans mélange...}
+      51        0   {}-{ STAW, YIWEW, TCHIKEW, i...}
+      51        0   {}-{.) HAM , HU-WEW, HIKEW, ...}
+      51        0   {}-{nt toujours avec le redo...}
+      50        0   {}-{. f.) clou, cheville....}
+      50        0   {}-{.<\n>«MOSKUWÂTEW, (v. ...}
+      50        0   {}-{EW, ok, (v. n.) il éten...}
+      50        0   {}-{UST, (rac.) tremper dans...}
+      50        0   {}-{a, (n. f.) conseil, avis...}
+      50        0   {}-{ec la main par la partie...}
+      49        0   {}-{ NIWEW, NI-KEW, il peut ...}
+      49        0   {}-{ cette racine renferme l...}
+      49        0   {}-{471<\n>MOS<\n>«MOSKUMEM...}
+      49        0   {}-{EW, il lui parle à mots...}
+      49        0   {}-{IN, a, (n. f.) persévé...}
+      49        0   {}-{n, je n’approuve pas c...}
+      49        0   {}-{ok, a, (a. a. et in.) il...}
+      49        0   {}-{supplier, s’humilier e...}
+      49        0   {}-{ÂWEW, etc., (v. a.) il ...}
+      48        0   {K}-{NI<\n>af-firmer plus for...}
+      48        0   {p}-{le descend à terre.<\n>...}
+      48        0   {}-{(ad. et rac.) ou, mu-tch...}
+      48        0   {}-{, (n. f.) sensa-tion....}
+      48        0   {}-{erre.<\n>x YÂTTOKAMIK, ...}
+      47        0   {}-{ traduire ce mot, qui ve...}
+      47        0   {}-{, il l’agraffe, etc....}
+      47        0   {}-{W, ok, (a. a.) il cesse ...}
+      47        0   {}-{e.<\n>«PONI-PIMATISIW, ...}
+      47        0   {}-{nihi ki mokkumâna, ce s...}
+      47        0   {}-{ret-table que tu rejette...}
+      47        0   {}-{«SÂKISIWIN, a, (n. f.)...}
+      46        0   {}-{, il étend la main vers...}
+      46        0   {}-{WEW, NIKEW, il l’embar...}
+      46        0   {}-{gé.<\n>«TEPISKITEHEW, ...}
+      46        0   {}-{ok, (v. n.) il cesse d'...}
+      46        0   {}-{osse guêpe.<\n>ANAKKÂT...}
+      46        0   {}-{s, pièce pour mettre so...}
+      45        0   {AM}-{. B. On se sert presque ...}
+      45        0   {A}-{, wok, aiguille carrée,...}
+      45        0   {w}-{n de descendre sur la te...}
+      45        0   {}-{(rac.) étendre quelque ...}
+      45        0   {}-{W, a, (a. in.) c’est c...}
+      45        0   {}-{ok, (a. a.) il est carr...}
+      45        0   {}-{«YÂSÂPEKINEW, (v. a.)...}
+      44        0   {P}-{TTAM, MIWEW, TCHIKEW, il...}
+      44        0   {}-{ a beaucoup de choses à...}
+      44        0   {}-{ s’abaisser.<\n>YÂW...}
+      44        0   {}-{, de côteau.<\n>«OSESK...}
+      44        0   {}-{WEWIYINIW, ok, (n. f) un...}
+      44        0   {}-{e-kâkitokkawew, ayant f...}
+      44        0   {}-{’était pas grand chos...}
+      43        0   {}-{ ce n’est pas de sitô...}
+      43        0   {}-{(v. a.) TTAM, MIWEW, TCH...}
+      43        0   {}-{. a.) il a les jambes bl...}
+      43        0   {}-{<\n>ANAKATCHAY! (ex.) ad...}
+      43        0   {}-{compréhensible.<\n>«NI...}
+      43        0   {}-{ix, il l’entend suffis...}
+      43        0   {}-{l le fait fuir en tirant...}
+      43        0   {}-{us.<\n>«YÂWAPAMEW, (v....}
+      42        0   {2}-{ak, (n. f.) cen-dré, il...}
+      42        0   {}-{W, ok, (a. a.) il a des ...}
+      42        0   {}-{il se garde contre lui....}
+      42        0   {}-{k, (n. r.) castor.<\n>AM...}
+      42        0   {}-{kkâtch ki webi-naw eoko...}
+      42        0   {}-{st ici; ni wi-ittuttân ...}
+      42        0   {}-{teur.<\n>«KAKETTÂWEW, ...}
+      41        0   {}-{ forét, aka-wâmatin, ...}
+      41        0   {}-{ayaw, il est.<\n>362<\n>...}
+      41        0   {}-{ble.<\n>ÂKWETTÂWESKISI...}
+      41        0   {}-{ÂNEYIMEW. (v. a.) TTAM,...}
+      40        0   {-}-{ omaskisina, ses soulier...}
+      40        0   {}-{bit, capot.<\n>ÂKWETTÂ...}
+      40        0   {}-{heval sur lui.<\n>«TETT...}
+      40        0   {}-{l le fait concave.<\n>PO...}
+      40        0   {}-{ou, ayi-sâwe.<\n>x IS e...}
+      40        0   {}-{ure après lui.<\n>««M...}
+      40        0   {}-{ve embarrassant.<\n>AKWE...}
+      40        0   {}-{«OSITCHIKEW, ok, (v. in...}
+      40        0   {}-{à pied, il va à pied....}
+      39        0   {}-{-poison, remède contrai...}
+      39        0   {}-{. a.) TAM, TAKEW, TCHIKE...}
+      39        0   {}-{ie, il appelle.<\n>«TEP...}
+      38        0   {}-{ rétrécit, v.g., quelq...}
+      38        0   {}-{. a.) NAM, NI-WEW, NIKEW...}
+      38        0   {}-{a, (a. in.) le feu est p...}
+      38        0   {}-{a. (n. f.) ca-pot blanc,...}
+      38        0   {}-{apable, qui ne réussit ...}
+      38        0   {}-{e me le donner, wâbaniy...}
+      38        0   {}-{e.<\n>«WÂSKÂPAYIW, ok...}
+      38        0   {}-{egrettable que tu le rej...}
+      38        0   {}-{ok (a. a.) il est en deu...}
+      38        0   {}-{ÂKWETTÂWESÂKEW, ok, (...}
+      38        0   {}-{ère.<\n>«OSITCHIKEWIN,...}
+      37        0   {w}-{up, il lui fait la cour,...}
+      37        0   {}-{, ok, (a. a.) il est bie...}
+      37        0   {}-{.g., n’t’âneyitten ...}
+      37        0   {}-{TIMOW, ok, (n. a.) il es...}
+      37        0   {}-{ert, etc.<\n>AKWANOKIJOW...}
+      37        0   {}-{le.<\n>WÂS<\n>«WÂPITE...}
+      37        0   {}-{l’encourage, il est sa...}
+      37        0   {}-{é de noms animés; v.g....}
+      37        0   {}-{’est en quel-que part ...}
+      36        0   {}-{ ok, (n. f.) cessation, ...}
+      36        0   {}-{.<\n>«IJITCHITCHEYIW, o...}
+      36        0   {}-{misk, wok, castor épar...}
+      36        0   {}-{mme jaune.<\n>«OSÂWASK...}
+      36        0   {}-{t bilieux.<\n>«OSÂWÂB...}
+      35        0   {;}-{ok, (a. v.) il a les yeu...}
+      35        0   {b}-{«NISSITOTTAM, wok, (v. ...}
+      35        0   {}-{.) idem.<\n>«NISWEYAKAN...}
+      35        0   {}-{AMA 292 ÂMI<\n>AMATISUW...}
+      35        0   {}-{a.) TAM, KEW, TCHIKEW, i...}
+      35        0   {}-{demain ils ar-riveront p...}
+      35        0   {}-{ir, v.g., quelqu’un qu...}
+      35        0   {}-{même, pareillement, v. ...}
+      35        0   {}-{nc.<\n>«WÂPISKWAKUP, a...}
+      35        0   {}-{r, accrocher, embarrasse...}
+      35        0   {}-{se prend en insensé pou...}
+      35        0   {}-{u castor.<\n>AMISKWEYÂN...}
+      35        0   {}-{x PONEW, (v. a.) NAM NIW...}
+      34        0   {A}-{Â}
+      34        0   {}-{, akawâtin, à l’abri...}
+      34        0   {}-{W, (v. a.) etc.. idem....}
+      34        0   {}-{ecousse.<\n>«POSISKISIW...}
+      34        0   {}-{nche.<\n>«WÂPEKINIGAN,...}
+      34        0   {}-{ontre.<\n>«MOSKINEW, ok...}
+      34        0   {}-{takusin, il ar-rive le m...}
+      34        0   {}-{yo (nama mayo) v. g. nam...}
+      33        0   {<\n>q}-{ ok, (v. r.) il s’abai...}
+      33        0   {}-{ ok, (a. v.) comme, akaw...}
+      33        0   {}-{, etc.<\n>«YÂSINEW, (v...}
+      33        0   {}-{c peine, à contre cœur...}
+      33        0   {}-{coup de choses qui l’e...}
+      33        0   {}-{enable, il s’ajuste, i...}
+      33        0   {}-{ic nominatum esse.)<\n>+...}
+      33        0   {}-{pas sa conduite, dans sa...}
+      33        0   {}-{une baie (dans un lac.)...}
+      32        0   {4}-{doubler, mettre l’un s...}
+      32        0   {b}-{nquer avant d’atteindr...}
+      32        0   {}-{.<\n>MUSIWÂK, (ad.) pas...}
+      32        0   {}-{.<\n>«SÂKIHIKOWISIWIN,...}
+      32        0   {}-{NAM, NIWEW, NIKEW, il le...}
+      32        0   {}-{Voy. Aniskamân.<\n>«SA...}
+      32        0   {}-{re.<\n>«YÂSISTAWEW, et...}
+      32        0   {}-{tam, il le désapprouve....}
+      32        0   {}-{ux des buffles avec le p...}
+      31        0   {w}-{nné, cir-conspect, (cau...}
+      31        0   {}-{ pas, nama ajiwan, ça a...}
+      31        0   {}-{.) TTITAW, SIMI-WEW, TCH...}
+      31        0   {}-{; ki wittamâtinawaw ani...}
+      31        0   {}-{W, il en reconnaît le g...}
+      31        0   {}-{ource d’eau.<\n>«MOSK...}
+      30        0   {q}-{wok, (v. n.) il alimente...}
+      30        0   {}-{ démon alimente le feu ...}
+      30        0   {}-{(v. a.) il lui<\n>502...}
+      30        0   {}-{(v. n.) il se découvre,...}
+      30        0   {}-{.<\n>«NISOWÂTISIW, ok,...}
+      30        0   {}-{.<\n>«YÂKWÂMISIWIN, a...}
+      30        0   {}-{ak, (n. f.) peau de liè...}
+      30        0   {}-{ni’stes ka petchâstam...}
+      30        0   {}-{ns une peau blanche, ou,...}
+      29        0   {N}-{a, (n. f.) tête blanche...}
+      29        0   {m}-{il<\n>«WÂPOWEYÂN, a, ...}
+      29        0   {}-{ il les coud l’un sur ...}
+      29        0   {}-{, (v.r.) idem.<\n>«MONJ...}
+      29        0   {}-{<\n>«NISSITOTTÂKUSIW, ...}
+      29        0   {}-{TTAM, MIWEW, TCHIKEW, il...}
+      29        0   {}-{W, (v. a.) NAM, NÂ-KEW,...}
+      29        0   {}-{du visage.<\n>AKAWÂYIK,...}
+      29        0   {}-{ikwepâ-nak, mes pantalo...}
+      29        0   {}-{ndu) quoique de peu de v...}
+      29        0   {}-{r, éparé et séché. D...}
+      28        0   {)}-{ la racine asâwe, qui e...}
+      28        0   {j}-{ concave.<\n>«POSISKAW,...}
+      28        0   {}-{ autre loge.<\n>x YÂW, ...}
+      28        0   {}-{.<\n>«POSISKIHEW, etc, ...}
+      28        0   {}-{.<\n>«WÂPATÂWOKKAW, (...}
+      28        0   {}-{.g. mustusweyânak âkwe...}
+      28        0   {}-{IKEW, il le place à l...}
+      28        0   {}-{che qu’il guette.<\n>...}
+      28        0   {}-{e.<\n>«POYUW, ok. (v. n...}
+      28        0   {}-{il le taille carré avec...}
+      28        0   {}-{le redoublement, ayis, e...}
+      28        0   {}-{les sauvages, qui est en...}
+      28        0   {}-{nt il aurait été uti-l...}
+      28        0   {}-{rbe auxili-aire, comme, ...}
+      28        0   {}-{«WÂPISKOWEW, ok, (a. a...}
+      28        0   {}-{’il ressent.<\n>«NISS...}
+      27        0   {<\n>}-{tis, ak, petit castor; p...}
+      27        0   {c}-{«WÂSKÂPAYIHUW, ok. (v...}
+      27        0   {}-{ damnés,(ou, les y jett...}
+      27        0   {}-{ peut le voir par-cequ...}
+      27        0   {}-{ robes de buffles sont e...}
+      27        0   {}-{.<\n>ÂMATCHIWETCHAW, (a...}
+      27        0   {}-{<\n>TET<\n>«TEPITTIN, w...}
+      27        0   {}-{AKWEPASTEW, a, (a. v. in...}
+      27        0   {}-{EW, il le met dans l’e...}
+      27        0   {}-{MOWIN, a, (n. f.) idem....}
+      27        0   {}-{f.) sup-plication humble...}
+      27        0   {}-{nt.<\n>«POSIW, ok, (r. ...}
+      26        0   {}-{) terre en forme de côt...}
+      26        0   {}-{ANÂSKASUN, ak, (n. f.) ...}
+      26        0   {}-{TAKEW, TATCHIKEW, idem....}
+      26        0   {}-{W, a (a. in.) idem.<\n>...}
+      26        0   {}-{ablement qu’on dit ind...}
+      26        0   {}-{askwây osi, ca-<\n>OSI...}
+      26        0   {}-{e faire telle chose, de ...}
+      26        0   {}-{es dents.<\n>«SAKKAHWEW...}
+      26        0   {}-{fait carré. N. B Tous c...}
+      26        0   {}-{n.<\n>SÂKKITIW, ok, (a....}
+      26        0   {}-{nd.<\n>NIS<\n>«NISSITOT...}
+      26        0   {}-{nterval de la nuit, posk...}
+      26        0   {}-{’est embarrassant par ...}
+      25        0   {}-{ chose que ayâk-wâmeyi...}
+      25        0   {}-{-baisse au moyen d’une...}
+      25        0   {}-{.) il le lui descend à ...}
+      25        0   {}-{<\n>«PONINOKWAN, wa, (a...}
+      25        0   {}-{TWAKEW, idem.<\n>ANÂSKA...}
+      25        0   {}-{ensation.<\n>«MONJITTOY...}
+      25        0   {}-{es ambassades et il est ...}
+      25        0   {}-{issitâwâkâtisiw, il e...}
+      25        0   {}-{l met du bois dans le fe...}
+      25        0   {}-{sk, wok, le castor mâle...}
+      25        0   {}-{tân, je regrette de l...}
+      25        0   {}-{un castor qui nage entre...}
+      25        0   {}-{«ISÂTCH, ou, IYISÂTCH...}
+      24        0   {<\n>C}-{ HAM, HUWEW, HIKEW, il l}
+      24        0   {}-{ il entend ce qu’il di...}
+      24        0   {}-{, il lui couvre la vue....}
+      24        0   {}-{., (v. a.) il lui fait c}
+      24        0   {}-{.<\n>«NISSITAWEYITTAKWA...}
+      24        0   {}-{CHIGAN, a, (n. f.) con-t}
+      24        0   {}-{OSKITJIWAN, wa, (n. f.) }
+      24        0   {}-{a, (n. f.) idem.<\n>ÂNI...}
+      24        0   {}-{ou, kakes-kikkemow, ok, }
+      24        0   {}-{re.<\n>«OSIKÂKATOSUW, ...}
+      24        0   {}-{résent.<\n>«NISSITAWEY...}
+      24        0   {}-{s assez, insuffisant, ê...}
+      24        0   {}-{tin, sur la monta-gne, a}
+      24        0   {}-{«YÂSITOTAWEW, etc., (v...}
+      23        0   {<\n>}-{ TAM, SIWEW, TCHIKEW,, }
+      23        0   {t}-{s force.<\n>«NISOWEYIMI...}
+      23        0   {w}-{ les yeux.<\n>AKAWÂWESI...}
+      23        0   {}-{ lui.<\n>«PONIYOTIN, (v...}
+      23        0   {}-{, (n. f.) action d’all...}
+      23        0   {}-{, etc.<\n>«TETCHIPAYIHU...}
+      23        0   {}-{<\n>+NISOWISIW, ok, (a. ...}
+      23        0   {}-{<\n>ANÂSKATTEW, a, (a. ...}
+      23        0   {}-{<\n>«WÂPISKIPEHWEW, (v...}
+      23        0   {}-{WEW, TCHIKEW, idem.<\n>...}
+      23        0   {}-{e in-capable, il le pen}
+      23        0   {}-{il le descend, il le fa}
+      23        0   {}-{k, castor d’un an; pat...}
+      23        0   {}-{ordes autour d’une pea...}
+      23        0   {}-{rpris.<\n>AMATISUSTAWEW,...}
+      23        0   {}-{uide jaune.<\n>«OSÂWEG...}
+      22        0   {a}-{â}
+      22        0   {}-{ d’agir.<\n>«PONIWITJ...}
+      22        0   {}-{(v. a.) KAM, KÂKEW, TC}
+      22        0   {}-{(v. im.) colline, côte}
+      22        0   {}-{, (v. a.) T}
+      22        0   {}-{, il le console, il le}
+      22        0   {}-{. a.) il se rétrécit e}
+      22        0   {}-{.) TAM, KEW TCHIKEW, i}
+      22        0   {}-{342<\n>ISA<\n>«ISAWÂNA...}
+      22        0   {}-{<\n>«WÂSÂHIGAMAW, (v....}
+      22        0   {}-{<\n>ÂKWETTÂWAHYEW, (v....}
+      22        0   {}-{WEW, (v. a.) TTAM, TTA}
+      22        0   {}-{a.) il est reconnaissa}
+      22        0   {}-{hi kitimâkeyi-miyan, m}
+      22        0   {}-{ir de tapis, ou de lit}
+      22        0   {}-{is il y avait un hom-m}
+      22        0   {}-{nnaître, il le met à n}
+      22        0   {}-{or de deux ans; nâbe-m}
+      22        0   {}-{siw mâna, celui qui es}
+      22        0   {}-{un ciseau.<\n>«ISÂWENE...}
+      22        0   {}-{uêts sur son compte, v}
+      22        0   {}-{v. n.) il taille autou}
+      22        0   {}-{v.g. mustuswok misiwe }
+      22        0   {}-{x TEPIYÂK, (ad.) (salt}
+      21        0   {P}-{ok, (v. ind.) il le f}
+      21        0   {}-{ (a. a. et in.) ça ce}
+      21        0   {}-{ mieux comprendre. An}
+      21        0   {}-{ pour dire: il est gr}
+      21        0   {}-{(v. a) KAM, KAKEW, KA}
+      21        0   {}-{.<\n>«MUSTAWEYITTAMAWEW...}
+      21        0   {}-{TÂWIKWÂTEW, (v. a.) T}
+      21        0   {}-{dans l’étendue de la }
+      21        0   {}-{me, etc.<\n>AKWEPINEW, (}
+      21        0   {}-{n d'être aimé par Die}
+      21        0   {}-{n père, je viens te s}
+      21        0   {}-{te rac. et ses dérivé}
+      21        0   {}-{ttay yâkki, (videtur }
+      21        0   {}-{ux, il lui fait souve}
+      20        0   {-}-{ est bien différent.}
+      20        0   {/}-{me sans mélange, il }
+      20        0   {}-{ Ce mot sert à faire}
+      20        0   {}-{ en cercle, en rond.}
+      20        0   {}-{(v. r.) il s’élance }
+      20        0   {}-{-ment.<\n>ÂKWETTÂWAPIW...}
+      20        0   {}-{.<\n>AKWANÂKKWEPISUWIN,}
+      20        0   {}-{.g. quelqu’un qui di}
+      20        0   {}-{IJITCHITCHEYISTAWEW,}
+      20        0   {}-{ISI<\n>même que celle c}
+      20        0   {}-{OKIJWÂTEW, (v. a.) T}
+      20        0   {}-{W, TCHIKEW, il lui b}
+      20        0   {}-{WEW, (v. a.) TAM, TÂ}
+      20        0   {}-{id.<\n>«TEPISIMEW, (v. }
+      20        0   {}-{ique qu’on est effra}
+      20        0   {}-{n con-seil ou rejeté}
+      20        0   {}-{ok, (a. a.) il a la }
+      20        0   {}-{osi, canot de bois; }
+      20        0   {}-{parabole.<\n>ÂKWETTAW, }
+      20        0   {}-{r perdu, quoique ce }
+      20        0   {}-{rairie.<\n>«WÂPUSWEYÂ...}
+      20        0   {}-{ve par ses paroles, }
+      19        0   {&}-{idem.<\n>AMÂWEKAHIKEW,}
+      19        0   {m}-{cela.<\n>«YÂKWÂMISIW,...}
+      19        0   {w}-{a, (n. f.) bouton, }
+      19        0   {}-{, (v. a.) TTAW, HIW}
+      19        0   {}-{.<\n>AMATCHIWETISAHWEW}
+      19        0   {}-{<\n>AMÂTAMÂWEW, (v. a.}
+      19        0   {}-{HAM, HUWEW, HIKEW, }
+      19        0   {}-{POS<\n>dans un canot, }
+      19        0   {}-{a été sur le point }
+      19        0   {}-{ablement).<\n>AMISK, w}
+      19        0   {}-{c.) s’attacher à, a}
+      19        0   {}-{e.<\n>«PONIPAYIW, ok, }
+      19        0   {}-{g. un enfant qui a }
+      19        0   {}-{ie: il est publié d}
+      19        0   {}-{k, (a. a.) il ne ré}
+      19        0   {}-{ok, (v. n.) il est }
+      19        0   {}-{omme Dieu et comme }
+      19        0   {}-{rre.<\n>«POSIWIN, a, (}
+      19        0   {}-{t castor.<\n>AMISKOWAN}
+      19        0   {}-{une anse dans un la}
+      19        0   {}-{’est en deux façons}
+      18        0   {j}-{(v. n.) il remue l}
+      18        0   {}-{ il est nonchalant}
+      18        0   {}-{(v. a.) T}
+      18        0   {}-{. f.) embarque-men}
+      18        0   {}-{.) sa douleur écla}
+      18        0   {}-{e ani, c’est bien }
+      18        0   {}-{i.<\n>«TEPWÂTEW, (v. }
+      18        0   {}-{n’approuve pas sa }
+      18        0   {}-{reconnaît dans sa }
+      18        0   {}-{se d’ager, il se d}
+      18        0   {}-{u.<\n>«TEPIPUW, ok, (}
+      18        0   {}-{v. }
+      18        0   {}-{wa (a. in.) c’est }
+      18        0   {}-{«WÂPÂWAKKAW, (v. i}
+      17        0   {P}-{W, (v. a.) TAW, Y}
+      17        0   {p}-{r quoi on va à ch}
+      17        0   {}-{ loin.<\n>x SAKK, (r}
+      17        0   {}-{ une autre maison}
+      17        0   {}-{+KAKESKIMEW, (v. }
+      17        0   {}-{, ttam, ânisistaw}
+      17        0   {}-{brun, de couleur }
+      17        0   {}-{cend avec la main}
+      17        0   {}-{e, et il monte, d}
+      17        0   {}-{etc., idem.<\n>ÂNITT}
+      17        0   {}-{prévoyance, préca}
+      17        0   {}-{t en for-me de do}
+      17        0   {}-{vre complète-ment}
+      17        0   {}-{âsâkittiw)<\n>SAK<\n>i...}
+      16        0   {B}-{W, TCHIK}
+      16        0   {}-{.<\n>«KAKESKWEWIN, }
+      16        0   {}-{.<\n>«OSESIW, ok, (}
+      16        0   {}-{.<\n>«SÂKIHIKWAN, w}
+      16        0   {}-{ESWEW, (v. a.) S}
+      16        0   {}-{N, a, (n. f.) pa}
+      16        0   {}-{aisser un pavill}
+      16        0   {}-{anche.<\n>«WÂPITEW,}
+      16        0   {}-{at-jitta; c’est }
+      16        0   {}-{c.<\n>«TEPWESKITTEW}
+      16        0   {}-{de castor, avec }
+      16        0   {}-{en montant.<\n>ÂMAT}
+      16        0   {}-{i, il s’en sert }
+      16        0   {}-{k, (a. a.) il es}
+      16        0   {}-{matisustamâwew o}
+      16        0   {}-{mpagne toujours }
+      16        0   {}-{rai; ota ani, c’}
+      16        0   {}-{ropre.<\n>«SÂKISIW,}
+      16        0   {}-{s sur les autres}
+      16        0   {}-{verture blanche.}
+      16        0   {}-{ÂMAT, (rac.) mon}
+      16        0   {«}-{AKAWÂBIKKWEHWEW,}
+      15        0   {:}-{ des bassesses.}
+      15        0   {NI-}-{wâpistânis, ak.}
+      15        0   {k}-{sitji mistahi a}
+      15        0   {o}-{rainte d’être s}
+      15        0   {w}-{, (n. f.) com-m}
+      15        0   {}-{ couverts, il p}
+      15        0   {}-{ id.<\n>«PONINOKIW}
+      15        0   {}-{ lui. N. B. Pou}
+      15        0   {}-{(v. a.) TAM, SI}
+      15        0   {}-{, (v.r.) il épr}
+      15        0   {}-{.<\n>«MUTCHIMIYEW,}
+      15        0   {}-{<\n>ANISIKIS, (ad.}
+      15        0   {}-{<\n>«KAKESKIMOWIN,}
+      15        0   {}-{KAKESKIMIWEWIN,}
+      15        0   {}-{M, SI-WEW, TCHI}
+      15        0   {}-{W, HI-WEW, TCHI}
+      15        0   {}-{WEW, (v. a.) TA}
+      15        0   {}-{bois, v.g., mat}
+      15        0   {}-{de terre, qui v}
+      15        0   {}-{etc., (v. a.) i}
+      15        0   {}-{it clou, pointe}
+      15        0   {}-{lement, v. g. n}
+      15        0   {}-{levé.<\n>«OSETCHAW}
+      15        0   {}-{lui bande le vi}
+      15        0   {}-{nd la main vers}
+      15        0   {}-{prise de sa par}
+      15        0   {}-{rendre.<\n>+NISTA,}
+      15        0   {}-{ses gardes, pré}
+      15        0   {}-{siste.<\n>«POYUWIN}
+      15        0   {}-{t délicat. Cepe}
+      15        0   {}-{t le tabac que }
+      15        0   {}-{t signifier la }
+      15        0   {}-{tc. (v. a.) ide}
+      15        0   {}-{ÂTEW, (v. a.) T}
+      15        0   {}-{ême chose, et q}
+      14        0   {NA}-{W, MIWEW, TCHI}
+      14        0   {b}-{vise, il l’ave}
+      14        0   {b}-{«WÂSAKÂMEWIN, }
+      14        0   {}-{ est à cheval.}
+      14        0   {}-{ par le jaune.}
+      14        0   {}-{ plus souvent }
+      14        0   {}-{).<\n>x POSK, (ra}
+      14        0   {}-{, incapable, i}
+      14        0   {}-{.) elle le sév}
+      14        0   {}-{; ot’os, son c}
+      14        0   {}-{<\n>AKAWÂBIKKWEW,}
+      14        0   {}-{M, SIWEW, TCHI}
+      14        0   {}-{W, HIWEW, TCHI}
+      14        0   {}-{endré, blafard}
+      14        0   {}-{ok, (a. a.) fa}
+      14        0   {}-{ui-là mon frèr}
+      14        0   {}-{«SAKKÂSKUHEW, }
+      14        0   {}-{érant auprès d}
+      13        0   {C}-{de côté et d’}
+      13        0   {b}-{.) le vent s’}
+      13        0   {b}-{nt, devient m}
+      13        0   {f}-{c’est mouillé}
+      13        0   {w}-{jusqu’au fait}
+      13        0   {}-{ en paraboles}
+      13        0   {}-{ pieds nus. V}
+      13        0   {}-{ ponew nikowi}
+      13        0   {}-{(n. f.) étoff}
+      13        0   {}-{, à terre nue}
+      13        0   {}-{.<\n>«WÂSAKÂM, (}
+      13        0   {}-{<\n>«WÂPISKOWES,}
+      13        0   {}-{EW, (v. a.) T}
+      13        0   {}-{d.) il fait f}
+      13        0   {}-{en forme de b}
+      13        0   {}-{i ot’iji hikâ}
+      13        0   {}-{i.<\n>«TEPIMEW, }
+      13        0   {}-{igué, accablé}
+      13        0   {}-{kâtch eoko! ç}
+      13        0   {}-{l parle à mot}
+      13        0   {}-{ndique une co}
+      13        0   {}-{s l’église, e}
+      13        0   {}-{ui, il s’y pr}
+      13        0   {}-{«TETTÂPÂTEW, }
+      13        0   {}-{’abri, à couv}
+      13        0   {}-{’est pour cel}
+      13        0   {é}-{ouleau; n’t’o}
+      12        0   { }-{WÂPISK}
+      12        0   {<\n>}-{ dans l’espa}
+      12        0   {e}-{si tu mour-a}
+      12        0   {}-{ fait des ma}
+      12        0   {}-{ le dis donc}
+      12        0   {}-{ pas, ça ne }
+      12        0   {}-{ un voiture }
+      12        0   {}-{(v. n.) il c}
+      12        0   {}-{.) il revet }
+      12        0   {}-{<\n>«PONIKATEW,}
+      12        0   {}-{<\n>ÂJIW, (rac.}
+      12        0   {}-{HIWEHEW,(v. }
+      12        0   {}-{M, HUWEW, HI}
+      12        0   {}-{SAKKAPPITEW,}
+      12        0   {}-{amihâtjik, c}
+      12        0   {}-{e poil. N. L}
+      12        0   {}-{e tu ries à }
+      12        0   {}-{eoko iskwew }
+      12        0   {}-{k, (v. n.) i}
+      12        0   {}-{k, il est à }
+      12        0   {}-{lie.<\n>+NISIT,}
+      12        0   {}-{ok, (a. r.) }
+      12        0   {}-{oska<\n>MUT<\n>mik}
+      12        0   {}-{qu’il n’y a }
+      12        0   {}-{s lièvre de }
+      12        0   {}-{s, sans faut}
+      12        0   {}-{si ni pa tot}
+      12        0   {}-{t une sorte }
+      12        0   {}-{«PONINOYEW, }
+      12        0   {}-{âtchituttew,}
+      11        0   { }-{}
+      11        0   {Y}-{M, KEW, TCH}
+      11        0   {l}-{e, s’abaiss}
+      11        0   {q}-{mot est reç}
+      11        0   {w}-{u}
+      11        0   {}-{ ISÂW, (rac}
+      11        0   {}-{ a la quali}
+      11        0   {}-{ en insensé}
+      11        0   {}-{ le néga-ti}
+      11        0   {}-{ va à contr}
+      11        0   {}-{(v. a.) TTA}
+      11        0   {}-{, au jour, }
+      11        0   {}-{, il le fai}
+      11        0   {}-{, posku sâk}
+      11        0   {}-{. g. akawây}
+      11        0   {}-{.) aussi, d}
+      11        0   {}-{<\n>«MUSTAWÂN,}
+      11        0   {}-{<\n>«OSETINAW,}
+      11        0   {}-{AMATITTE, (}
+      11        0   {}-{KEW, idem. }
+      11        0   {}-{OWIN, a, (n}
+      11        0   {}-{a, (n. f.) }
+      11        0   {}-{aisit à nu.}
+      11        0   {}-{c.) descend}
+      11        0   {}-{e dernier m}
+      11        0   {}-{e prêt de m}
+      11        0   {}-{ente, ac-ti}
+      11        0   {}-{erré entre }
+      11        0   {}-{gré lui, av}
+      11        0   {}-{il est con-}
+      11        0   {}-{isk, wok, c}
+      11        0   {}-{l}
+      11        0   {}-{m.<\n>x WÂS, (}
+      11        0   {}-{p-plier d’a}
+      11        0   {}-{s, il est e}
+      11        0   {}-{siyiniw, ja}
+      11        0   {}-{v. n.) il f}
+      11        0   {é}-{ assez gras}
+      10        0   {w}-{ à couvert}
+      10        0   {}-{ assurémen}
+      10        0   {}-{ le reconn}
+      10        0   {}-{ violence.}
+      10        0   {}-{(rac.) com}
+      10        0   {}-{(v. a.) TT}
+      10        0   {}-{, v. g., t}
+      10        0   {}-{-WEW, TCHI}
+      10        0   {}-{. a.) il e}
+      10        0   {}-{. n.) il d}
+      10        0   {}-{. r.) il e}
+      10        0   {}-{.<\n>«POSIHEW}
+      10        0   {}-{.<\n>«YÂSIW, }
+      10        0   {}-{291 AMA<\n>AK}
+      10        0   {}-{EW, idem.<\n>}
+      10        0   {}-{NISSITWAW,}
+      10        0   {}-{cupe beauc}
+      10        0   {}-{de, v.g., }
+      10        0   {}-{i cependan}
+      10        0   {}-{iller des }
+      10        0   {}-{j’ai des p}
+      10        0   {}-{k, dans l’}
+      10        0   {}-{n, une voi}
+      10        0   {}-{tour, à l’}
+      10        0   {}-{v. g., ni }
+      10        0   {}-{y. la raci}
+      10        0   {}-{âskâhigan,}
+      10        0   {}-{âwok kinus}
+      10        0   {}-{’en-voie a}
+      10        0   {«}-{ÂNWEYIMEW,}
+       9        0   {a}-{eskikkemo}
+       9        0   {mb}-{tc., (v. }
+       9        0   {q}-{racine) a}
+       9        0   {r}-{ipiskawâw}
+       9        0   {t}-{ joindre.}
+       9        0   {v}-{objet acc}
+       9        0   {w}-{ askïy, l}
+       9        0   {}-{ (v. a.) }
+       9        0   {}-{ le même }
+       9        0   {}-{ le voyan}
+       9        0   {}-{ lui fair}
+       9        0   {}-{(v. a.) H}
+       9        0   {}-{) il disp}
+       9        0   {}-{.) il a a}
+       9        0   {}-{<\n>+MUSTCHI}
+       9        0   {}-{ISÂWESIW,}
+       9        0   {}-{SAKKAMOW,}
+       9        0   {}-{SITOSPWEW}
+       9        0   {}-{WEW, TCHI}
+       9        0   {}-{corce de }
+       9        0   {}-{implement}
+       9        0   {}-{koweh-wew}
+       9        0   {}-{là; v.g. }
+       9        0   {}-{ns vigueu}
+       9        0   {}-{s-cend su}
+       9        0   {}-{’est une }
+       8        0   {P}-{«YÂWINAW}
+       8        0   {d}-{â}
+       8        0   {i}-{orte de }
+       8        0   {w}-{embar-qu}
+       8        0   {}-{ pitié d}
+       8        0   {}-{(v. a.) }
+       8        0   {}-{) carré.}
+       8        0   {}-{-sévéran}
+       8        0   {}-{.<\n>+NISTA}
+       8        0   {}-{<\n>«PONEM,}
+       8        0   {}-{ANOKIJOW}
+       8        0   {}-{AWÂNAKEY}
+       8        0   {}-{KAMOHEW,}
+       8        0   {}-{NÂSKATTE}
+       8        0   {}-{WEPITEW,}
+       8        0   {}-{WEW, HI-}
+       8        0   {}-{a, ekwa }
+       8        0   {}-{ac, posk}
+       8        0   {}-{ant à lu}
+       8        0   {}-{e forme.}
+       8        0   {}-{eille, g}
+       8        0   {}-{ge, navi}
+       8        0   {}-{idus), p}
+       8        0   {}-{l es}
+       8        0   {}-{l-que su}
+       8        0   {}-{n, opéra}
+       8        0   {}-{n.) il e}
+       8        0   {}-{ples fer}
+       8        0   {}-{s}
+       8        0   {}-{ui va bi}
+       8        0   {}-{uve une }
+       8        0   {}-{évérance}
+       8        0   {}-{’avance;}
+       8        0   {«}-{ÂKWETTÂW}
+       8        0   {“}-{martre. }
+       7        0   {,}-{}
+       7        0   {-<\n>}-{i fait }
+       7        0   {<\n>}-{ }
+       7        0   {B}-{YAKIHUW}
+       7        0   {E}-{ÂPISTIK}
+       7        0   {WE}-{il le f}
+       7        0   {p}-{YÂS, (r}
+       7        0   {t}-{âpus, g}
+       7        0   {}-{ de l’e}
+       7        0   {}-{ etc., }
+       7        0   {}-{ le tro}
+       7        0   {}-{)}
+       7        0   {}-{B. Tout}
+       7        0   {}-{EMOWIN,}
+       7        0   {}-{EPIMÂKW}
+       7        0   {}-{dans un}
+       7        0   {}-{e répro}
+       7        0   {}-{emment }
+       7        0   {}-{emps, d}
+       7        0   {}-{eokoni }
+       7        0   {}-{esque, }
+       7        0   {}-{fficile}
+       7        0   {}-{i-manit}
+       7        0   {}-{il le c}
+       7        0   {}-{kutchâm}
+       7        0   {}-{limente}
+       7        0   {}-{l’ajust}
+       7        0   {}-{not; mi}
+       7        0   {}-{ojemisk}
+       7        0   {}-{on cano}
+       7        0   {}-{op comm}
+       7        0   {}-{outon, }
+       7        0   {}-{pprouve}
+       7        0   {}-{sinwok,}
+       7        0   {}-{t rempl}
+       7        0   {}-{t}
+       7        0   {}-{wok, le}
+       7        0   {}-{«KAKEBÂ}
+       7        0   {}-{«TEPINA}
+       7        0   {}-{é, il n}
+       7        0   {«}-{AMÂHEW,}
+       6        0   {-}-{barque}
+       6        0   {<\n>}-{ pourt}
+       6        0   {@}-{eyiwek}
+       6        0   {Asmmew}-{ÂSIMEW}
+       6        0   {HU}-{AKOSKA}
+       6        0   {J}-{PAYIW,}
+       6        0   {P}-{W, TCH}
+       6        0   {b}-{it fui}
+       6        0   {k;}-{uteau,}
+       6        0   {s}-{ne fon}
+       6        0   {s}-{tour d}
+       6        0   {w}-{nd can}
+       6        0   {xkawew}-{KAWEW}
+       6        0   {}-{ autou}
+       6        0   {}-{ bas, }
+       6        0   {}-{ blanc}
+       6        0   {}-{ bon é}
+       6        0   {}-{ desce}
+       6        0   {}-{ disen}
+       6        0   {}-{ pour }
+       6        0   {}-{ prier}
+       6        0   {}-{ tourn}
+       6        0   {}-{ }
+       6        0   {}-{, HI-W}
+       6        0   {}-{, de l}
+       6        0   {}-{, il l}
+       6        0   {}-{.) bou}
+       6        0   {}-{CHITTW}
+       6        0   {}-{EW}
+       6        0   {}-{ITTÂKW}
+       6        0   {}-{MÂHAMÂ}
+       6        0   {}-{TCHIKE}
+       6        0   {}-{USTÂBÂ}
+       6        0   {}-{aine, }
+       6        0   {}-{ait: j}
+       6        0   {}-{dv.) a}
+       6        0   {}-{e s}
+       6        0   {}-{esis, }
+       6        0   {}-{graffe}
+       6        0   {}-{ide}
+       6        0   {}-{iwa, l}
+       6        0   {}-{i}
+       6        0   {}-{l’eau }
+       6        0   {}-{ntour,}
+       6        0   {}-{o siss}
+       6        0   {}-{ok, (a}
+       6        0   {}-{ont bi}
+       6        0   {}-{rendre}
+       6        0   {}-{s-sir,}
+       6        0   {}-{se de }
+       6        0   {}-{ur de }
+       6        0   {}-{veut p}
+       6        0   {}-{ÂMUTTE}
+       6        0   {}-{é, pâl}
+       6        0   {}-{’en lu}
+       6        0   {«}-{ANÂSK,}
+       5        0   {Anyew}-{ÂHYEW}
+       5        0   {A}-{ÂKISI}
+       5        0   {A}-{ÂMEYI}
+       5        0   {C}-{TAW, }
+       5        0   {J}-{le do}
+       5        0   {V}-{ok, (}
+       5        0   {a}-{à}
+       5        0   {b}-{.) fl}
+       5        0   {h}-{e, am}
+       5        0   {kawew}-{KAWEW}
+       5        0   {p}-{il l’}
+       5        0   {s}-{ pein}
+       5        0   {t}-{i}
+       5        0   {t}-{épare}
+       5        0   {}-{ feu }
+       5        0   {}-{ jau-}
+       5        0   {}-{ kake}
+       5        0   {}-{ ki â}
+       5        0   {}-{ le p}
+       5        0   {}-{ qui }
+       5        0   {}-{ rich}
+       5        0   {}-{, eku}
+       5        0   {}-{, l’e}
+       5        0   {}-{,}
+       5        0   {}-{-ver,}
+       5        0   {}-{.}
+       5        0   {}-{EW, T}
+       5        0   {}-{INISS}
+       5        0   {}-{ISIW,}
+       5        0   {}-{M, SU}
+       5        0   {}-{M, TA}
+       5        0   {}-{PONI-}
+       5        0   {}-{TEPIP}
+       5        0   {}-{WÂMEY}
+       5        0   {}-{YÂSIP}
+       5        0   {}-{a mêm}
+       5        0   {}-{ant c}
+       5        0   {}-{cend,}
+       5        0   {}-{con-n}
+       5        0   {}-{de co}
+       5        0   {}-{dique}
+       5        0   {}-{faibl}
+       5        0   {}-{higan}
+       5        0   {}-{ite, }
+       5        0   {}-{k ni }
+       5        0   {}-{le, s}
+       5        0   {}-{leur,}
+       5        0   {}-{line,}
+       5        0   {}-{llé e}
+       5        0   {}-{ok, (}
+       5        0   {}-{om-pr}
+       5        0   {}-{on bi}
+       5        0   {}-{on. C}
+       5        0   {}-{ots s}
+       5        0   {}-{ou mi}
+       5        0   {}-{oyé d}
+       5        0   {}-{piska}
+       5        0   {}-{posip}
+       5        0   {}-{qui s}
+       5        0   {}-{r-che}
+       5        0   {}-{sawe,}
+       5        0   {}-{ssus,}
+       5        0   {}-{v.g. }
+       5        0   {}-{vec l}
+       5        0   {}-{voien}
+       5        0   {}-{éter.}
+       5        0   {}-{éussi}
+       5        0   {}-{ête b}
+       4        0   {!}-{ a.)}
+       4        0   {&}-{wok.}
+       4        0   {.}-{}
+       4        0   {:}-{.g.,}
+       4        0   {<\n>y}-{sott}
+       4        0   {<\n>«}-{ 290}
+       4        0   {Anwe}-{ÂHW}
+       4        0   {B}-{M, S}
+       4        0   {B}-{W, H}
+       4        0   {Ew}-{, ak}
+       4        0   {Ivew}-{ÎMEW}
+       4        0   {K}-{YAW,}
+       4        0   {K}-{YIHU}
+       4        0   {V}-{ki k}
+       4        0   {e}-{c}
+       4        0   {g}-{s un}
+       4        0   {k}-{(v. }
+       4        0   {nwew}-{HWEW}
+       4        0   {ok}-{etc.}
+       4        0   {t}-{che,}
+       4        0   {t}-{u, v}
+       4        0   {we}-{u ti}
+       4        0   {x }-{«WÂS}
+       4        0   {}-{ bla}
+       4        0   {}-{ du }
+       4        0   {}-{ hau}
+       4        0   {}-{ la }
+       4        0   {}-{ n}
+       4        0   {}-{ pro}
+       4        0   {}-{ tch}
+       4        0   {}-{ wey}
+       4        0   {}-{(v. }
+       4        0   {}-{, gr}
+       4        0   {}-{-}
+       4        0   {}-{.) i}
+       4        0   {}-{.)}
+       4        0   {}-{294 }
+       4        0   {}-{ATTO}
+       4        0   {}-{KIKÂ}
+       4        0   {}-{KOSI}
+       4        0   {}-{KÂK<\n>}
+       4        0   {}-{YIHI}
+       4        0   {}-{a-ra}
+       4        0   {}-{a. i}
+       4        0   {}-{ac.)}
+       4        0   {}-{at, }
+       4        0   {}-{auti}
+       4        0   {}-{ceau}
+       4        0   {}-{e bl}
+       4        0   {}-{e, ç}
+       4        0   {}-{em}
+       4        0   {}-{ez m}
+       4        0   {}-{habi}
+       4        0   {}-{i au}
+       4        0   {}-{in}
+       4        0   {}-{l vi}
+       4        0   {}-{le h}
+       4        0   {}-{mal }
+       4        0   {}-{n,}
+       4        0   {}-{nd}
+       4        0   {}-{n}
+       4        0   {}-{oubl}
+       4        0   {}-{our }
+       4        0   {}-{pé d}
+       4        0   {}-{r ce}
+       4        0   {}-{raît}
+       4        0   {}-{sâma}
+       4        0   {}-{séch}
+       4        0   {}-{t, i}
+       4        0   {}-{tion}
+       4        0   {}-{u, a}
+       4        0   {}-{ume }
+       4        0   {}-{ur t}
+       4        0   {}-{ur}
+       4        0   {}-{val,}
+       4        0   {}-{wiya}
+       4        0   {}-{ÂKWE}
+       4        0   {}-{ÂWES}
+       4        0   {}-{’ave}
+       4        0   {}-{’}
+       4        0   {« }-{}
+       3        0   {(A}-{« Â}
+       3        0   {, e}-{ c’}
+       3        0   {..@}-{ a}
+       3        0   {0}-{rac}
+       3        0   {<\n>H}-{ TT}
+       3        0   {@}-{(v.}
+       3        0   {@}-{ie,}
+       3        0   {K}-{EW,}
+       3        0   {a}-{pos}
+       3        0   {b}-{,) }
+       3        0   {c}-{ç}
+       3        0   {m-}-{au.}
+       3        0   {new}-{NEW}
+       3        0   {rr}-{p-p}
+       3        0   {r}-{a. }
+       3        0   {t}-{YIH}
+       3        0   {u-}-{ok,}
+       3        0   {up}-{mme}
+       3        0   {vew}-{NEW}
+       3        0   {w}-{tc.}
+       3        0   {}-{ ce}
+       3        0   {}-{ cœ}
+       3        0   {}-{ de}
+       3        0   {}-{ fi}
+       3        0   {}-{ lu}
+       3        0   {}-{ mi}
+       3        0   {}-{ n.}
+       3        0   {}-{ n’}
+       3        0   {}-{ ok}
+       3        0   {}-{ sé}
+       3        0   {}-{ y }
+       3        0   {}-{(}
+       3        0   {}-{, S}
+       3        0   {}-{AY,}
+       3        0   {}-{E}
+       3        0   {}-{KWA}
+       3        0   {}-{NÂS}
+       3        0   {}-{SI-}
+       3        0   {}-{SKA}
+       3        0   {}-{STI}
+       3        0   {}-{STÂ}
+       3        0   {}-{TTA}
+       3        0   {}-{UW,}
+       3        0   {}-{W, }
+       3        0   {}-{WÂN}
+       3        0   {}-{amo}
+       3        0   {}-{ang}
+       3        0   {}-{aut}
+       3        0   {}-{a}
+       3        0   {}-{d.)}
+       3        0   {}-{dor}
+       3        0   {}-{e g}
+       3        0   {}-{e o}
+       3        0   {}-{en }
+       3        0   {}-{e}
+       3        0   {}-{g.,}
+       3        0   {}-{hab}
+       3        0   {}-{ik,}
+       3        0   {}-{il }
+       3        0   {}-{ill}
+       3        0   {}-{ir.}
+       3        0   {}-{isa}
+       3        0   {}-{iso}
+       3        0   {}-{iwâ}
+       3        0   {}-{jik}
+       3        0   {}-{jou}
+       3        0   {}-{kke}
+       3        0   {}-{l e}
+       3        0   {}-{ma }
+       3        0   {}-{m}
+       3        0   {}-{n-d}
+       3        0   {}-{n.)}
+       3        0   {}-{nah}
+       3        0   {}-{ne }
+       3        0   {}-{onn}
+       3        0   {}-{ont}
+       3        0   {}-{ord}
+       3        0   {}-{raf}
+       3        0   {}-{re,}
+       3        0   {}-{rt,}
+       3        0   {}-{sab}
+       3        0   {}-{st }
+       3        0   {}-{tur}
+       3        0   {}-{ure}
+       3        0   {}-{uva}
+       3        0   {}-{vec}
+       3        0   {«}-{ANI}
+       2        0   { .}-{}
+       2        0   { A}-{YÂ}
+       2        0   { |}-{}
+       2        0   {'}-{’}
+       2        0   {,<\n>}-{ k}
+       2        0   {.}-{ }
+       2        0   {1}-{il}
+       2        0   {7}-{ a}
+       2        0   {7}-{il}
+       2        0   {<\n>}-{yâ}
+       2        0   {<\n>}-{}
+       2        0   {<w}-{u’}
+       2        0   {?/}-{il}
+       2        0   {@/}-{il}
+       2        0   {@:}-{a.}
+       2        0   {@}-{de}
+       2        0   {@}-{il}
+       2        0   {A}-{ Â}
+       2        0   {HU}-{MI}
+       2        0   {K}-{M,}
+       2        0   {K}-{YO}
+       2        0   {MO}-{KE}
+       2        0   {O}-{E}
+       2        0   {P}-{d’}
+       2        0   {U}-{l’}
+       2        0   {W}-{ST}
+       2        0   {a'}-{â’}
+       2        0   {ad}-{il}
+       2        0   {am}-{AM}
+       2        0   {a}-{’e}
+       2        0   {b}-{l}
+       2        0   {e }-{é}
+       2        0   {g}-{im}
+       2        0   {g}-{rl}
+       2        0   {m}-{n }
+       2        0   {p}-{b}
+       2        0   {p}-{k,}
+       2        0   {rr}-{. }
+       2        0   {t/}-{il}
+       2        0   {u}-{m}
+       2        0   {w}-{W}
+       2        0   {w}-{il}
+       2        0   {w}-{nd}
+       2        0   {w}-{u’}
+       2        0   {}-{ a}
+       2        0   {}-{ d}
+       2        0   {}-{ e}
+       2        0   {}-{ k}
+       2        0   {}-{ v}
+       2        0   {}-{(a}
+       2        0   {}-{, }
+       2        0   {}-{<\n>x}
+       2        0   {}-{<\n>}
+       2        0   {}-{MO}
+       2        0   {}-{OT}
+       2        0   {}-{OW}
+       2        0   {}-{SÂ}
+       2        0   {}-{TC}
+       2        0   {}-{W}
+       2        0   {}-{WÂ}
+       2        0   {}-{ag}
+       2        0   {}-{au}
+       2        0   {}-{c.}
+       2        0   {}-{ch}
+       2        0   {}-{c’}
+       2        0   {}-{d,}
+       2        0   {}-{e,}
+       2        0   {}-{e.}
+       2        0   {}-{ew}
+       2        0   {}-{g.}
+       2        0   {}-{hé}
+       2        0   {}-{i }
+       2        0   {}-{is}
+       2        0   {}-{ka}
+       2        0   {}-{le}
+       2        0   {}-{ni}
+       2        0   {}-{nt}
+       2        0   {}-{oi}
+       2        0   {}-{ok}
+       2        0   {}-{ol}
+       2        0   {}-{pa}
+       2        0   {}-{pe}
+       2        0   {}-{pl}
+       2        0   {}-{pï}
+       2        0   {}-{r.}
+       2        0   {}-{rc}
+       2        0   {}-{s.}
+       2        0   {}-{ti}
+       2        0   {}-{tu}
+       2        0   {}-{ui}
+       2        0   {}-{yi}
+       2        0   {}-{ÂN}
+       2        0   {}-{ÂY}
+       2        0   {}-{é }
+       2        0   {«}-{}
+       2        0   {° }-{}
+       2        0   {éa}-{â}
+       2        0   {’ }-{}
+       1        0   { }-{K}
+       1        0   { }-{’}
+       1        0   {&}-{a}
+       1        0   {*}-{,}
+       1        0   {-}-{.}
+       1        0   {0}-{a}
+       1        0   {0}-{v}
+       1        0   {1}-{a}
+       1        0   {7}-{r}
+       1        0   {;}-{,}
+       1        0   {?}-{:}
+       1        0   {@}-{a}
+       1        0   {A}-{I}
+       1        0   {A}-{â}
+       1        0   {B}-{S}
+       1        0   {E}-{-}
+       1        0   {E}-{Â}
+       1        0   {J}-{M}
+       1        0   {M}-{W}
+       1        0   {N}-{K}
+       1        0   {N}-{M}
+       1        0   {N}-{n}
+       1        0   {P}-{W}
+       1        0   {S}-{H}
+       1        0   {V}-{v}
+       1        0   {a}-{f}
+       1        0   {a}-{i}
+       1        0   {a}-{v}
+       1        0   {b}-{f}
+       1        0   {b}-{r}
+       1        0   {d}-{l}
+       1        0   {d}-{}
+       1        0   {e}-{è}
+       1        0   {g}-{a}
+       1        0   {i}-{t}
+       1        0   {k}-{n}
+       1        0   {k}-{t}
+       1        0   {k}-{u}
+       1        0   {k}-{y}
+       1        0   {n}-{h}
+       1        0   {r}-{g}
+       1        0   {s}-{u}
+       1        0   {u}-{e}
+       1        0   {u}-{v}
+       1        0   {v}-{n}
+       1        0   {v}-{}
+       1        0   {w}-{’}
+       1        0   {}-{;}
+       1        0   {}-{H}
+       1        0   {}-{K}
+       1        0   {}-{M}
+       1        0   {}-{T}
+       1        0   {}-{d}
+       1        0   {}-{h}
+       1        0   {}-{k}
+       1        0   {}-{r}
+       1        0   {}-{w}
+       1        0   {}-{«}
+       1        0   {»}-{t}
+       1        0   {é}-{ê}
+
+   Count   Missed   %Right
+     171       21    87.72   {<\n>}
+     626       25    96.01   { }
+       1        1     0.00   {!}
+       3        3     0.00   {&}
+       3        3     0.00   {'}
+      52        2    96.15   {(}
+      49        1    97.96   {)}
+       1        1     0.00   {*}
+     208        9    95.67   {,}
+      33        8    75.76   {-}
+     186        9    95.16   {.}
+       4        4     0.00   {/}
+       4        4     0.00   {0}
+       2        2     0.00   {1}
+       3        2    33.33   {2}
+       1        1     0.00   {4}
+       3        3     0.00   {7}
+       1        0   100.00   {8}
+       2        1    50.00   {9}
+       4        3    25.00   {:}
+      16        3    81.25   {;}
+       1        1     0.00   {<}
+       2        2     0.00   {?}
+       9        9     0.00   {@}
+     142       48    66.20   {A}
+      11        6    45.45   {B}
+      15        3    80.00   {C}
+      69        5    92.75   {E}
+       1        0   100.00   {G}
+      26        3    88.46   {H}
+      67        2    97.01   {I}
+       3        3     0.00   {J}
+     108        7    93.52   {K}
+      21        3    85.71   {M}
+      45        7    84.44   {N}
+      13        4    69.23   {O}
+      13        7    46.15   {P}
+      27        1    96.30   {S}
+      30        0   100.00   {T}
+       8        3    62.50   {U}
+       3        3     0.00   {V}
+     136        3    97.79   {W}
+       4        1    75.00   {Y}
+     317       39    87.70   {a}
+      43       16    62.79   {b}
+     101        4    96.04   {c}
+      73       11    84.93   {d}
+     292       18    93.84   {e}
+      18        1    94.44   {f}
+      25        5    80.00   {g}
+      30        1    96.67   {h}
+     164        2    98.78   {i}
+       9        2    77.78   {j}
+      64       10    84.38   {k}
+     108        1    99.07   {l}
+      66        8    87.88   {m}
+     126        5    96.03   {n}
+     119        2    98.32   {o}
+      61        8    86.89   {p}
+      17        5    70.59   {q}
+     120        7    94.17   {r}
+     140        5    96.43   {s}
+     132       13    90.15   {t}
+     113        6    94.69   {u}
+      95        5    94.74   {v}
+     103       46    55.34   {w}
+       8        2    75.00   {x}
+      18        3    83.33   {y}
+       1        1     0.00   {|}
+      45       11    75.56   {«}
+       1        1     0.00   {°}
+       1        1     0.00   {»}
+      26        4    84.62   {é}
+       2        1    50.00   {’}
+       2        2     0.00   {“}

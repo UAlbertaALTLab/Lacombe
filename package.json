@@ -41,5 +41,11 @@
     "node": ">=16"
   },
   "type": "module",
-  "scripts": {}
+  "scripts": {
+    "accuracy": "accuracy output.txt standard.txt accuracy.txt",
+    "stitch": "node lib/stitch.js OCR/standard standard.txt & node lib/stitch.js OCR/Quebec output.txt"
+  },
+  "devDependencies": {
+    "eslint": "^7.30.0"
+  }
 }
