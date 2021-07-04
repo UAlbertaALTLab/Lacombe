@@ -1,39 +1,89 @@
-616
 TEP
-«TEPISIWIN, a, (n. f.) contente-ment, satisfaction.
-«TEPIYÂWESIWIN, a, (n. f.) id.
-«TEPIKKWÂMIW, ok, (a. a.) il a assez dormi.
-«TEPIMEW, etc., (v. a.) il lui parle suffiasmment; ou, il le contente par ses paroles.
-«TEPIMÂKUSIW, ok, (a.a.) il remplit la place de son odeur.
-«TEPIMÂKWAN, wa, (a. in.) id.
-«TEPINEW, (v. a.) NAM, NIWEW, NI-KEW, il peut y atteindre avec sa main.
-«TEPINAMÂWEW, etc., (v. a.) il lui en fournit assez.
-«TEPISKAWEW, (v. a) KAM, KAKEW, KATCHIKEW, il lui va bien, v. g., ni tipiskawâwok ni wikwepâ-nak, mes pantalons me vont bien, tepiskam omaskisina, ses souliers lui font bien.
-«TEPISUW, ok, (a. a.) il a assez fumé.
-«TEPIPEW, ok, (a. a.) il a assez bu.
-«TEPIPUW, ok, (a. a.) il a assez mangé.
-«TEPISKITEHEW, ok, (a. a.) il a le cœur fatigué, accablé.
-«TEPIPAYIHIKUW, ok, (v. pass.) il en a assez, ça lui suffit.
-«TEPITTÂKUSIW, ok, (a. a.) il est bien entendu.
-«TEPITTÂKWAN, wa, (a. in.) id.
-«TEPITTAWEW, (v. a.) TTAM, TTA, TCHIKEW, il l’entend bien, il saisit assez sa voix, il l’entend suffisam-ment.
-«TEPISIN, wok, (a. a.) il est con-venable, il s’ajuste, il est juste.
+
+« TEPISIWIN, a, (n. f.) contente-
+ment, satisfaction.
+« TEPIYÂWESIWIN, a, (n. f.) id.
+« TEPIKKWÂMIW, ok, (a. a.) il a 
+assez dormi.
+« TEPIMEW, etc., (v. a.) il lui parle 
+suffiasmment; ou, il le contente par 
+ses paroles.
+« TEPIMÂKUSIW, ok, (a.a.) il rem
+plit la place de son odeur.
+« TEPIMÂKWAN, wa, (a. in.) id.
+« TEPINEW, (v. a.) NAM, NIWEW, NI-
+KEW, il peut y atteindre avec sa 
+main.
+« TEPINAMÂWEW, etc., (v. a.) il 
+lui en fournit assez.
+« TEPISKAWEW, (v. a) KAM, KAKEW, 
+KATCHIKEW, il lui va bien, v. g., 
+ni tipiskawâwok ni wikwepâ-
+nak, mes pantalons me vont bien, 
+tepiskam omaskisina, ses souliers 
+lui font bien.
+« TEPISUW, ok, (a. a.) il a assez 
+fumé.
+« TEPIPEW, ok, (a. a.) il a assez 
+bu.
+« TEPIPUW, ok, (a. a.) il a assez 
+mangé.
+« TEPISKITEHEW, ok, (a. a.) il a 
+le cœur fatigué, accablé.
+« TEPIPAYIHIKUW, ok, (v. pass.) 
+il en a assez, ça lui suffit.
+« TEPITTÂKUSIW, ok, (a. a.) il 
+est bien entendu.
+« TEPITTÂKWAN, wa, (a. in.) id.
+« TEPITTAWEW, (v. a.) TTAM, TTA- 
+TCHIKEW, il l’entend bien, il saisit 
+assez sa voix, il l’entend suffisam-
+ment.
+« TEPISIN, wok, (a. a.) il est con-
+venable, il s’ajuste, il est juste.
+
+616
+
 TET
-«TEPITTIN, wa, (a. in.) id.
-«TEPISIMEW, (v. a.) TTITAW, SIMI-WEW, TCHIKEW, il l’ajuste, il le fais joindre.
-x TEPIYÂK, (ad.) (saltem,) au moins, du moins, v. g., tepiyâk ekawiya ekusi tota, au moins ne fais pas cela.
-x TEPWEW, ok, (v. a.) il crie, il appelle.
-«TEPWEWIN, a, (n. f.) cri.
-«TEPWÂTEW, (v. a.) TAM, SIWEW, TCHIKEW, il l’appelle, il lui crie, aussie: il est publié dans l’église, etc.
-«TEPWESKITTEW, ok, (v. n.) les oreilles lui tintent.
+
+« TEPITTIN, wa, (a. in.) id.
+« TEPISIMEW, (v. a.) TTITAW, SIMI-
+WEW, TCHIKEW, il l’ajuste, il le 
+fais joindre.
+x TEPIYÂK, (ad.) (saltem,) au 
+moins, du moins, v. g., tepiyâk 
+ekawiya ekusi tota, au moins ne 
+fais pas cela.
+x TEPWEW, ok, (v. a.) il crie, il 
+appelle.
+« TEPWEWIN, a, (n. f.) cri.
+« TEPWÂTEW, (v. a.) TAM, SIWEW, 
+TCHIKEW, il l’appelle, il lui crie, 
+aussi: il est publié dans l’église, etc.
+« TEPWESKITTEW, ok, (v. n.) les 
+oreilles lui tintent.
 x TET, (rac.) être dessus, etc.
-«TETTAHYEW, (v. a.) STAW, YIWEW, TCHIKEW, il le met dessus.
-«TETTAPIW, ok, (a. a.) il est as-sis dessus, c’est-à-dire, il est à cheval, v. g. quelqu’un qui est à cheval.
-«TETTÂPÂTEW, ok, il est à cheval sur lui.
-«TETTAPIWIN, ak, (n. f.) ce sur quoi on va à cheval, le cheval.
-«TETTAPIWIN, a, (n. f.), siège, chaise, banc.
-«TATTAPIHEW, etc., (v. a.) il l’as-sied dessus.
-«TETCHIKWÂSKUTTIW, ok, (v. n.) il saute dessus.
-«TETCHIPAYIW, ok, a. (a. a. et in.) il monte sur, etc.
-«TETCHIPAYIHUW, ok, (v. r.) il s’élance dessus, il monte dessus.
-«TETCHIPAYIHUSTAWEW, etc., (v. a.) il monte sur quelqu’un, etc. N. B. Ordinairement, c’est employé dans le sens impudique.
+« TETTAHYEW, (v. a.) STAW, YIWEW, 
+TCHIKEW, il le met dessus.
+« TETTAPIW, ok, (a. a.) il est as-
+sis dessus, c’est-à-dire, il est à 
+cheval, v. g. quelqu’un qui est à 
+cheval.
+« TETTÂPÂTEW, ok, il est à cheval 
+sur lui.
+« TETTAPIWIN, ak, (n. f.) ce sur 
+quoi on va à cheval, le cheval.
+« TETTAPIWIN, a, (n. f.), siège, 
+chaise, banc.
+« TATTAPIHEW, etc., (v. a.) il l’as-
+sied dessus.
+« TETCHIKWÂSKUTTIW, ok, (v. 
+n.) il saute dessus.
+« TETCHIPAYIW, ok, a. (a. a. et 
+in.) il monte sur, etc.
+« TETCHIPAYIHUW, ok, (v. r.) 
+il s’élance dessus, il monte dessus.
+« TETCHIPAYIHUSTAWEW, etc., 
+(v. a.) il monte sur quelqu’un, 
+etc. N. B. Ordinairement, c’est em-
+ployé dans le sens impudique.
