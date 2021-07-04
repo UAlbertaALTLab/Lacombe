@@ -61,8 +61,9 @@ Set the language using the `-l` flag.
 * French: `fra`
 
 Language | Accuracy
--------- | --------
-English  |  
+---------|--------:
+English  |   86.45%
+French  |  
 
 ### Page Segmentation Mode
 
