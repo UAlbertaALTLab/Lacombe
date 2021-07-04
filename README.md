@@ -38,11 +38,46 @@ Aside from the OCR'd text version of Lacombe that we ourselves are producing, th
 
 The version from the Bibliothèque et Archives Nationales du Québec is by far the highest-quality scan available, so this is the scan we are using for our own OCR process.
 
+## Using Tesseract
+
+* [user manual](https://tesseract-ocr.github.io/tessdoc/)
+* [command line usage](https://tesseract-ocr.github.io/tessdoc/Command-Line-Usage.html)
+
+This section explains the various options we selected when using Tesseract 5.0 for optical character recognition on the Quebec scans. Consult the [Tesseract documentation][Tesseract] for more detailed instructions.
+
+**NOTE:** You can process multiple image files in a single run by saving the list of filenames as a text file, and provide the path to that text file in place of the `<path to image>` argument instead.
+
+### Language
+
+```
+tesseract <path to image> <path to output file> -l fra
+```
+
+### Page Segmentation Mode
+
+See [the docs](https://tesseract-ocr.github.io/tessdoc/ImproveQuality.html#page-segmentation-method).
+
+### Disabling Dictionaries
+
+From [the documentation](https://tesseract-ocr.github.io/tessdoc/ImproveQuality.html#dictionaries-word-lists-and-patterns):
+
+> Disabling the dictionaries Tesseract uses should increase recognition if most of your text isn’t dictionary words. They can be disabled by setting both of the configuration variables `load_system_dawg` and `load_freq_dawg` to `false`.
+
+### Word Lists
+
+From [the documentation](https://tesseract-ocr.github.io/tessdoc/ImproveQuality.html#dictionaries-word-lists-and-patterns):
+
+> It is also possible to add words to the word list Tesseract uses to help recognition, or to add common character patterns, which can further help to improve accuracy if you have a good idea of the sort of input you expect. This is explained in more detail in the [Tesseract manual](https://github.com/tesseract-ocr/tesseract/blob/master/doc/tesseract.1.asc#config-files-and-augmenting-with-user-data).
+
+### Allowed Character List
+
+From [the documentation](https://tesseract-ocr.github.io/tessdoc/ImproveQuality.html#dictionaries-word-lists-and-patterns):
+
+> If you know you will only encounter a subset of the characters available in the language, such as only digits, you can use the `tessedit_char_whitelist` configuration variable. See the FAQ for an example.
+
 ## OCR Results
 
-This section discusses the results we achieved from running Tesseract on the Quebec scans ourselves.
-
-We obtained the following results using Tesseract 5.0. Consult the [Tesseract documentation][Tesseract] for the meaning of the various command line options. Click the **link** in the **Report** column to see the accuracy report for that particular set of Tesseract options. See the [Accuracy](#accuracy) section below for more details on how to read the accuracy reports.
+This section shows the results we achieved from running Tesseract on the Quebec scans ourselves. Click the **link** in the **Report** column to see the accuracy report for that particular set of Tesseract options. See the [Accuracy](#accuracy) section below for more details on how to read the accuracy reports.
 
 Options    | Accuracy | Report
 -----------|---------:|:-------------------------------:
