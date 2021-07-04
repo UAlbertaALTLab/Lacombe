@@ -43,7 +43,7 @@
   "type": "module",
   "scripts": {
     "accuracy": "accuracy OCR/Quebec/sample.txt OCR/standard/sample.txt OCR/Quebec/accuracy.txt",
-    "stitch": "node lib/stitch.js OCR/Quebec/sample OCR/Quebec/sample.txt & node lib/stitch.js OCR/standard/sample OCR/standard/sample.txt"
+    "concat": "node lib/concat.js OCR/Quebec/sample OCR/Quebec/sample.txt & node lib/concat.js OCR/standard/sample OCR/standard/sample.txt"
   },
   "devDependencies": {
     "eslint": "^7.30.0"

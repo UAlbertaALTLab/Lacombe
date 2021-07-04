@@ -78,11 +78,11 @@ The `accuracy` script takes the following 3 arguments:
 2. `<gold standard>`: the gold standard / source of truth for the text being evaluated
 3. `[out file]`: [optional] the location where the accuracy report should be saved
 
-To combine multiple pages of OCR output or gold standard together for aggregated comparison of multiple pages at once, first make sure you have [Node and npm][Node] installed, then run the following command (where `<directory>` is the path to a folder containing text files you would like to stitch together, and `<outfile>` is the path to the file where you would like the results saved). This script will only combine files with a `.txt` extension. You can then run ocreval on the combined file.
+To combine multiple pages of OCR output or gold standard together for aggregated comparison of multiple pages at once, first make sure you have [Node and npm][Node] installed, then run the following command (where `<directory>` is the path to a folder containing text files you would like to concatenate together, and `<outfile>` is the path to the file where you would like the results saved). This script will only combine files with a `.txt` extension. You can then run ocreval on the combined file.
 
-`node lib/stitch.js <directory> <outfile>`
+`node lib/concat.js <directory> <outfile>`
 
-You can also stitch both the `OCR/standard/sample/` and `OCR/Quebec/sample` folders with a single command, `npm run stitch`. This will create `OCR/standard/sample.txt` and `OCR/Quebec/sample.txt` files for comparison.
+You can also concatenate both the `OCR/standard/sample/` and `OCR/Quebec/sample` folders with a single command, `npm run concat`. This will create `OCR/standard/sample.txt` and `OCR/Quebec/sample.txt` files for comparison.
 
 Finally, you can run ocreval on these two combined files with `npm run accuracy`. This will create an accuracy report titled `accuracy.txt` in the project root.
 
