@@ -1,0 +1,16 @@
+OCR/Quebec/sample/289.tiff
+OCR/Quebec/sample/290.tiff
+OCR/Quebec/sample/291.tiff
+OCR/Quebec/sample/292.tiff
+OCR/Quebec/sample/293.tiff
+OCR/Quebec/sample/294.tiff
+OCR/Quebec/sample/342.tiff
+OCR/Quebec/sample/362.tiff
+OCR/Quebec/sample/471.tiff
+OCR/Quebec/sample/502.tiff
+OCR/Quebec/sample/514.tiff
+OCR/Quebec/sample/576.tiff
+OCR/Quebec/sample/581.tiff
+OCR/Quebec/sample/616.tiff
+OCR/Quebec/sample/636.tiff
+OCR/Quebec/sample/660.tiff

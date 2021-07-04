@@ -47,11 +47,22 @@ This section explains the various options we selected when using Tesseract 5.0 f
 
 **NOTE:** You can process multiple image files in a single run by saving the list of filenames as a text file, and provide the path to that text file in place of the `<path to image>` argument instead.
 
-### Language
+Basic command line usage:
 
 ```
-tesseract <path to image> <path to output file> -l fra
+tesseract <path to image> <path to output file>
 ```
+
+### Language
+
+Set the language using the `-l` flag.
+
+* English: `eng`
+* French: `fra`
+
+Language | Accuracy
+-------- | --------
+English  |  
 
 ### Page Segmentation Mode
 
