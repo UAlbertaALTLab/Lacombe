@@ -385,8 +385,8 @@ x OSAHWEW, (v. a.) HAM, HUWEW, HIKEW, il le lève, il le fait fuir
 576
 PON
 «PONI-AYAMIHAW, ok, (v. n.) il finit de prier.
-«PONI-AYAW, ok, (v. n.) il cesse d'être, d’exister
-«PONIYAWESIW, ok, (a. a.) il cesse d'être fâché.
+«PONI-AYAW, ok, (v. n.) il cesse d’être, d’exister
+«PONIYAWESIW, ok, (a. a.) il cesse d’être fâché.
 «PONINOKUSIW, ok, (a. a.) il disparaît.
 «PONINOKWAN, wa, (a. in.) id.
 «PONINOKIW, ok, (v. n.) il cesse de téter.
@@ -430,9 +430,9 @@ SÂK
 «SÂKIHIKUSIW, ok, (a. a.) il est aimable.
 «SÂKIHIKWAN, wa, (a. in.) idem.
 «SÂKIHIKUSIWIN, a, (n. f.) amabilité.
-«SÂKIHIKOWIN, a, (n. f.) action d'être aimé.
+«SÂKIHIKOWIN, a, (n. f.) action d’être aimé.
 «SÂKIHIKOWISIW, il est aimé par Dieu.
-«SÂKIHIKOWISIWIN, a, (n. f.) action d'être aimé par Dieu.
+«SÂKIHIKOWISIWIN, a, (n. f.) action d’être aimé par Dieu.
 «SÂKIHISUW, ok, (v. r.) il s’aime.
 «SÂKIHISUWIN, a, (n. f.) amour propre.
 «SÂKISIW, ok, (a. a) il est avare, il aime son bien. N. B. Ce mot et le suivant, se disent toujours avec le redoublement, ainsi, sâsâkisiw.
@@ -567,4 +567,3 @@ x YÂW, (rac.) indique qu’il n’y a pas assez, insuffisant, être prêt de ma
 «YÂWINÂKWAN, wa, (a. in.) id.
 «YÂWINEW, (v. a.) NAM, NIWEW, NIKEW, il ne peut le saisir avec la main, il ne peut l’atteindre.
 «YÂWÂSITTAWEW, (v. a.) TTAM, TTÂKEW, TTÂTCHIKEW, il ne peut saisir sa voix, il ne peut le com-
-
