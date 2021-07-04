@@ -105,9 +105,10 @@ The characters used in the gold standard are:
 
 This section shows the results we achieved from running Tesseract on the Quebec scans ourselves. Click the **link** in the **Report** column to see the accuracy report for that particular set of Tesseract options. See the [Accuracy](#accuracy) section below for more details on how to read the accuracy reports.
 
-Options    | Accuracy | Report
------------|---------:|:-------------------------------:
-no options |   90.41% | [link](./OCR/Quebec/reports/no-options.txt)
+Options             | Accuracy |                      Report
+--------------------|---------:|:-----------------------------------------------:
+no options (French) |   88.28% |   [link](./OCR/Quebec/reports/no-options.txt)
+characters list     |   70.01% | [link](./OCR/Quebec/reports/characters-list.txt)
 
 ## Comparing OCR Outputs
 

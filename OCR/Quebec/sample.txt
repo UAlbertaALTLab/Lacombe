@@ -55,7 +55,7 @@ KEW,TCHIKEW.0luicoupeleche-
 
 289
 
- 
+
 
 AKW
 
@@ -101,7 +101,7 @@ couvrant.
 HUWEW,HIKEW,!leCouvre,v.q.,
 unvase.
 
- 
+
 AKW
 
 tAKWANBOHIGAN,a,(n.f.)
@@ -155,7 +155,7 @@ TCOHIKEW,lecouvrecomplte:
 
 290
 
- 
+
 
 AKW
 
@@ -203,12 +203,12 @@ motscouverts,enparaboles.
 
 eocest
 
- 
-   
 
- 
+
 
- 
+
+
+
 
 (AKWANOKIJOWEVWIN,a,(7.
 f.)parolecouvert,parabole.
@@ -259,7 +259,7 @@ AJIWISIW,ok,(a..a.)iner6us-
 sitOpas,(synonimes)nayoyuw,
 akawisiw.
 
- 
+
 
 AKW 291 AMA
 
@@ -317,7 +317,7 @@ ilestsursesgardes.
 
 En
 
- 
+
 AMA
 
 (AMATISUWIN,a,(0o.f.)crainte
@@ -413,11 +413,11 @@ wok,casiordedeuxans;nbe-
 misk,wok,lecastormle;noje-
 misk,wok.lafemelle.
 
- 
+
 
 MIW,ok,(v.n.)lepoissonfraie..
 
- 
+
 MI
 
 AMIWIN,a,.(n.f.)letempsdu
@@ -464,7 +464,7 @@ manchecoupee,rognee.
 
 293
 
- 
+
 
 ANI
 
@@ -521,7 +521,7 @@ plusdeforcecequelondit;
 v.g.,tpweani,cestbienvrai;
 otaani,cestici;niwi-ituttn
 
- 
+
 ANI
 
 ani,jeveuxyallerassurment;
@@ -575,7 +575,7 @@ pascela,je.neferaispasainsi.
 
 294
 
- 
+
 
 ANT
 
@@ -631,7 +631,7 @@ liraspas;anisikisnamawiyaki
 wi-ayamihin,ekaKkopeKiski-
 nohamkusiyan,donc,ainsi,tu
 
- 
+
 TSA
 
 (ISAWANAKEYIMOTOrawEw,
@@ -688,7 +688,7 @@ vOy.laracineaswe,Equiestla
 
 342
 
- 
+
 
 ISI
 
@@ -736,7 +736,7 @@ aire,comme,ittiw,ayaw,iest.
 
 (D.
 
- 
+
 KAK
 
 xKAKEBTISIW,ok,(a-a.)l
@@ -784,7 +784,7 @@ mekakeskikkemowin.
 
 362
 
- 
+
 
 KK
 
@@ -830,7 +830,7 @@ bassesses,humiliation,soumission
 KAKITJInEw,(v.q)TTAW,Hi-
 (WEW,TOHKEW,leconsole,ille
 
- 
+
 MOS
 
 tMOSKUMEMOW,ok,(v.n.)
@@ -881,7 +881,7 @@ ss
 
 471
 
- 
+
 
 MUT
 
@@ -930,7 +930,7 @@ a:).TAM,
 
 a.)NAM,
 
- 
+
 NIS. 5
 
 tNISWEYAKISTW,ok,(a.a.)il
@@ -981,7 +981,7 @@ f.)
 
 02
 
- 
+
 
 NIS
 
@@ -1029,7 +1029,7 @@ loiaussi,Wista,luiaussi.
 
 a.)
 
- 
+
 OS 5
 tOSWBISKISIW,ok,(a.a.)
 
@@ -1076,7 +1076,7 @@ canotdebois;waskwyosi,ca-
 
 im.)
 
- 
+
 
 OSI
 
@@ -1124,7 +1124,7 @@ tOSIKAKATOTEW,a,(a.in.)id.
 
 ind.)t
 
- 
+
 PON
 
 EPONI-AYAMIHAW,ok,(v.n.)il
@@ -1174,7 +1174,7 @@ f)cessation,
 
 976
 
- 
+
 
 POS
 
@@ -1231,8 +1231,8 @@ rivelemmejour(quilestparti).
 xPOSK,(rac.)crever,eclater,faire
 explosion.
 
- 
- 
+
+
 
 SK
 
@@ -1284,7 +1284,7 @@ SAKITTIW,ok,(a.a.)(sskittiw)
 
 o81
 
- 
+
 
 SAK
 
@@ -1334,17 +1334,17 @@ a.)
 
 f.)
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
 TEP
 
 TEPISIWIN,a,(n.f.)contente-
@@ -1391,7 +1391,7 @@ venable,ilsajuste,ilestjuste.
 
 616
 
- 
+
 
 TET
 
@@ -1440,7 +1440,7 @@ eTETCHIPAYIHUSTrawEw,etc.,
 etc.N.B.Ordinairementcestem-
 ployedanslesensimpudique.
 
- 
+
 WP
 
 tWAPISKEVYAPEGAN,
@@ -1499,7 +1499,7 @@ brun,decouleursale.
 
 636
 
- 
+
 
 Ws
 tWAPITEYAW,ok,a,(a.a.etin.)
@@ -1556,7 +1556,7 @@ descordef
 
 ils:
 
- 
+
 Pa
 
 YAK
@@ -1604,7 +1604,7 @@ WEW,TOHIKEW,tledescend,ille
 
 660
 
- 
+
 
 faitSabaisser.
 
@@ -1669,5 +1669,5 @@ YAWASIrrawEw,(v.a)TraM,
 TTKEW,TTATCHIKEW,tnepeut
 saisirsavoix,inepeutlecom-
 
- 
+
 
