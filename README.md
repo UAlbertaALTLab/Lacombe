@@ -8,6 +8,12 @@ This project uses the optical character recognition (OCR) tool [Tesseract][Tesse
 
 - [Scans](#scans)
 - [Text Versions](#text-versions)
+- [Using Tesseract](#using-tesseract)
+  - [Language](#language)
+  - [Page Segmentation Mode](#page-segmentation-mode)
+  - [Disabling Dictionaries](#disabling-dictionaries)
+  - [Word Lists](#word-lists)
+  - [Allowed Character List](#allowed-character-list)
 - [OCR Results](#ocr-results)
 - [Comparing OCR Outputs](#comparing-ocr-outputs)
 - [Calculating OCR Accuracy](#calculating-ocr-accuracy)
@@ -42,6 +48,7 @@ The version from the Bibliothèque et Archives Nationales du Québec is by far t
 
 * [user manual](https://tesseract-ocr.github.io/tessdoc/)
 * [command line usage](https://tesseract-ocr.github.io/tessdoc/Command-Line-Usage.html)
+* [old manual pages](https://tesseract-ocr.github.io/tessdoc/Documentation.html#manual-pages)
 
 This section explains the various options we selected when using Tesseract 5.0 for optical character recognition on the Quebec scans. Consult the [Tesseract documentation][Tesseract] for more detailed instructions.
 
@@ -57,23 +64,26 @@ tesseract <path to image> <path to output file>
 
 Set the language using the `-l` flag.
 
-* English: `eng`
-* French: `fra`
-
 Language | Accuracy
 ---------|--------:
-English  |   86.45%
-French   |   88.28%
+`eng`    |   86.45%
+`fra`    |   88.28%
 
 ### Page Segmentation Mode
 
-See [the docs](https://tesseract-ocr.github.io/tessdoc/ImproveQuality.html#page-segmentation-method).
+See [the docs](https://tesseract-ocr.github.io/tessdoc/ImproveQuality.html#page-segmentation-method) on available page segmentation modes.
+
+Set the page segmentation mode using the `--psm` flag.
+
+Adjusting the page segmentation mode did not have any effect on the accuracy of the output.
 
 ### Disabling Dictionaries
 
 From [the documentation](https://tesseract-ocr.github.io/tessdoc/ImproveQuality.html#dictionaries-word-lists-and-patterns):
 
 > Disabling the dictionaries Tesseract uses should increase recognition if most of your text isn’t dictionary words. They can be disabled by setting both of the configuration variables `load_system_dawg` and `load_freq_dawg` to `false`.
+
+Disabling dictionaries did not have any effect on the accuracy of the output.
 
 ### Word Lists
 
@@ -86,6 +96,10 @@ From [the documentation](https://tesseract-ocr.github.io/tessdoc/ImproveQuality.
 From [the documentation](https://tesseract-ocr.github.io/tessdoc/ImproveQuality.html#dictionaries-word-lists-and-patterns):
 
 > If you know you will only encounter a subset of the characters available in the language, such as only digits, you can use the `tessedit_char_whitelist` configuration variable. See the FAQ for an example.
+
+The characters used in the gold standard are:
+
+`!()+,-.0123456789:;ABCDEGHIJKLMNOPRSTUVWYabcdefghijklmnopqrstuvwxyz«ÂÉÊÎàâäçèéêîïôùûœ’`
 
 ## OCR Results
 
