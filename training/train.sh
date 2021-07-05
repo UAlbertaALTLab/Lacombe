@@ -7,7 +7,7 @@ function wrap {
 N=14 # Change this accordingly to number of files, that you want to feed to tesseract or export it as a script parameter.
 
 # Uncomment this line if, you're rerunning the script
-rm fra.pffmtable  fra.shapetable fra.traineddata fra.unicharset unicharset font_properties fra.inttemp fra.normproto *.tr *.txt
+rm fra.pffmtable fra.shapetable fra.traineddata fra.unicharset unicharset font_properties fra.inttemp fra.normproto *.tr *.txt
 
 for i in `seq 0 $N`; do
     tesseract fra.lacombe.exp$i.tiff fra.lacombe.exp$i nobatch box.train
