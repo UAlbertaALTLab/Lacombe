@@ -64,10 +64,12 @@ tesseract <path to image> <path to output file>
 
 Set the language using the `-l` flag.
 
-Language | Accuracy
----------|--------:
-`eng`    |   86.45%
-`fra`    |   88.28%
+Language  | Accuracy
+----------|--------:
+`eng`     |   86.45%
+`fra`     |   88.28%
+`fra+por` |   88.61%
+`por+fra` |   88.61%
 
 ### Page Segmentation Mode
 
@@ -97,9 +99,13 @@ From [the documentation](https://tesseract-ocr.github.io/tessdoc/ImproveQuality.
 
 > If you know you will only encounter a subset of the characters available in the language, such as only digits, you can use the `tessedit_char_whitelist` configuration variable. See the FAQ for an example.
 
+Configuration variables are included with the `-c` flag. Multiple configuration variables may be passed, separated by commas.
+
 The characters used in the gold standard are:
 
 `!()+,-.0123456789:;ABCDEGHIJKLMNOPRSTUVWYabcdefghijklmnopqrstuvwxyz«ÂÉÊÎàâäçèéêîïôùûœ’`
+
+Including a set of allowed characters significantly _worsened_ the accuracy of the OCR output. This was true regardless of which variations on character sets I used (limiting it to just Cree letters, etc.).
 
 ## OCR Results
 
