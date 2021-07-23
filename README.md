@@ -107,6 +107,10 @@ The characters used in the gold standard are:
 
 Including a set of allowed characters significantly _worsened_ the accuracy of the OCR output. This was true regardless of which variations on character sets I used (limiting it to just Cree letters, etc.).
 
+### Training a Language Model
+
+[This tutorial](https://medium.com/quantrium-tech/training-tesseract-using-qt-box-editor-1c089ae3029) is an accessible guide to creating a new language model for Tesseract, using the v3.0 method.
+
 ## OCR Results
 
 This section shows the results we achieved from running Tesseract on the Quebec scans ourselves. Click the **link** in the **Report** column to see the accuracy report for that particular set of Tesseract options. See the [Accuracy](#accuracy) section below for more details on how to read the accuracy reports.
