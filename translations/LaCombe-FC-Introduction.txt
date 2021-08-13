@@ -1,0 +1,229 @@
+﻿DICTIONARY
+
+
+OF THE
+
+
+CREE LANGUAGE
+---
+
+
+INTRODUCTION
+
+
+It is by studying the language of a nation 
+that one comes to know its habits and its nature
+
+
+THE SAVAGE LANGUAGES
+
+
+Much has been spoken and written of the savage languages of North America. Certain wits, which believe themselves capable of judging all, have, through resolving upon questions which are not of their competence, appraised the savage languages quite poorly. This new type of Indianologue, after having spent some time among the Indians, and after having collected a certain number of words, often very badly written, come to support (the idea) that these dialects are nothing but inarticulate sounds, truncated and near unintelligible debris, and that they are not true languages. Others, on the contrary, better appreciators and more fit to judge (and we place first among these the missionaries), after long studies and many years spent among the savage tribes, have come to recognise that the poor child of the prairies and forests have a language which is regular, intelligible, and not without beauty, with which he may transmit to his equals all that which stirs in his soul. Furthermore, the savage, when speaking his language, speaks it correctly from a young age, and it is unheard of for someone to make the slightest fault against the grammatical rules; and this, without having dictionary nor grammar, nor any sort of study, to show him that which, naturally, he learned on the knees of his mother. The savage languages in general are rich in words and grammatical forms. In their complex structure, one finds the greatest of order, and the most regular of methods.
+
+
+In teaching this, the study of languages must without doubt occupy one of the first-most places. To express one’s thought and to communicate one’s ideas is always the first need which arises; it is this knowledge of languages which extends and multiplies the ever-necessary, ever-useful relations of social wellbeing, and which, in historical fact, provides the truest perception of all peoples. One notices here the diversity of genius, of manner, and of character of each people. By comparing man with man in this fashion, in his different relations, one learns not only to know him, but also to admire his character. Among the civilised peoples, the study of languages has developed in a very sensitive light, owing to their monumental overtures and their historians, but among the savage tribes, one is deprived of these resources. The principal, or sometimes the only, monumental work which may be of aid in the research of their history is indisputably the knowledge of their language. It is to attain this goal, while wholeheartedly believing it to please those who apply themselves to the study of savage languages, that, with the help of good friends, I publish today this Dictionary and this Grammar of the Cree language. With the encouragement and support of the Bishops of Canada and others, who have deigned to take interest in my work, I believed it necessary to undertake a such a project; it is truly beyond my strength and ability, but I shall continue, imperfect as it may be, with the thought that (the reader) will be lenient towards me.
+
+
+My having worked for more than twenty years in the missions in Saskatchewan shall, I hope, permit me to offer, to the friends of our savages, this work on the Cree language. From my first years as a missionary, I have thought that, in order to evangelise, it was absolutely necessary to understand the language of those who one wished to Christianise. From the beginning, I thus began to compile all that I could collect of words and grammatical rules. Without any pretension that I have made a complete work, I nonetheless see myself as having been greatly recompensed for my watchfulness and my research if I may be of use to those who wish to study the Cree language, particularly if I may ease and facilitate to missionaries the first elements of such a necessary study for instruction of the populations of a large part of the North-West.
+
+
+It is not necessary to request charity and indulgence, for all that may be deficient in that which I take the liberty of calling a Dictionary and a Grammar of the Cree language. I think that my intentions are clear enough. The first compiler of any such work has a great task before him, and one must not be shocked if the first draft contains its share of imperfections.  One must experience it to understand how difficult it is to be a good Indian linguist. The savage languages are so different from our civilised languages that it is impossible to follow the same motions to outline their rules. To wish to build a Cree grammar, or that of any other savage language, on the foundations of a grammar of Latin, French, English, etc., would be a useless, and moreover impossible, enterprise.
+
+
+As it was so well said by the learned and tireless M. Cuoq, “it is only men who are competent in matters of linguistics who could conceive of the length and difficulty of the work which shall appear before them; they alone can form a just idea of the searches through all types of diverse combinations which which we have needed to do to unravel the marvellous weavework of these languages, to find the suitable terms to express these stunning phenomena, to distinguish these words well, penetrating all of their meaning and nuances, and to give each of them its just value, to discern everywhere the radical with its prefixes and suffixes, to lay down rules, whether general or specific, on the different parts of speech, on the derivation and composition of words, and finally to discover the exceptions to the rules and the anomalies.”. That which this distinguished Indianologue has so accurately said of his philological studies on the Iroquoian and Algonquian languages, allow me to say for the Cree language. All foreign languages are extremely difficult to learn for someone who speaks another whose structure is entirely different. He could not achieve this end without extreme dedication and the use of several years. If the savage languages, despite their intrinsic beauty, lack an infinite number of terms to express the knowledge and arts which we have been given, they have a yet much greater deficiency in words to speak of things of religion. It has thus required lengthy work by the first missionaries, as if to pull from the depths of these languages a new language, to speak of God, the mysteries of Faith, and of abstract truths. It is easy to have a savage say how he refers, in his language, to everything that can be seen, touched, and heard; but to express interior and spiritual actions, and that which cannot be demonstrated to the senses, when it comes to explaining things of religion, it has taken sweat, work, scheming, trial, and error before bringing into the world a new manner of speaking which we make use of today.
+
+
+The general character of the savage languages consists of bringing together a great number of ideas under the form of a single word. With the help of roots, inflections, and particulate prefixes, one forms words which sometimes contain the idea of an entire sentence, as in the following:
+
+
+Nipakwesimowin, danse where one causes oneself to die of thirst
+Iskutewâbokkew, he makes firey liquor
+
+
+THE CREE
+
+
+The Cree, as is proven by the identity of their language, belong to the greater Algic family, which extends from Labrador to the Rocky Mountains and to the banks of the Athabaskaw River, and is formed of the tribes of the Montagnais of Labrador, the Ball Heads (Atikamekw) of St. Maurice, the Abénaquis (Abenaki), the Ottawas, the Algonquins, the Salteaux, the Maskegons, and finally the Cree. The different dialects of these tribes appear to have the same origin from the resemblance of their languages. Knowing one of these languages, it would suffice to hear only one of its peers to convince oneself that the radicals are close to the same, and that the principal grammatical rules are formed in the same way. The word Cree probably comes from Kinistinok, a name given to the nation by the Salteaux. The first pioneers, hearing Kinistinok being said, would have soon, as always, formed a shorter and easier to pronounce name.
+
+
+Of all of the Algic tongues, it is Cree and Maskegon which offer the closest resemblance. On can even say that they are the same language, apart from the the accent and the manner of referring to certain things. Salteaux, Algonquin, and their peers differ much (more) from Cree by pronunciation, the designation of plurals, and the different suffixes of the verb. In Salteaux and Algonquin, the negative form is doubled, like in French, e.g. je ne le vois pas, in Salteaux, one says kawin ni wabamassi; but in Cree, it is simple, as in English, e.g. I do not see, namawiya ni wabamaw. The Blackfoot, whose language is altogether quite different, have the same form for negative phrases as the Salteaux.
+
+
+The Cree refer to themselves in their language as Nehiyawok, a word whose meaning is not certain. However, it appears that it means the same thing as iyiniwok, the true men, the beings of the first race. They divide themselves into various bands. Firstly, the two great families, the Cree of the Plains (Paskwawiyiniwok) and those of the woods or forest (Sakawiyiniwok). These two families are subdivided as follows: for the Plains Cree, there are the people of the river (Sipiwiyiniwok) and the people of the lowlands (Mamikiyiniwok). For those of the woods, there are the people of Ile à la Crosse (Sakittawawiyiniwok) and the people of Rabaskaw (Ayabaskawiyiniwok).
+
+
+The Plains Cree are more numerous than those of the woods. They may form a population of nearly 15 to 16 thousand souls. The Plains Cree reside in large camps, ceaselessly in pursuit of their ineffable buffalo, living only by the hunt and the grace of chance. The Woods Cree, humble hunters or fishermen, live isolated in (groups of) three or four families, because a larger agglomeration could not find enough to hunt to support their needs. The savages of the Great Plains are rather more proud and warlike than those of the forest. The first are not surpassed in hardiness, audacity, and gall by the famous Blackfoot, their neighbours and their enemies. The Plains Cree live in lodges or tents made with buffalo leather, while those of the woods more often have simply have cabins of bark or spruce branches as shelter. The first speak their language with great purity and elegance; the second have lost this purity by borrowings from the Maskegon, chiefly by making use of r in place of y, nonetheless quite euphonic.
+
+
+The language of the Cree is beautiful, rich, and perhaps the easiest of all of the savage languages of North America. One can say that Cree is for the North-West what French is for the civilised countries.
+
+
+The Cree language is the most widely spoken in the North-West. With this tongue, one may entreat with any tribe in this country. Having nearly the same grammatical rules as the Salteaux language, a number of words from the same roots, and often having the same pronunciation, the Cree language can be largely understood by a Salteaux. It is only the accent which is more fixed in Salteaux than in Cree. The Assiniboine, whose language is the same as that of the Sioux, and who are the friends and allies of the Cree by marriages, almost all understand some Cree, and some speak it very well.
+
+
+Even the Blackfoot and Sarcey can speak some Cree among themselves, having often camped with this nation in times of peace. A great number of Montagnais, whose language is quite difficult, understand Cree, as do their brethren, the Beavers of the river La Paix.
+
+
+In a time not long ago, the Cree lived in the vicinity of the Red River, according to the accounts of the elders, and mingled among the Salteaux and Maskegon.  These savages, as well as the other populations of this country, have no tradition on their origin, nor on their initial migrations. All that is known is that, by separating from their allies due to the distancing of the buffalo, they advanced towards the plains of the northern branch of the Saskatchewan River* (*This word has been disfigured by the English and means nothing in Cree. It should be;  Kisiskatchiwan, fast current), and little by little pushed back the intrepid Blackfoot, who had long planted their lodges on the banks north of the river. Today, the Cree, by audacious strength and perseverance, have conquered all of the valley of the northern Saskatchewan (River), and the Blackfoot, among other nations of the prairie, live on the southern branch of the River LaBiche.
+
+
+The Cree have always shown themselves as friends to the Whites, and it likely for this that the early pioneers of the North-West, marrying themselves to savages, took a preference for Cree women over those of other nations, due to the hospitable reception that was made for them. This may explain why all of the Métis of Manitoban and Saskatchiwan preferentially speak Cree over other dialects, which they nonetheless know.
+
+
+OBSERVATIONS
+
+
+In Cree, as in all other savage dialects, the verb plays a large role, as everything conjugates with it, substantives, adverbs, etc., e.g. Kijemanito, God; Kijemanitowiw, He is God; kisiwâk, close; kisiwâkiwiw, it is close. There are no auxiliaries to be and to have, as in French, but they are replaced by a postfix which has the same value, by making it a verb. As one can see in the Grammar, the conjugation of the verb differs greatly from that of modern languages, in that direct and indirect actors are not expressed by a pronoun, but by the ending of the verb itself. This manner of speaking increases the number of (verbal) voices, always in a regular fashion. The animate or inanimate object also changes the form of the verb, doubt is also expressed by its own ending for each of these cases, and you shall soon have a quite complicated table of endings which might frighten off even the courageous at first glance.
+
+
+There is, in these languages, a multitude of expressions which do not change, and which have an admirable strength by the uses one makes of them; to grasp the meaning and manner of using (these words) is an entire study in itself, and whenever they present themselves, we will explain them to the best of our ability.
+
+
+There are a certain number of prefix and postfix particles, which hold the genius of this language, and which have the effect of giving expressions an energy altogether characteristic of the language. These particles are to speech what varnish is to a painting.
+
+
+In Cree, there are no difficult sounds, as in certain other tongues. The pronunciation is soft and easy. As to the alphabet, or the number of our letters required to express all of the sounds of this language, see what I have said to this effect in the preface of the Grammar.
+
+
+We will, however, observe that all letters here are pronounced, that is to say, there are no silent or acquiescent letters; further, their pronunciation is neither flexible nor mobile, rather, they conserve the same value everywhere, with the exception that vowels are sometimes long and other times short, an important thing to be noted at all times, seeing as this difference may change the entire meaning of a sentence.
+
+
+I must furthermore observe that there are, in Cree, two sounds which must be paid special attention; firstly, the suffix of the active animate verb hwew, as the h is slightly aspirated, e.g. nâtahwew, he goes towards him, or, he goes to search for it, by water, or, on the water; secondly, the third person subjunctive of the passive verb, whose ending I write with an h to distinguish from the first person singular subjunctive, formed from third to first. E.g. e sâkihith, seeing as he is liked; e sâkihit, seeing as he likes me; e wâbamith, as he is seen; e wâbamit, as he sees me
+
+
+In contrast with the old manner of writing savages languages by missionaries in Canada, I have believed it necessary to make use of w, rather than ou, or 8. Without wishing to claim myself elevated as the master of these wise Indianologues, I have adopted this letter from the English alphabet because all of the missionaries of the North-West have already made use, and continue today to make use, of this sign in writing Savage.
+
+
+In the Cree language, though words and expressions may multiply themselves unto infinity, they may nonetheless all be reduced to some roots, or radicals, from which are formed all verbs, nouns, adjectives, etc., etc. The root words are few in number, in comparison with the others. I call the parts of the word which do not change the root, e.g. in sâkihew, he likes him, sâk is the root, because it is this part which is always the same, in all different conjugations of the word to like.
+
+
+To possess the mechanism or the accent of the Cree language, it is insufficient to be familiar with the Cree dictionary and to know the grammar, rather, one must also reside with the Cree and hear them speak, in doing so, trying to grasp the various turns of phrase. Without this, one might perhaps speak Cree and make oneself understood, but one will not succeed in having the spirit of the language. The manner of expressing oneself is quite different in harangues, in supplications, etc., and in ordinary conversation. There is a particular phraseology in narrations of past events and another for that which is occurring presently, and similarly, when discussing dreams and ideas of superstition. It is only a long period of habitation among the savages, with long effort, which may render someone a true Indianologue
+
+
+Before finishing these observations, I must say that I will add some others which will be like a key in this Dictionary, indicating the process that was followed to compose it.
+
+
+COMPARATIVE TABLE
+
+
+Of changes which are undergone, in the Algic languages, to the letters y, r, th, l ,n.
+
+
+                                        me - you - he
+Cree properly says . . . . . . . . . . . . . . . .  niya - kiya - wiya
+Athabaskaw Cree . . . . . . . . . . . . . .  nira - kira - wira
+Almost all Woods Cree . . . . . . . . . .  nitha - kitha - witha
+Labrador Cree . . . . . . . . . . . . . . . . . nila - kila - wila
+Maskegon . . . . . . . . . . . . . . . . . . . .  nina - kina - wina 
+Algonquin and Salteaux . . . . . . . . .  nin - kin - win
+Cree properly says . . . . . . . . . . . . . Ni-miweyitten - I am happy
+Athabaskaw Cree . . . . . . . . . . . . . . Ni-miweritten - “”
+All Woods Cree . . . . . . . . . . . . . . . Ni-miwethitten - “”
+Labrador Cree . . . . . . . . . . . . . . . . Ni-miwelitten - “”
+Maskegon . . . . . . . . . . . . . . . . . . . Ni-miwenitten - “”
+Salteaux and Algonquin . . . . . . . . Ni-minwendân - “”
+Namawiya - no - not
+Namawira - “”
+Namawitta - “”
+Namawila - “”
+And so on, in all words where the Cree y is replaced by r, th, l, or n, according to the different dialects above
+
+
+EXPLANATIONS FOR THE RATIONALE OF THE” DICTIONARY OF THE CREE LANGUAGE”
+
+
+It is not by the number of words that the richness of a language must be calculated, but by their value and the ideas which they express. This vulgar truth suffices to explain the importance of this study. It is for this reason that, in this dictionary, we will strive to achieve comprehension, through numerous examples, of the value and strength certain words, particularly adverbs, some of which contain a meaning which we could only express in our modern languages through an entire sentence.
+
+
+The nature of the Cree language, and also of other savage languages of North America, provides us yet another degree of this importance. Poor in their number of radical words, this language must supplement its needs by the variety of its meanings. This variant is marked above all by a multitude of particles and verbal and adjectival endings, which, by joining with a root, modify the meaning by completing it, or by transporting it to another theatre. There are endings, in verbs, substantives, and adjectives, which indicate thought, nature, the action of sight, of hearing, of speaking, of touching, of movement, of walking, the action of feet, etc., etc., e.g.:
+
+
+Nissitaweyittam, he recognises it in his thought
+Nissitawinam, “ “ “ by sight
+Nissitottam, “ “ “ by hearing
+Nissitonam, “ “ “ by touching it with the hand
+Nissitoskam, “ “ “ with the foot
+
+
+This suffixes take another form if one speaks of animate objects
+
+
+To determine the meaning of a word, one must consider if from two points of view, the logical, and the grammatical. As to the former, the analysis of the ideas of which the meaning of the word is composed is the guide which must be followed; for the second, the examination of its etymology is the principal means employed, e.g.
+
+
+Ayamihestamâwew, he speaks in his favour; ayamiw, he speaks.
+This word is used for, he prays for him, from, ayamihaw, he prays; ayamittaw masinahigan, he speaks to the book, for, he reads a book, etc. The radical is ayamiw, he speaks, of an indefinite nature.
+
+
+Like modern languages, the Indian languages have onomatopoeia, which are words which are named after the sounds of the objects to which they refer, e.g., kâkâkiw, raven, after its cry, ka-ka; âhâsiw, crow, etc., etc.
+
+
+By reading our grammar in reflection, one shall be convinced that these languages are formed with much more regularity than one is initially inclined to believe. One will see that words (nouns, for example) are susceptible to being arranged, according to their suffixes, into various essentially distinct classes. In this way, the suffix -gan provides the idea of a tool or instrument; pâskisigan, instrument for shooting (rifle), and a multitude of other examples, as is indicated in the grammar. 
+
+
+It is assumed that whoever wishes to make use of the Cree dictionary already has some notion of the grammar, without which its use would be very difficult, particularly pertaining to verbs.
+
+
+We are greatly committed to drawing one’s attention to the following remarks and observations, which shall provide the values of the letters which make up our alphabet, or the number of sounds appropriate to this dialect. The Cree language is perhaps the savage language with the fewest sounds, and by consequence requires the fewest letters in order to be written, as one has been able to see.
+
+
+First Note - All vowels are pronounced and accentuated. Thus, opime, sisone, are pronounced opimé, sisoné
+
+
+Second Note - They are either long or short. When they are pronounced as long, they are accompanied by a circumflex accent, if not, they must be seen as short. This is in reference to the vowels included within the word, for when they are final, they are always long. This note is very important, as it is on this that the various and diverse meanings of many words written in the same manner depend, the difference between which one can only recognise by a pronunciation which is more or less accentuated, e.g.
+
+
+ispattâw - he raises it high - ispattaw, he runs there
+wanîhuw, he disguises himself - wanihuw, he loses himself
+kiskinowâtatchâkwew - he has a marked soul
+kiskinowâtatchakwew - he leads himself by the stars
+kisîpayiw . . . . . . . . . . . it goes quickly
+kisipayiw . . . . . . . . . . .  it finishes there
+nîpiy . . . . . . . . . . . . . . . a leaf
+nipiy . . . . . . . . . . . . . . . water
+
+
+Third Note - When, in the Dictionary, one finds a syllable, vowel, or consonant after the word and separated from it by a comma, this suffix indicates the plural, the formation of which one may see in the grammar: e.g., masinahigan, a, a book, books; mikisis, ak, bead, beads; niska, k, bustard, bustards; iskwew, ok, woman, women; mistatim, wok, horse, horses. Thus, for the plural, you must say: masinahigana, mikisisak, niskak, iskwewok, mistatimwok.
+
+
+Fourth Note - In the French-Cree dictionary, all that is savage is written in italic characters for ease of reading, aside from active animate and inanimate verb suffixes, which will be in Roman.
+
+
+Fifth Note - In verbal adjectives and neutral verbs, the plural is indicated like with the nouns
+
+
+Sixth Note - In active verbs, only the active animate and active inanimate modes are indicated, in contrast to the Cree-French dictionary, in which the indefinite animate and indefinite inanimate are also indicated, e.g., sâkihew, ttaw, he likes him; wâbamew, ttam, he sees him, which means: sâkihew, he likes him; sâkittaw, he likes it; wâbamew, he sees him; wâbattam, he sees it
+
+
+Seventh Note - Abbreviations
+
+
+an . . . . . . . . . . .  animate
+In  . . . . . . . . . . .  inanimate
+adv  . . . . . . . . . .  adverb
+prép  . . . . . . . . .  preposition
+conj  . . . . . . . . . . conjunction
+v. n.  . . . . . . . . . . neutral verb
+v. a.  . . . . . . . . . . active verb
+v. im.  . . . . . . . . . impersonal
+
+
+Eighth Note - After the French word, one ordinarily finds many synonyms, but it is always the first translation which is the closest approximation of the French.
+
+
+Ninth Note - One could have doubled the length of this dictionary by joining together all of the words which are susceptible to being formed from the radicals, but we did not see fit to do this because of the cost of printing, particularly because, with the grammar, one can form these (words) according to one’s needs
+
+
+At present, we may spare a few words on the use of w, so often used in this book. We have thought it necessary to retain this letter, as it is used today by all those which study the languages of our savages, and who write the Cree language, Canadian or English, missionary or explorer. This letter has two pronunciations, as one can see in the alphabet. We would have been able to use another sign, but without mentioning the numerous difficulties, we always had to come back to the sound of w, particularly for the connective or euphony, e.g., minahikwâttik; attik is joined to minahik by w, for the sake of euphony. When the w is at the end of a word, it has the pronunciation of u and ou, and immediately resumes its English pronunciation as soon as the vowel joins with it, pimuttew is pronounced pimutteou, he walks, pimuttewok, they walk; wabamaw (wabamaou), he is seen; wabamawok, they are seen.
+
+
+Tenth Note - The animate or inanimate adjective suffix, as with the verb suffix, is ordinarily indicated by Roman characters
+
+
+Eleventh Note - Sometimes, plurals are doubled, ok, or, a, as certain words are susceptible to sometimes having one, and other times the other: e.g. mistikwok, living trees; mistikwa, dead trees, wood, sticks; miyopayiwok, they succeed well; miyopayiwa, these things go well; it is thus written in the dictionary: mistik, wok, wa; miyopayiw, ok, a.
+
+
+We urge those who wish to make use of this dictionary to first read the alphabet and the grammar, to better grasp the value of the letters.
+
+
+A MISSIONARY OF SASKATCHEWAN

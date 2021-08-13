@@ -1,0 +1,55 @@
+﻿INTRODUCTION
+
+
+TO THE
+
+
+CREE-FRENCH DICTIONARY
+
+
+-----
+
+
+   This second dictionary has offered much more significant difficulties than the first, where one needed only follow the alphabetical order of the French words, indicated in the French Dictionary, by contrast, this is a first attempt, which has demanded due time and perseverance. This is the method that we have followed, to place as many of the words in alphabetical order as possible. To begin, we place the root, or, radical, with meaning that is most often heard, and afterwards all of the words which belong to this root. In searching for a word, rather than stringently following alphabetical order, one should locate the desired radical and then search in the series of words which follow. One will find at the end of this dictionary a list of all of the roots used here, as well as all kinship terms, and all expressions referring to the parts of one’s body. The reason that has stopped us from placing these words in the main body of the Dictionary is that these nouns are very rarely used in the indefinite, and are ordinarily employed with possessive pronouns; it appears most useful to place all them together. Upon reading the Grammar, one shall be convinced of our justification. It is very likely that one shall encounter in this second dictionary certain words written in a specific way in one instance, and the other uses in a different way. This may come in part from the printers, who, entirely ignorant of the language, may have taken one vowel for another, and in spite of the greatest possible care to ensure the correctness of the proof sheets, one should not be surprised in this first edition to see the inclusion of some errors.  We ask, therefore, that you be lenient and consider our intentions in conducting this enterprise, in spite of faults, to provide a work which may be of some utility to missionaries, and of interest to philologers.
+
+
+NOTES
+
+
+1 - In contrast with the first Dictionary, we have printed the Cree words here in Roman letters, and the French translations in italics, to facilitate ease of reading.
+
+
+2 - In all active verbs, four forms are given, firstly animate, secondly inanimate, thirdly indefinite animate, fourthly indefinite inanimate.
+
+
+3 - The part of the word which comes before the verb-suffixes is written in capital letters, and the rest, as well as the transitions, are in half-capitals.
+
+
+4 - Verbal adjectives, animate or inanimate, are arranged in the same fashion as the verbs.
+
+
+5 - All derivations of the root are preceded by the sign «
+
+
+6 - Roots are always preceded by the sign +
+
+
+-----
+
+
+ABBREVIATIONS
+
+
+Rac - Root
+A.A. - Animate Adjective
+A.I. - Inanimate Adjective
+A.V. - Verbal Adjective
+V.A. - Active Verb
+V.N. - Neutral Verb
+Adv - Adverb
+Prép - Preposition
+In - Interjection
+N.F. - Regular Noun (?) [Translators Note: The original term, ‘nom formé’, literally translates as ‘formed noun’, and I could find no documentation as to what this means in a modern linguistic context.)
+V.R. - Reflexive Verb
+V.M. - Mutual Verb
+N.R. - Root Noun
