@@ -1,0 +1,64 @@
+regex [ B | P | T | K | G | M | N | W | H | Y | J | C ] ;
+define Consonant
+
+regex KK -> (h) k ;
+define kDegemination
+
+regex TT -> (h) t ;
+define tDegemination
+
+regex SS -> s ;
+define sDegemination
+
+regex [ kDegemination .o. tDegemination .o. sDegemination ] ;
+define Degemination
+
+regex A -> [ a | â ] ;
+define aLengthening
+
+regex I -> [ i | î ] ;
+define iLengthening
+
+regex O -> [ o | ô ] ;
+define oLengthening
+
+regex [ aLengthening .o. iLengthening .o. oLengthening ] ;
+define VowelLengthening
+
+regex G -> k ;
+define gDevoicing
+
+regex B -> p ;
+define bDevoicing
+
+regex Z -> s ;
+define zDevoicing
+
+regex [ gDevoicing .o. bDevoicing .o. zDevoicing ] ;
+define Devoicing
+
+regex T C H -> c ;
+define tchSimplification
+
+regex T J -> c ;
+define tjSimplification
+
+regex [ tchSimplification .o. tjSimplification ] ;
+define Simplification
+
+regex J -> s ;
+define jConversion
+
+regex U -> o ;
+define uConversion
+
+regex .#. I Y I -> yî ;
+define iyiConversion
+
+regex [ jConversion .o. uConversion .o. iyiConversion] ;
+define Conversion
+
+regex 0 -> i s || Consonant S _ ;
+define isInsertion
+
+regex [ Degemination .o. VowelLengthening .o. Devoicing .o. Simplification .o. Conversion .o. isInsertion ] ;
